@@ -6,7 +6,7 @@ Contributing
 ------------
 ### Help decide how to store this data
 
-In addition to copy/pasting the text of ads into txt files, is it worthwhile to provide some standard metadata for each? if so, what is that? what file naming scheme should we adopt? We need to figure this out before adding too many listings.
+In addition to copy/pasting the text of ads into txt files, is it worthwhile to provide some standard metadata for each? if so, what is that? what file naming scheme should we adopt? We need to figure this out before adding too many listings. Right now, files are named date-institution-position.txt, with underscores between words in institution names and position titles, and hyphens separating each type of information.
 
 ### Adding job listings to the repository
 1. Fork the repository
