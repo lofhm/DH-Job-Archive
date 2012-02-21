@@ -46,7 +46,7 @@ table {
 /* Some site-specific magic */
 
 body {
-  background: #FFCC00;
+  background: #eaf2f5;
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif; }
 
 h1 {
@@ -82,7 +82,7 @@ h4 {
   background: #FFF;
   width: 700px;
   margin:0px auto;
-  padding: 20px 0 20px 0;
+  padding: 20px;
   margin: 10px auto;
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
