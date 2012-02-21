@@ -27,9 +27,6 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
-ol, ul {
-	list-style: none;
-}
 blockquote, q {
 	quotes: none;
 }
@@ -82,10 +79,19 @@ h4 {
   background: #FFF;
   width: 700px;
   margin:0px auto;
-  padding: 20px;
+  padding: 30px;
   margin: 10px auto;
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
   -moz-box-shadow: 0 0 1px #cccccc;
   -webkit-box-shadow: 0 0 1px #cccccc;
   box-shadow: 0 0 1px #cccccc; }
+
+p, li {
+	padding: 0 5px; }
+
+ul {
+  list-style: disc; }
+
+li {
+  margin-left: 15px; }
