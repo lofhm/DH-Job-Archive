@@ -6,13 +6,13 @@ title: The Digital Humanities Job Archive
 <div id="container">
     <h1>DH Job Listings</h1>
     <div class="description">
-        A repository of jobs listed as relating to digital humanities. Not designed to be a source of the latest and greatest positions, but an archive of how we describe DH positions.
+        <p>A repository of jobs listed as relating to digital humanities. Not designed to be a source of the latest and greatest positions, but an archive of how we describe DH positions.</p>
     </div>
     <ul class="listings">
-        <li style="list-style: none">{% for post in site.posts %}</li>
+        {% for post in site.posts %}
         <li>
             <span>{{ post.date | date_to_string }}</span> - <a href="/DH-Job-Archive{{ post.url }}">{{ post.title }}</a>
         </li>
-        <li style="list-style: none">{% endfor %}</li>
+        {% endfor %}
     </ul>
 </div>
