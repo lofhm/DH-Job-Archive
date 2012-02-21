@@ -1,6 +1,6 @@
 ---
 layout: listing
-title: Tenure-Track Assistant Professor, Digital Humanities
+title: University British Columbia Tenure-Track Assistant Professor, Digital Humanities
 ---
 
 
