@@ -1,5 +1,5 @@
 ---
-layout: posting
+layout: listing
 Title: Stanford Digital Humanities Developer
 ---
 
