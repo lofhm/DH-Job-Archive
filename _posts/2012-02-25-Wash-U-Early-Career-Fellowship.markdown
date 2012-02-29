@@ -1,6 +1,6 @@
 ---
 layout: listing
-title: Mark Steinberg Weil Early Career Fellowship in Digital Humanities at Washington University in St. Louis
+title: Fellowship in Digital Humanities at Washington University in St. Louis
 ---
 
 # Mark Steinberg Weil Early Career Fellowship in Digital Humanities at Washington University in St. Louis
