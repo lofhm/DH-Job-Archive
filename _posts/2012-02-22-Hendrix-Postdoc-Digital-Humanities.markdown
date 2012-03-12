@@ -37,4 +37,4 @@ Arkansas, thirty miles from Little Rock at the foothills of the Ozark
 Mountains. The College, related to the United Methodist Church, has a
 strong commitment to excellence in teaching liberal arts. Hendrix is an
 equal opportunity employer. Women and members of minority groups are
-especially encouraged to apply. Please visit our website at www.hendrix.edu.
+especially encouraged to apply. Please visit our website at <http://www.hendrix.edu>.
