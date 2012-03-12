@@ -1,7 +1,7 @@
---
+---
 title: Coordinator / Assistant Director @ Electronic Cultures Lab UVictoria
 layout: listing
---
+---
 
 # The ETCL Seeking a Coordinator / Assistant Director!
 

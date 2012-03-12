@@ -1,7 +1,7 @@
---
+---
 title:
 layout: listing
---
+---
 
 #Canada Research Chair (Tier 1)
 

@@ -1,7 +1,7 @@
---
+---
 title: Postdoctoral Fellowship in Digital Classics at Dickinson College
 layout: listing
---
+---
 
 # Postdoctoral Fellowship in Digital Classics at Dickinson College
 
