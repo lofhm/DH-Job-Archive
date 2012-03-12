@@ -25,7 +25,7 @@ A PhD in classical studies and a strong interest in and experience with digital 
 Cover Letter  
 Curriculum Vitae  
 
-## Special Instructions
+### Special Instructions
 All candidates should submit a letter of application and a curriculum vitae by April 20, 2012. 
 
 Three letters of reference letters are required and may be uploaded at the time of your application, or you may provide email addresses on the REFERENCE TAB of the job site and we will send request for material to them. However, the three letters of reference must be submitted by the application deadline. Review of applications will begin April 9 and will continue until the position it closed or filled. 
