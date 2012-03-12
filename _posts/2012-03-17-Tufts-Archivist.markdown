@@ -22,5 +22,6 @@ ALA-accredited MLS with concentration in Archives Management or related advanced
 Experience with at least one programming or scripting language, such as Perl; some experience with database manipulation; knowledge of XML, HTML, CSS, digital imaging, and metadata and digital object creation and preservation standards. Ability to work in both Windows and Apple OSX environments. Comfort with learning new technologies on an ongoing basis.
 
 ###Preferred Qualifications: 
-Strong written and oral communication skills; ability to function in a highly collaborative environment with many simultaneous projects. Familiarity with digital repository systems, particularly Fedora, a plus. Knowledge of Ruby on Rails, MySQL, JQuery, Catalyst, a plus.
+Strong written and oral communication skills; ability to function in a highly collaborative environment with many simultaneous projects. Familiarity with digital repository systems, particularly Fedora, a plus. Knowledge of Ruby on Rails, MySQL, JQuery, Catalyst, a plus.  
+
 Tufts University is an AA/EO employer and actively seeks candidates from diverse backgrounds.
