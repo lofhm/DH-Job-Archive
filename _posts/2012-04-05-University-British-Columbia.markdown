@@ -1,3 +1,8 @@
+---
+published: false
+---
+
+
 Faculty of Creative and Critical Studies
 Tenure-Track Assistant Professor, Digital Humanities
 
