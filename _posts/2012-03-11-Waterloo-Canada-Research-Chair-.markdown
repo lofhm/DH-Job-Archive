@@ -1,11 +1,11 @@
 ---
-title:
 layout: listing
+title: Canada Research Chair (Tier 1)
 ---
 
 #Canada Research Chair (Tier 1)
 
-##Digital Media and Digital Cultures
+## Digital Media and Digital Cultures
 
 The University of Waterloo's Faculty of Arts is seeking applicants for a unique Tier I Canada Research Chair position. The successful candidate will pursue outstanding research exploring impacts of human and social factors on the design, development, distribution, and/or reception of digital media technologies. While excelling in his/her own particular field of expertise, the successful candidate will also bring to the position a demonstrated commitment to interdisciplinary, trans-disciplinary and collaborative research, and will articulate an exceptional, long-term research agenda. S/he will develop an exemplary scholarly and creative presence, complement current research and scholarship by faculty and graduate students, and participate in local, national, and international research networks.
 

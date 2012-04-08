@@ -3,11 +3,9 @@ layout: listing
 title: University British Columbia Tenure-Track Assistant Professor, Digital Humanities
 ---
 
-
 # Tenure-Track Assistant Professor, Digital Humanities
 
 * [Original Link](http://www.ubc.ca/okanagan/hr/careers/faculty/tenuretrack.html#fccs)
-
 
 The Faculty of Creative and Critical Studies at the University of British Columbia’s Okanagan campus invites applications for a tenure-track position in the interdisciplinary field of Digital Humanities. The appointment will be at the level of Assistant Professor and will begin on July 1, 2012. 
 

@@ -5,8 +5,7 @@ title: Digital Preservation Programmer, University of North Texas Libraries
 
 # Digital Preservation Programmer, University of North Texas Libraries
 
-
-*  Original Link: <https://jobs.unt.edu/applicants/jsp/shared/frameset/Frameset.jsp?time=1331518223071>
+*  [Original Link](https://jobs.unt.edu/applicants/jsp/shared/frameset/Frameset.jsp?time=1331518223071)
 *  Requisition Number:	 120308  
 *  Job Title:	 IT Programmer Analyst II  
 *  Official Title:	 IT Programmer Analyst II  

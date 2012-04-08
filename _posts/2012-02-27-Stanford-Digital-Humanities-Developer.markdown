@@ -1,6 +1,6 @@
 ---
 layout: listing
-Title: Stanford Digital Humanities Developer
+title: Stanford Digital Humanities Developer
 ---
 
 # Digital Humanities Developer

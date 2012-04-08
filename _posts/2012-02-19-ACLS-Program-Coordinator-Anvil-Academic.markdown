@@ -5,7 +5,6 @@ title: ACLS Program Coordinator and Analyst, Anvil Academic Publishing
 
 # Program Coordinator and Analyst, Anvil Academic Publishing
 
-
 *  [Original link](http://www.acls.org/uploadedFiles/Fellowships_and_Grants/Competitions/1112_PublicFellows_CLIR.pdf)
 *  Job Title: Program Coordinator and Analyst, Anvil Academic Publishing 
 *  Organization: Council on Library and Information Resources (CLIR)

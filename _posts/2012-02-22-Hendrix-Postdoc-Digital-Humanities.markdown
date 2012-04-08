@@ -1,6 +1,6 @@
 ---
 layout: listing
-Title: Hendrix Postdoctoral Fellow in Digital Humanities and Pedagogy
+title: Hendrix Postdoctoral Fellow in Digital Humanities and Pedagogy
 ---
 
 # Postdoctoral Fellow in Digital Humanities and Pedagogy
