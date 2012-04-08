@@ -6,13 +6,13 @@ title: Postdoctoral Fellowship in Digital Classics at Dickinson College
 # Postdoctoral Fellowship in Digital Classics at Dickinson College
 
 *  [Original Link](https://jobs.dickinson.edu/applicants/jsp/shared/frameset/Frameset.jsp?time=1331517348688)
-*  Posting Number:	 0600480  
-*  Position Type:	 Faculty  
-*  Position Title:	 Postdoctoral Fellowship in Digital Classics  
-*  Department:	 Classical Studies  
-*  Division:	 Academic Affairs  
+*  Posting Number: 0600480  
+*  Position Type: Faculty  
+*  Position Title: Postdoctoral Fellowship in Digital Classics  
+*  Department: Classical Studies  
+*  Division: Academic Affairs  
 *  Full-Time/Part-Time:	Faculty  
-*  Pay Grade Level:	 Faculty
+*  Pay Grade Level: Faculty
 
 ## Summary
 Applications are invited for a one year postdoctoral fellowship for the 2012-2013 academic year in classical studies and digital humanities at the Department of Classical Studies at Dickinson College. The position calls for teaching one classical studies course per semester (Classical Mythology in the Fall, Ancient Worlds on Film in the Spring). In addition to teaching and pursuing his or her own research, the successful candidate will be expected to make substantive contributions to the ongoing development of the digital project Dickinson College Commentaries. The DCC integrates text, historical data, literary and interpretive perspectives, and graphic, video and audio elements, with the goal of making classical texts richer and more accessible to readers of Latin and Greek. This project is flexible enough that it is anticipated that work on the DCC will likely be complementary with the Fellow's research interests. The Fellow will collaborate with an assigned Dickinson faculty mentor and paid student assistants working on the DCC.  
