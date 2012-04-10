@@ -1,0 +1,39 @@
+Source: https://chicagostate.peopleadmin.com/postings/5011
+
+Digital and Web Services Librarian Coordinator
+
+Employee Class: Administrator
+Department: Technical Services
+Full-time/ Part-time: Full-time
+Hours Per Week: 40
+Anticipated Start Date: 11/16/2011
+
+Job Summary:
+Functioning under administrative direction in the library technical services department, employee works to set up, design, maintain, and support library web systems including web server, web pages, distributed web content provisioning, web applications, and electronic resource access through library webs and digital libraries including digitization and incorporation of library materials.
+
+Characteristic Duties and Responsibilities:
+1. Responsible for set up, design, maintenance, and support of web server systems, web page design and publishing systems, web site architecture and design, and other web-related applications for library services;
+2. Responsible for availability of library electronic services and preserving accessibility through library web server and site resource infrastructure;
+3. Conducts digitization to expand and maintain digital library content;
+4. Represents the unit on various internal/external committees regarding library web technology and web services;
+5. Provides comprehensive administrative reports and detailed analyses of library web services;
+6. Capable of providing direct and/or indirect supervision of lower level staff;
+7. Performs other related duties as assigned
+
+Minimum Qualifications:
+1. Master’s degree of Library and Information Science or equivalent degree (e.g. Computer Science, Information Systems, Web Development, Electrical Engineering, etc.) with work experience at libraries or information agencies
+2. Bachelor’s degree in information systems or computer science or equivalent work experience on information technology systems;
+3. At least two years of work experience in advanced web design and support with detailed knowledge of UNIX/LINUX systems administration and Content Management Systems with training of users
+
+Preferred Qualifications:
+1. Design experience with entity relationship diagrams and working knowledge of relational databases, with MySQL preferred;
+2. Work experience with web applications, digitization software, CMS administration using Adobe Contribute, Dreamweaver, and CONTENTdm.
+
+Knowledge, Skills and Abilities:
+1. Knowledge of management principles, practices, methods, and techniques.
+2. Supervisory and administrative abilities.
+3. Decision making ability.
+4. Ability to work effectively with others in multiple duties.
+
+Special Instructions to Applicants:
+In addition to a standard resume and references, examples of past work (e.g. newsletters, course materials, presentations, etc.) will be required if invited for an interview.
