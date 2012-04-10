@@ -4,7 +4,7 @@ A repository of jobs listed as relating to digital humanities. Not designed to b
 
 Contributing
 ------------
-All of the action is on the gh-pages branch of the repository, so "check" that out.
+All of the action is on the ***gh-pages*** branch of the repository, so "check" that out.
 New job listing are currently Markdown files living in the _posts/ directory. Look at some existing examples to get an idea of how we are structuring the listings. Right now we are letting the structure of the listing determine the markup, someday we'll have some actual structure, someday.
 
 ### Adding job listings to the repository
