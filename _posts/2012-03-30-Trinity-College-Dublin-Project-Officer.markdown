@@ -1,9 +1,9 @@
 ---
 layout: listing
-title: Project Officer / Administrative Officer
+title: Trinity College Dublin Project Officer / Administrative Officer
 ---
 
-# Project Officer / Administrative Officer
+# Trinity College Dublin Project Officer / Administrative Officer
 
 *  [Original Link](https://jobs.tcd.ie/pls/corehrrecruit/docs/0000036895.pdf)
 * Post Title:  Project Officer / Administrative Officer 

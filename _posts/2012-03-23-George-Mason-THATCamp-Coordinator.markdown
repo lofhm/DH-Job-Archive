@@ -1,9 +1,9 @@
 ---
 layout: listing
-title: Assistant THATCamp Coordinator
+title: George Mason Assistant THATCamp Coordinator
 ---
 
-# Assistant THATCamp Coordinator
+# George Mason Assistant THATCamp Coordinator
 
 *  [Original Link](http://thatcamp.org/03/23/were-hiring-an-assistant-thatcamp-coordinator/)
 
