@@ -1,6 +1,6 @@
 ---
 layout: listing
-title: JISC Programme Manager e-Content: Digitisation
+title: JISC Programme Manager e-Content Digitisation
 ---
 
 # The Joint Information Systems Committee (JISC) Programme Manager e-Content: Digitisation
