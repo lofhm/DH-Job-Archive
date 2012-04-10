@@ -3,16 +3,20 @@ layout: default
 title: The Digital Humanities Job Archive
 ---
 
-<div id="container">
-    <h1>Digital Humanities Job Listings</h1>
-    <div class="description">
-        <p>A repository of jobs listed as relating to digital humanities. Not designed to be a source of the latest and greatest positions, but an archive of how we describe DH positions.</p>
-    </div>
-    <ul class="listings">
-        {% for post in site.posts %}
-        <li>
-            <span>{{ post.date | date_to_string }}</span> - <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
-        {% endfor %}
-    </ul>
+<h1>Digital Humanities Job Archive</h1>
+
+<div class="description">
+	<p>The DH Jobs Archive is a repository of jobs listed as relating to digital humanities.</p>
+	
+	<p>Listings are increasingly featured on community sites such as DHNow or circulating on Twitter. However, many of these listings appear only for a brief time before being taken offline. Listservs including Humanist act as the best existing archival source for listings within the community, however jobs are not easily searched, inconsistently mentioned, and lack structure making programmatic analysis difficult. This project is an effort to consolidate and archive those job listings, hopefully leading enabling future publications and computational analysis of job listings within the community.</p>
+		
+	<p><strong>Want to contribute?</strong> Right now listings are markdown files <a href="https://github.com/lofhm/DH-Job-Archive/tree/gh-pages">on Github</a>, and we encourage people to fork the repository and issue pull requests. We've also create a <a href="https://docs.google.com/spreadsheet/viewform?formkey=dDFkcnhfMHhIb3lYM0xHcXpnN0g0R2c6MQ#gid=0">submission form</a> for you to add listings that are currently missing.</p>
 </div>
+
+<ul class="listings">
+    {% for post in site.posts %}
+    <li>
+        <span>{{ post.date | date_to_string }}</span> - <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endfor %}
+</ul>
