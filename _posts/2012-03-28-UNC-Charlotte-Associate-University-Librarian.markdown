@@ -1,9 +1,9 @@
 ---
 layout: listing
-title: Associate University Librarian (AUL) for Special Collections
+title: UNC Associate University Librarian (AUL) for Special Collections
 ---
 
-# Associate University Librarian (AUL) for Special Collections
+# UNC Associate University Librarian (AUL) for Special Collections
 
 *  [Original Link](https://jobs.uncc.edu/applicants/jsp/shared/position/JobDetails_css.jsp?postingId=265954)
 * Position Number: 8730

@@ -1,13 +1,13 @@
 ---
 layout: listing
-title: Digital Technologies Development Librarian
+title: NC Digital Technologies Development Librarian
 ---
 
-# Digital Technologies Development Librarian
+# North Carolina State Digital Technologies Development Librarian
 
 *  [Original Link](http://lib.ncsu.edu/jobs/epa/dtdl/va)
 
-NORTH CAROLINA STATE UNIVERSITY LIBRARIES
+## NORTH CAROLINA STATE UNIVERSITY LIBRARIES
  
 The NCSU Libraries has a well-earned reputation for creating adventurous library spaces and innovative services that delight today’s students and researchers. The D. H. Hill Library combines the best of tradition and innovation, housing special collections and a beautiful gallery alongside vibrant, experiential spaces such as the Learning Commons and Technology Sandbox. Soon we will open a magnificent new library that promises to be nothing less than the best learning and collaborative space in the country. Located on NC State’s Centennial Campus, the James B. Hunt Jr. Library will be an iconic space, a place where people gather to explore new ways to research, learn, experiment, collaborate, and affect the world. Designed as a working incubator for educational technology, the Hunt Library will serve as a second “main library,” complementing the D. H. Hill Library, with services focused on the Centennial Campus community. If you are a person who would like to provide a new generation of library users with everything they can imagine and more, consider applying for the following position.
 

@@ -1,9 +1,9 @@
 ---
 layout: listing
-title: Project Manager, Canadian Writing Research Collaboratory
+title: University of Alberta Project Manager, Canadian Writing Research Collaboratory
 ---
 
-# Project Manager, Canadian Writing Research Collaboratory
+# University of Alberta Project Manager, Canadian Writing Research Collaboratory
 
 
 *  [Original Link](http://www.careers.ualberta.ca/Competition/A110417061/)

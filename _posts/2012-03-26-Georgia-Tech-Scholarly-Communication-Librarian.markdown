@@ -1,9 +1,9 @@
 ---
 layout: listing
-title: Scholarly Communication Librarian
+title: Georgia Tech Scholarly Communication Librarian
 ---
 
-# Scholarly Communication Librarian
+# Georgia Tech Scholarly Communication Librarian
 
 *  [Original Link](http://www.library.gatech.edu/about/jobs.php#sclib)
 

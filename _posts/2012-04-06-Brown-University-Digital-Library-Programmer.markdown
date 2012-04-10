@@ -1,9 +1,9 @@
 ---
 layout: listing
-title: Digital Library Programmer
+title: Brown Digital Library Programmer
 ---
 
-# Digital Library Programmer
+# Brown Digital Library Programmer
 
 *  [Original Link](http://careers.brown.edu/applicants/Central?quickFind=118614)
 * Job Title: Digital Library Programmer  

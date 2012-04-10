@@ -1,9 +1,9 @@
 ---
 layout: listing
-title: Digital Initiatives Librarian
+title: University Northern Colorado Digital Initiatives Librarian
 ---
 
-# Digital Initiatives Librarian
+# University Northern Colorado Digital Initiatives Librarian
 
 *  [Original Link](http://www.unco.edu/library/documents/PositionDescriptionDigitalInitiatives.pdf)
 

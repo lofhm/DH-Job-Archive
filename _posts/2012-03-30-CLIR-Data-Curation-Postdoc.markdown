@@ -1,9 +1,9 @@
 ---
 layout: listing
-title: Data Curation Postdoctoral Fellowship
+title: CLIR Data Curation Postdoctoral Fellowship
 ---
 
-# Data Curation Postdoctoral Fellowship
+# CLIR Data Curation Postdoctoral Fellowship
 
 *  [Original Link](http://www.clir.org/fellowships/datacuration)
 
