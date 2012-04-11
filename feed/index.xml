@@ -6,7 +6,7 @@ layout: rss-feed
 	<channel>
 		<title>DH Job Listings</title>
 		<description>This is a feed of Digital Humanities jobs.</description>
-		<link>jobs.lofhm.org</link>
+		<link>http://jobs.lofhm.org</link>
 		{% for post in site.posts limit:10 %}
 			<item>
 				<title>{{ post.title }}</title>
