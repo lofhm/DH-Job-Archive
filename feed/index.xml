@@ -4,9 +4,9 @@ layout: rss-feed
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 	<channel>
-		<title>{{ site.name }}</title>
-		<description>{{ site.description }}</description>
-		<link>{{ site.url }}</link>
+		<title>DH Job Listings</title>
+		<description>This is a feed of Digital Humanities jobs.</description>
+		<link>jobs.lofhm.org</link>
 		{% for post in site.posts limit:10 %}
 			<item>
 				<title>{{ post.title }}</title>
