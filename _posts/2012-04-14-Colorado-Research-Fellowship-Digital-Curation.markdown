@@ -1,6 +1,6 @@
 ---
 layout: listing
-title: Colorado Research Associate in Digital Humanities and Computational Criticism
+title: Colorado Research Two-Year Research Fellowship in Digital Curation
 ---
 
 
@@ -46,7 +46,7 @@ The salary would be US $50,000 per year for a two-year contract. Full
 faculty benefits would be provided for the period of the contract.
 
 Screening of applications will begin **May 1, 2012** and will continue until
-the position is filled. For guidelines on applying, go to: <http://www.jobsatcu.com>.
+the position is filled. For guidelines on applying, go to: <http:www.jobsatcu.com>.
 The job posting number is: 817241
 
 The University of Colorado Boulder is an equal opportunity employer
