@@ -9,10 +9,12 @@ link: http://www.jobs.ac.uk/job/AEI676/lecturer-in-digital-culture-and-society/
 * [Original Link]({{ page.link }})
 * Job Ref: A7/AAI/352/12-JM
 
+## Description
 In order to build on our successful work in digital culture, we are seeking to appoint one post at lecturer level to teach on our successful MA and PhD programmes, on possible future undergraduate programmes, and to conduct research.
 
 This is a joint appointment between the Department of Culture, Media and Creative Industries and the Department of Digital Humanities.
 
+## Qualifications
 The successful applicant may have expertise in any area of digital culture, but applicants with an interest in gaming, social networking and/or digital art will be particularly welcome. The successful applicant must show an ability to contribute to the Research Excellence Framework submission, and to contribute to the international excellence of the two departments' research and teaching.
 
 The closing date for receipt of applications is **24th May 2012**
