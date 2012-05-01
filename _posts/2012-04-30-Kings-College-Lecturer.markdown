@@ -6,7 +6,7 @@ link: http://www.jobs.ac.uk/job/AEI676/lecturer-in-digital-culture-and-society/
 
 # King's College London Lecturer in Digital Culture and Society
 
-* [Original Link}({{ link }})
+* [Original Link]({{ page.link }})
 * Job Ref: A7/AAI/352/12-JM
 
 In order to build on our successful work in digital culture, we are seeking to appoint one post at lecturer level to teach on our successful MA and PhD programmes, on possible future undergraduate programmes, and to conduct research.
