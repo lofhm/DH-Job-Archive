@@ -37,9 +37,10 @@ Reporting to: Head of School, or Head of School nominee
 6. Keep up to date with current developments in Digital Humanities with reference to the School's subject fields in order to assist in maintaining and developing the School's resources, through attendance at and contributions to relevant conferences and other venues (as resources allow). 
 
 7. In order to advise colleagues in the School on grant applications, be familiar with research policies and structures of the University and/or appropriate funding bodies as they apply to Digital Humanities.
+
 8. Undertake continuing professional development as relevant and appropriate to job.
 
-For appointment at Grade 7:
+#####For appointment at Grade 7:
 9. Provide specialist technical support and advice to School colleagues in relation to Digital Humanities bids to external funders, e.g. by providing detailed information for technical appendices.
 
 
@@ -64,7 +65,7 @@ C2. Ability to work with computing and non-computing staff while conveying techn
 C3. Proven initiative and judgement to resolve problems independently.
 C4. Ability to work on own initiative as well as part of a larger team.
 
-####Experience
+###Experience
 
 ####For appointment at Grade 6:
 E1  Evidence of progression and development gained, typically, through 4 years relevant work experience or 5/6 years without the qualifications specified above.
