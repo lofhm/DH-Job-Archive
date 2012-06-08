@@ -9,11 +9,11 @@ published: true
 # Temple University Digital Project LIbrarian
 
 * [Original Link]({{ page.link }})
-* Job Title: 	 Digital Projects Librarian
-* Job Number: 	 TU-15230
-* Campus: 	 Main Campus
-* Full/Part Time: 	 Full
-* Date Posted (External): 	 04/27/2012
+* Job Title: Digital Projects Librarian
+* Job Number: TU-15230
+* Campus: Main Campus
+* Full/Part Time: Full
+* Date Posted (External): 04/27/2012
 
 ## Description
 Working under the direction of the Head of Digital Library Initiatives, the Digital Projects Librarian manages a portfolio of digital library projects, providing the project management framework and technical know-how needed to complete projects successfully. S/he works in close collaboration with other librarians and archivists, metadata specialists, IT staff, scanning/digitization staff, external vendors, and partnering faculty.

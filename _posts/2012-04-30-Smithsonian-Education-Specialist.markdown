@@ -9,20 +9,18 @@ published: true
 # Smithsonian Institution Education Specialist
 
 * [Original Link]({{ page.link }})
-* Job Title:Education Specialist
-* Agency:Smithsonian Institution
+* Job Title: Education Specialist
+* Agency: Smithsonian Institution
 * Job Announcement Number: 12R-JW-297722-DEU-NMAH
-
-
 * SALARY RANGE:	$62,467.00 to $81,204.00 / Per Year
-* OPEN PERIOD:	Wednesday, April 25, 2012 to **Wednesday, May 09, 2012**
-* SERIES & GRADE:	GS-1701-11
+* OPEN PERIOD: Wednesday, April 25, 2012 to **Wednesday, May 09, 2012**
+* SERIES & GRADE: GS-1701-11
 * POSITION INFORMATION:	Full-Time, Permanent - Federal
 * PROMOTION POTENTIAL: 12
-* DUTY LOCATIONS:	1 vacancy(s) in the following locations: Washington, DC, USView * Map
+* DUTY LOCATIONS: 1 vacancy(s) in the following locations: Washington, DC, USView * Map
 * WHO MAY BE CONSIDERED: This position is open to all U.S. Citizens or U.S. Nationals.
 
-Note:  Federal employees with permanent status or individuals eligible for special appointing authorities should apply to Job Announcement #12R-JW-297722-MPA-NMAH.
+Note: Federal employees with permanent status or individuals eligible for special appointing authorities should apply to Job Announcement #12R-JW-297722-MPA-NMAH.
 
 ## Description 
 This position is located within the Department of New Media, in the Office of Education and Public Programs of the National Museum of American History.  The purpose of this position is to plan digital outreach initiatives that further the Museum's mission and goals; manage and contribute to the publication of the Museum's blog, social media, and e-mail communication; and evaluate and report on digital outreach and other new media initiatives.

@@ -1,6 +1,6 @@
 ---
 layout: listing
-title: Tate Project Manage, Transforming Tate Britian
+title: Tate Project Manager, Transforming Tate Britain
 link: http://workingat.tate.org.uk/pages/job_search_view.aspx?jobId=667&JobIndex=1&categoryList=&workingPatternList=&locations=&group=&keywords=&PageIndex=1&Number=6
 published: True
 ---
