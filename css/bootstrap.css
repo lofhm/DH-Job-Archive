@@ -1,3 +1,9 @@
+/* fixing the date on the index page */
+span.date {
+    font-family: Menlo, Monaco, "Courier New", monospace;
+}
+
+
 /*!
  * Bootstrap v2.0.2
  *
