@@ -23,7 +23,7 @@ CREATE TABLE `jobs` (
   `jobTitle` varchar(255) NOT NULL default '',
   `organization` varchar(255) NOT NULL default '',
   `country` varchar(50) NOT NULL default '',
-  `expiryDate` date NOT NULL default '0000-00-00',
+  `date` date NOT NULL default '0000-00-00',
   `closingDate` date NOT NULL default '0000-00-00',
   `description` text NOT NULL,
   `postedDate` timestamp NOT NULL default CURRENT_TIMESTAMP on update CURRENT_TIMESTAMP,
