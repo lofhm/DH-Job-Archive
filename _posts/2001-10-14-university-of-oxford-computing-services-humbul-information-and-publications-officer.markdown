@@ -1,6 +1,6 @@
 ---
 layout: listing
-title: University of Oxford, Computing services - <I>Humbul</I> Information & Publications Officer
+title: University of Oxford, Computing services - Humbul Information & Publications Officer
 link:
 country: United Kingdom
 subrEmail: 
