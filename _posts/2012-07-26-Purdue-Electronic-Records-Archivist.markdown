@@ -1,6 +1,6 @@
 ---
 layout: listing
-title: Digital Preservation and Electronic Records Archivist - West Lafayette - Libraries
+title: Digital Preservation and Electronic Records Archivist Purdue Libraries
 link: http://purdue.taleo.net/careersection/wl/jobdetail.ftl?lang=en&job=159100
 postdate: 2012-07-26
 published: true
