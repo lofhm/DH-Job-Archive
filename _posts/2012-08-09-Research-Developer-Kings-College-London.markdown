@@ -1,6 +1,6 @@
 ---
 layout: listing
-title: Research Developer, King’s College London
+title: Research Developer, King's College London
 link: http://www.kcl.ac.uk/depsta/pertra/vacancy/external/pers_detail.php?jobindex=12064
 postdate: 2012-08-09
 published: true
