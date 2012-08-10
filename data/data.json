@@ -15,4 +15,5 @@ layout: derp
   
 },
 {% endfor %}
+[]
 ]
