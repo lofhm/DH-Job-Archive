@@ -9,7 +9,7 @@ organization:  " Georg Brandes School at the Department of Nordic Studies and Li
 date: "2007-05-02"
 closingDate: ""
 jobTitle: "PhD fellowship in \"Textual criticism and the sociology of texts\""
-published:false
+published: false
 ---
 
 
