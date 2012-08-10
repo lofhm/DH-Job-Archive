@@ -1,6 +1,6 @@
 ---
 layout: listing
-title: Virginia Foundation for the Humanities – Associate Producer, BackStory with the American History Guys
+title: Virginia Foundation for the Humanities – Associate Producer - BackStory with the American History Guys
 link: http://jobs.virginia.edu/applicants/Central?quickFind=67906 
 postdate: 2012-08-07
 published: true
