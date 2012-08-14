@@ -1,6 +1,6 @@
 ---
 layout: listing
-title: Tenure Track Assistant, Associate, or Full Professor in Human Centered Design & Engineering
+title: Professor in Human Centered Design & Engineering - University of Washington
 link: http://hcde.uw.edu/employment#tenure_track_assistant_associate_professor_aug_2012
 postdate: 2012-08-10
 published: true
