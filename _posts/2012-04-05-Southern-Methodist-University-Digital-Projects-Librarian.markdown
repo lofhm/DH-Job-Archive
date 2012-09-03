@@ -5,9 +5,9 @@ link: http://digital-scholarship.org/digitalkoans/2012/04/04/digital-projects-li
 published: true
 postdate: 2012-04-05
 location:
-	name: Southern Methodist University
-	latitude: 32.84040
-	longitude: -96.78284
+    name: Southern Methodist University
+    latitude: 32.84040
+    longitude: -96.78284
 institution: Southern Methodist University
 organization: Library
 position: Digital Projects Librarian

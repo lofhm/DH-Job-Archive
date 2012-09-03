@@ -5,9 +5,9 @@ link: www.nyucareers.com/applicants/Central?quickFind=55408
 postdate: 2012-08-14
 published: true
 location:
-	name: New York University Libraries
-	latitude: 40.729431
-	longitude: -73.997322
+    name: New York University Libraries
+    latitude: 40.729431
+    longitude: -73.997322
 institution: New York University
 organization: Library
 position: Digital Library Publication and Access Manager

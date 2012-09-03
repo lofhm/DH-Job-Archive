@@ -11,9 +11,9 @@ jobTitle: Digital Humanities Specialist
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

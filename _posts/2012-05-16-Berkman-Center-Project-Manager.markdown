@@ -5,9 +5,9 @@ link: https://sjobs.brassring.com/1033/asp/tg/cim_jobdetail.asp?partnerID=25240&
 published: true
 postdate: 2012-05-16
 location:
-	name: Berkman Center for Internet & Society
-	latitude: 42.37996
-	longitude: -71.11798
+    name: Berkman Center for Internet & Society
+    latitude: 42.37996
+    longitude: -71.11798
 institution: Harvard University
 organization: Berkman Center for Internet & Society
 position: Project Manager

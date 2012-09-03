@@ -5,9 +5,9 @@ link: https://employment.unl.edu/applicants/jsp/shared/position/JobDetails_css.j
 postdate: 2012-08-16
 published: true
 location:
-	name: University of Nebraska-Lincoln
-	latitude: 40.818031
-	longitude: -96.701538
+    name: University of Nebraska-Lincoln
+    latitude: 40.818031
+    longitude: -96.701538
 institution: University of Nebraska-Lincoln
 organization: College of Arts & Sciences
 position: Assistant Professor

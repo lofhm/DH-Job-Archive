@@ -11,9 +11,9 @@ jobTitle: Head of the History Data Service
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

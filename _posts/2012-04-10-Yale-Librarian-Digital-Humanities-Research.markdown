@@ -5,9 +5,9 @@ link: https://sjobs.brassring.com/1033/ASP/TG/cim_jobdetail.asp?jobId=476898&par
 published: true
 postdate: 2012-04-10
 location:
-	name: Yale University
-	latitude: 41.306568
-	longitude: -72.929283
+    name: Yale University
+    latitude: 41.306568
+    longitude: -72.929283
 institution: Yale University
 organization: Library
 postition: Librarian for Digital Humanities Research

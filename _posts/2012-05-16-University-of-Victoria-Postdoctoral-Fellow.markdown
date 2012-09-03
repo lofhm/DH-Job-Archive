@@ -5,9 +5,9 @@ link: http://etcl-dev.uvic.ca/public/blogs/etclnews/2012/05/07/inke-call-for-pos
 published: true
 postdate: 2012-05-16
 location:
-	name: University of Victoria
-	latitude: 48.46342
-	longitude: -123.3125
+    name: University of Victoria
+    latitude: 48.46342
+    longitude: -123.3125
 institution: University of Victoria
 organization: The Implementing New Knowledge Environments (INKE) project
 position: Postdoc

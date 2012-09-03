@@ -5,9 +5,9 @@ link: http://library.osu.edu/documents/human-resources/jobs/Dig_Init_Ad.pdf
 postdate: 2012-07-03
 published: true
 location:
-	name: Ohio State University
-	latitude: 39.9945
-	longitude: -83.0185
+    name: Ohio State University
+    latitude: 39.9945
+    longitude: -83.0185
 institution: Ohio State University
 organization: Library
 position: Head of Digital Initiatives

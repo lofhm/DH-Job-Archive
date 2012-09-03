@@ -11,9 +11,9 @@ jobTitle: Marie Curie Senior Research Fellowship
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

@@ -11,9 +11,9 @@ jobTitle: Software Analyst/Programmer, User Interface - PAE2IT
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

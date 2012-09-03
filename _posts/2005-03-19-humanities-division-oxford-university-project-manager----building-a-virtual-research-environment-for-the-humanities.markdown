@@ -11,9 +11,9 @@ jobTitle: Project Manager -- Building a Virtual Research Environment for the Hum
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

@@ -5,9 +5,9 @@ link: http://www.jobs.ac.uk/job/AEI676/lecturer-in-digital-culture-and-society/
 published: true
 postdate: 2012-04-30
 location:
-	name: Kings College London UK
-	latitude: 51.512138
-	longitude: -0.116640
+    name: Kings College London UK
+    latitude: 51.512138
+    longitude: -0.116640
 institution: King's College London
 organization: Department of Culture, Media and Creative Industries and the Department of Digital Humanities
 position: Lecturer

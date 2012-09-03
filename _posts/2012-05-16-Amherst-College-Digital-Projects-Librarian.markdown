@@ -5,9 +5,9 @@ link: https://www.amherst.edu/system/files/DigitalProjectsLibrarian.pdf
 published: true
 postdate: 2012-05-16
 location:
-	name: Amherst College
-	latitude: 42.37089
-	longitude: -72.51601
+    name: Amherst College
+    latitude: 42.37089
+    longitude: -72.51601
 institution: Amherst College
 organization: Library
 position: Digital Projects Librarian

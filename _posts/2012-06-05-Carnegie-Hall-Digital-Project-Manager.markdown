@@ -5,9 +5,9 @@ link: http://www.carnegiehall.org/Information/Jobs/JobPost.aspx?id=4294987116
 postdate: 2012-06-05
 published: true
 location:
-	name: Carnegie Hall
-	latitude: 40.76518
-	longitude: -73.97945
+    name: Carnegie Hall
+    latitude: 40.76518
+    longitude: -73.97945
 institution: Carnegie Hall
 organization: Archives
 position: Digital Project Manager

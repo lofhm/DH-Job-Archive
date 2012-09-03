@@ -5,9 +5,9 @@ link: http://www.acls.org/uploadedFiles/Fellowships_and_Grants/Competitions/1112
 postdate: 2012-02-19
 published: true
 location:
-	name: Council on Library and Information Resources 
-	latitude: 38.904032
-	longitude: -77.039226
+    name: Council on Library and Information Resources 
+    latitude: 38.904032
+    longitude: -77.039226
 institution: Council on Library and Information Resources (CLIR)
 organization: Anvil Academic Publishing
 position: Program Coordinator and Analyst

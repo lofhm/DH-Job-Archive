@@ -11,9 +11,9 @@ jobTitle: Programmer/Analyst and XML Designer
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

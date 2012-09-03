@@ -5,9 +5,9 @@ link: https://jobs.unt.edu/applicants/jsp/shared/frameset/Frameset.jsp?time=1331
 postdate: 2012-03-11
 published: true
 location:
-	name: University of North Texas
-	latitude: 33.2109
-	longitude: 33.2109
+    name: University of North Texas
+    latitude: 33.2109
+    longitude: 33.2109
 institution: University of North Texas
 organization: Library
 position: Digital Preservation Programmer

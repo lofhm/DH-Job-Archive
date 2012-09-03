@@ -5,9 +5,9 @@ link: http://jobs.pepperdine.edu/applicants/Central?quickFind=151172
 published: true
 postdate: 2012-05-16
 location:
-	name: Pepperdine University
-	latitude: 34.0415-118.7096
-	longitude: -118.7096
+    name: Pepperdine University
+    latitude: 34.0415-118.7096
+    longitude: -118.7096
 institution: Pepperdine University
 organization: Library
 position: Director of Digital Initiatives and Technology Strategy

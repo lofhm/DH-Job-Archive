@@ -11,9 +11,9 @@ jobTitle: Comp Systems Specialist
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

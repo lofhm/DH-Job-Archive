@@ -11,9 +11,9 @@ jobTitle: Technical Support Officer  -- Building a Virtual Research Environment 
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

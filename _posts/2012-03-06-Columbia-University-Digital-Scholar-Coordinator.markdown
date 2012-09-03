@@ -5,9 +5,9 @@ link: http://academicjobs.columbia.edu/applicants/Central?quickFind=56004
 postdate: 2012-03-06
 published: true
 location:
-	name: Columbia University
-	latitude: 40.80798
-	longitude: -73.96316
+    name: Columbia University
+    latitude: 40.80798
+    longitude: -73.96316
 institution: Columbia University
 organization: Library
 position: Digital Scholarship Coordinator

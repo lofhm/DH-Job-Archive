@@ -11,9 +11,9 @@ jobTitle: Assistant Professor in Literature and Media
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

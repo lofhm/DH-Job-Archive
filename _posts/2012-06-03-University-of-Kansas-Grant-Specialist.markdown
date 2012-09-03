@@ -5,9 +5,9 @@ link: https://jobs.ku.edu/applicants/jsp/shared/position/JobDetails_css.jsp?post
 published: true
 postdate: 2012-06-03
 location:
-	name: University of Kansas
-	latitude: 38.95556
-	longitude: -95.24571
+    name: University of Kansas
+    latitude: 38.95556
+    longitude: -95.24571
 institution: University of Kansas
 organization: Hall Center for the Humanities
 position: Grant Development and Management Specialist

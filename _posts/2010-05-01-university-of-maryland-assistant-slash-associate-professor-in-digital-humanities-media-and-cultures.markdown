@@ -11,9 +11,9 @@ jobTitle:  	 Assistant/Associate Professor in Digital Humanities, Media and Cult
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

@@ -5,9 +5,9 @@ link: http://libraries.mit.edu/about/jobs/svac-software-engineer2.html
 postdate: 2012-03-09
 published: true
 location:
-	name: MIT Libraries
-	latitude: 42.358928
-	longitude: -71.089193
+    name: MIT Libraries
+    latitude: 42.358928
+    longitude: -71.089193
 institution: MIT
 organization: Library
 position: Software Engineer

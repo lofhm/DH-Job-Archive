@@ -11,9 +11,9 @@ jobTitle: Coordinator of Oral History Digital Initiatives
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

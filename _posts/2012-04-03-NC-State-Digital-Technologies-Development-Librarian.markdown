@@ -5,9 +5,9 @@ link: http://lib.ncsu.edu/jobs/epa/dtdl/va
 postdate: 2012-04-03
 published: true
 location:
-	name: 
-	latitude: 35.7844
-	longitude: -78.6814
+    name: 
+    latitude: 35.7844
+    longitude: -78.6814
 institution: North Carolina State University
 organization: Library
 position: Digital Technologies Development Librarian

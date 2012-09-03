@@ -11,9 +11,9 @@ jobTitle: Ph.D. fellowships in digital curation
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

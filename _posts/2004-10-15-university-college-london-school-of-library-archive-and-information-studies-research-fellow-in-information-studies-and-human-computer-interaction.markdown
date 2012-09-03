@@ -11,9 +11,9 @@ jobTitle: Research Fellow in Information Studies & Human–Computer Interaction
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

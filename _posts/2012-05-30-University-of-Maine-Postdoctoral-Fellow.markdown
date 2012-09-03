@@ -5,9 +5,9 @@ link: http://jobs.umaine.edu/blog/2012/05/30/postdoctoral-fellow-in-digital-huma
 published: true
 postdate: 2012-05-30
 location:
-	name: University of Maine
-	latitude: 44.90237
-	longitude: -68.6667
+    name: University of Maine
+    latitude: 44.90237
+    longitude: -68.6667
 institution: University of Maine
 organization: College of Liberal Arts and Sciences
 position: Postdoc

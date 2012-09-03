@@ -5,9 +5,9 @@ link: https://hospats.adminsvc.temple.edu/CSS_External/CSSPage_Referred.ASP?Req=
 published: true
 postdate: 2012-05-01
 location:
-	name: Temple University
-	latitude: 39.9804
-	longitude: -75.1569
+    name: Temple University
+    latitude: 39.9804
+    longitude: -75.1569
 institution: Temple University
 organization: Library
 position: Digital Projects Librarian

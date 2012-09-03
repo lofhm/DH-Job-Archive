@@ -11,9 +11,9 @@ jobTitle: Postdoctoral Fellow in the History and Future of the Book
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

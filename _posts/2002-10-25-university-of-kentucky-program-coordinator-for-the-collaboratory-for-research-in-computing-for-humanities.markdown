@@ -11,9 +11,9 @@ jobTitle: Program Coordinator for the Collaboratory for Research in Computing fo
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

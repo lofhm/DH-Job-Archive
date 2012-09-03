@@ -11,9 +11,9 @@ jobTitle: Google / Computational Linguist - EU Headquarters - Dublin
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

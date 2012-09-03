@@ -5,9 +5,9 @@ link: http://recruit.trovix.com/jobhostmaster/jobhost/ViewJobPostDetails.do?titl
 postdate: 2012-02-27
 published: true
 location:
-	name: Stanford University
-	latitude: 37.4283
-	longitude: -122.1688
+    name: Stanford University
+    latitude: 37.4283
+    longitude: -122.1688
 institution: Stanford University
 organization: Library
 position: Digital Humanities Developer

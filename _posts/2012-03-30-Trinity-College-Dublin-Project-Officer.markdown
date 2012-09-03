@@ -5,9 +5,9 @@ link: https://jobs.tcd.ie/pls/corehrrecruit/docs/0000036895.pdf
 postdate: 2012-03-30
 published: true
 location:
-	name: Trinity College Dublin
-	latitude: 53.34297
-	longitude: -6.25453
+    name: Trinity College Dublin
+    latitude: 53.34297
+    longitude: -6.25453
 institution: Trinity College Dublin
 organization: CENDARI Project 
 position: Project Officer / Administrative Officer

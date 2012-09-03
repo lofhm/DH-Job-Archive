@@ -11,9 +11,9 @@ jobTitle:  CORPUS RESEARCHER / AAC-Austrian Academy Corpus
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

@@ -11,9 +11,9 @@ jobTitle: Postdoctoral Fellowships and Fellowships for ABDs to Work on the Victo
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

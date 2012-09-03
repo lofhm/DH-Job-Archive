@@ -5,9 +5,9 @@ link: http://jobs.guardian.co.uk/job/4413953/multimedia-manager
 postdate: 2012-02-15
 published: true
 location:
-	name: Imperial War Museum
-	latitude: 51.49657
-	longitude: -0.10870
+    name: Imperial War Museum
+    latitude: 51.49657
+    longitude: -0.10870
 institution: Imperial War Museum
 organization: Department of New Media
 position: Multimedia Manager

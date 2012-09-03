@@ -5,9 +5,9 @@ link: http://hastac.org/opportunities/two-year-mellon-postdoctoral-fellowship-di
 postdate: 2012-02-20
 published: true
 location:
-	name: Emory University
-	latitude: 33.7921
-	longitude: -84.3239
+    name: Emory University
+    latitude: 33.7921
+    longitude: -84.3239
 institution: Emory University
 organization: Library
 position: Postdoc

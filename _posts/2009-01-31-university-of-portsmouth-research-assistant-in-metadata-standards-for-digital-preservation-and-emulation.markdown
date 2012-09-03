@@ -11,9 +11,9 @@ jobTitle: Research Assistant in Metadata Standards for Digital Preservation and 
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

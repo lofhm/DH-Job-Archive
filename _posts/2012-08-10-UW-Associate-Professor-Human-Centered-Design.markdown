@@ -5,9 +5,9 @@ link: http://hcde.uw.edu/employment#tenure_track_assistant_associate_professor_a
 postdate: 2012-08-10
 published: true
 location:
-	name: University of Washington
-	latitude: 47.653912
-	longitude: -122.306183
+    name: University of Washington
+    latitude: 47.653912
+    longitude: -122.306183
 institution: University of Washington
 organization: The Department of Human Centered Design & Engineering
 position: Assistant, Associate, or Full Professor

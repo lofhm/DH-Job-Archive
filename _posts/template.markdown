@@ -5,9 +5,9 @@ link:
 postdate: 
 published: false
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

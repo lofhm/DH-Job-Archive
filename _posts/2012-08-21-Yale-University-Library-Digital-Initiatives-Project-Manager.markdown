@@ -5,9 +5,9 @@ link: https://collaborate.library.yale.edu/lhr-public/jobs/digitalinitiativesman
 postdate: 2012-08-21
 published: true
 location:
-	name: Yale University
-	latitude: 41.306568
-	longitude: -72.929283
+    name: Yale University
+    latitude: 41.306568
+    longitude: -72.929283
 institution: Yale University
 organization: Library
 postition: Digital Initiatives Project Manager

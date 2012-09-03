@@ -5,9 +5,9 @@ link: http://jobs.stanford.edu/find_a_job.html
 postdate: 2012-07-17
 published: true
 location:
-	name: Stanford University
-	latitude: 37.4283
-	longitude: -122.1688
+    name: Stanford University
+    latitude: 37.4283
+    longitude: -122.1688
 institution: Stanford University
 organization: Library
 position: Academic Technology Specialist

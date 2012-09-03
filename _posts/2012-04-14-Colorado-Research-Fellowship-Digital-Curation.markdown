@@ -5,9 +5,9 @@ published: true
 link: https://www.jobsatcu.com/applicants/jsp/shared/position/JobDetails_css.jsp?postingId=284337
 postdate: 2012-04-14
 location:
-	name: University of Colorado at Boulder
-	latitude: 40.00679
-	longitude: -105.27237
+    name: University of Colorado at Boulder
+    latitude: 40.00679
+    longitude: -105.27237
 institution: University of Colorado at Boulder
 organization: Journalism and Mass Communication
 position: Research Fellowship

@@ -11,9 +11,9 @@ jobTitle: Associate Professor in Ethics and Technology
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

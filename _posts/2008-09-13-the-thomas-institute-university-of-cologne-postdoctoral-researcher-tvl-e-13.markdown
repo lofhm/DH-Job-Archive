@@ -11,9 +11,9 @@ jobTitle: Postdoctoral Researcher (TVL-E 13)
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

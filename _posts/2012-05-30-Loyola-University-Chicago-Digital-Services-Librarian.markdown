@@ -5,9 +5,9 @@ link: http://www.careers.luc.edu/applicants/Central?quickFind=54948
 published: true
 postdate: 2012-05-30
 location:
-	name: Loyola University Chicago
-	latitude: 42.00060
-	longitude: -87.65686
+    name: Loyola University Chicago
+    latitude: 42.00060
+    longitude: -87.65686
 institution: Loyola University Chicago
 organization: Library
 position: Digital Services Librarian

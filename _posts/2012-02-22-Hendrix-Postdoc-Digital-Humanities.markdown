@@ -5,9 +5,9 @@ link: http://www.hendrix.edu/uploadedFiles/Campus_Resources/Human_Resources/Job_
 postdate: 
 published: false
 location:
-	name: Hendrix College
-	latitude: 35.1007
-	longitude: -92.4365
+    name: Hendrix College
+    latitude: 35.1007
+    longitude: -92.4365
 institution: Hendrix College
 organization:
 position: Postdoc

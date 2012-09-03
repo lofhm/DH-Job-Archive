@@ -11,9 +11,9 @@ jobTitle: Assistant or Associate Professorships in Computer Games and in Digital
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

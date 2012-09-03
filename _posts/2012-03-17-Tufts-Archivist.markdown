@@ -5,9 +5,9 @@ link: https://2xrecruit.kenexa.com/kr/cc/jsp/public/EmailJobDetail.jsf?npi=665B1
 postdate: 2012-03-17
 published: true
 location:
-	name: Tufts University
-	latitude: 42.4054
-	longitude: -71.1199
+    name: Tufts University
+    latitude: 42.4054
+    longitude: -71.1199
 institution: Tufts University
 organization: The Digital Collections and Archives
 position: Archivist for Digital Collections

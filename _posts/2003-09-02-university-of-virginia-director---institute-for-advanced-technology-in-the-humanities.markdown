@@ -11,9 +11,9 @@ jobTitle: DIRECTOR – INSTITUTE FOR ADVANCED TECHNOLOGY IN THE HUMANITIES
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

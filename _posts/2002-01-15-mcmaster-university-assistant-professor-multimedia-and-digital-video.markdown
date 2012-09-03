@@ -11,9 +11,9 @@ jobTitle: Assistant Professor, Multimedia and Digital Video
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

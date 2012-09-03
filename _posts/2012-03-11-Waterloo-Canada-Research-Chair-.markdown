@@ -5,9 +5,9 @@ link: http://hastac.org/opportunities/canada-research-chair-tier-1-digital-media
 postdate: 2012-03-11
 published: true
 location:
-	name: University of Waterloo Stratford Campus
-	latitude: 43.37049
-	longitude: -80.9823
+    name: University of Waterloo Stratford Campus
+    latitude: 43.37049
+    longitude: -80.9823
 institution: University of Waterloo Stratford Campus
 organization: Faculty of Arts
 position: Canada Research Chair

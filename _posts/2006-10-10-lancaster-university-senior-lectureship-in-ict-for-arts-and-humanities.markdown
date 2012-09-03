@@ -11,9 +11,9 @@ jobTitle: Senior Lectureship in ICT for Arts & Humanities
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

@@ -11,9 +11,9 @@ jobTitle: Information Scientist or Media and Computing Scientist (Web-Projects M
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

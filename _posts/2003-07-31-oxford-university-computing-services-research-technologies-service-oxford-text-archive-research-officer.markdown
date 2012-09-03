@@ -11,9 +11,9 @@ jobTitle: Oxford Text Archive Research Officer
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

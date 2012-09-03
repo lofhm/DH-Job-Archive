@@ -5,9 +5,9 @@ link: http://www.mohistory.org/node/7356
 published: true
 postdate: 2012-05-16
 location:
-	name: Missouri History Museum
-	latitude: 38.645324
-	longitude: -90.285833
+    name: Missouri History Museum
+    latitude: 38.645324
+    longitude: -90.285833
 institution: Missouri History Museum
 organization: Missouri History Museum
 position: Digital Asset Manager

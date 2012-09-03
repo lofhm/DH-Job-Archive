@@ -5,9 +5,9 @@ link: https://jobs.dickinson.edu/applicants/jsp/shared/frameset/Frameset.jsp?tim
 postdate: 2012-03-11
 published: true
 location:
-	name: Dickinson College
-	latitude: 40.20103
-	longitude: -77.19742
+    name: Dickinson College
+    latitude: 40.20103
+    longitude: -77.19742
 institution: Dickinson College
 organization: Classical Studies
 position: Postdoc

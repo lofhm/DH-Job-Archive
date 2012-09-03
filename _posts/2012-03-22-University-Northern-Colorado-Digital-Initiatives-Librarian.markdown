@@ -5,9 +5,9 @@ link: http://www.unco.edu/library/documents/PositionDescriptionDigitalInitiative
 postdate: 2012-03-22
 published: true
 location:
-	name: University Northern Colorado
-	latitude: 40.4053
-	longitude: -104.7049
+    name: University Northern Colorado
+    latitude: 40.4053
+    longitude: -104.7049
 institution: University Northern Colorado
 organization: Library
 position: Digital Initiatives Librarian

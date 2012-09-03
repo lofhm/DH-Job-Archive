@@ -11,9 +11,9 @@ jobTitle: 	 	Assistant Director - Humanities Digital Workshop, Arts and Sciences
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

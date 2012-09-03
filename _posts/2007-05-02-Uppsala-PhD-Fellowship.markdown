@@ -12,9 +12,9 @@ jobTitle: "PhD fellowship in \"Textual criticism and the sociology of texts\""
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

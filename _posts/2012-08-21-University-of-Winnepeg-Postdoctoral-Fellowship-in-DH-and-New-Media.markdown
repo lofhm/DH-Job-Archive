@@ -5,9 +5,9 @@ link: http://awid.org/Library/Postdoctoral-Fellowship-in-Digital-Humanities-and-
 postdate: 2012-08-21
 published: true
 location:
-	name: University of Winnepeg
-	latitude: 49.890320
-	longitude: -97.152840
+    name: University of Winnepeg
+    latitude: 49.890320
+    longitude: -97.152840
 institution: University of Winnepeg
 organization: Institute for Women’s and Gender Studies
 position: Postdoc

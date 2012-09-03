@@ -5,9 +5,9 @@ link: https://jobs.gmu.edu/postings/28134
 postdate: 2012-06-22
 published: true
 location:
-	name: George Mason University
-	latitude: 38.8279
-	longitude: -77.3059
+    name: George Mason University
+    latitude: 38.8279
+    longitude: -77.3059
 institution: George Mason University
 organization: Library
 position: Digital Library Developer

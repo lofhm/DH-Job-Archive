@@ -11,9 +11,9 @@ jobTitle: Librarian for Digital Repository at University of Maryland
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

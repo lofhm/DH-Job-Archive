@@ -11,9 +11,9 @@ jobTitle: Research Positions in Computational and Experimental Psycholinguistics
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

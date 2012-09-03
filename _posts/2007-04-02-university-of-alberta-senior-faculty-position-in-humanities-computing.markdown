@@ -11,9 +11,9 @@ jobTitle: Senior Faculty Position in Humanities Computing
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

@@ -5,9 +5,9 @@ link: http://careers.brown.edu/applicants/Central?quickFind=118614
 published: true
 postdate: 2012-04-06
 location:
-	name: Brown University
-	latitude: 41.82684
-	longitude: -71.40297
+    name: Brown University
+    latitude: 41.82684
+    longitude: -71.40297
 institution: Brown University
 organization: Library 
 position: Digital Library Programmer

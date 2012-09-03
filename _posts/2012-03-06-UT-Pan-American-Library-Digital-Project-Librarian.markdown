@@ -5,9 +5,9 @@ link: http://www.utpa.edu/humanresources/empdocs/11-12%20JOBS/11_12_088DigitalPr
 postdate: 2012-03-06
 published: true
 location:
-	name: University of Texas Pan American
-	latitude: 26.30673
-	longitude: -98.17299
+    name: University of Texas Pan American
+    latitude: 26.30673
+    longitude: -98.17299
 institution: University of Texas Pan American
 organization: Library
 position: Digital Project Librarian

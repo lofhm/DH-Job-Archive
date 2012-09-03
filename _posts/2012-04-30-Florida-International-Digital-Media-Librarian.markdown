@@ -5,9 +5,9 @@ link: http://library.fiu.edu/AboutUs/CareerCentral/DigitalMediaLibrarian.aspx
 published: true
 postdate: 2012-04-30
 location:
-	name: Florida International University
-	latitude: 25.76053
-	longitude: -80.37624
+    name: Florida International University
+    latitude: 25.76053
+    longitude: -80.37624
 institution: Florida International University
 organization: Library
 position: Digital Media Librarian

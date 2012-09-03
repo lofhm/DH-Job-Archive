@@ -11,9 +11,9 @@ jobTitle: Digital Environments/Digital Humanities
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

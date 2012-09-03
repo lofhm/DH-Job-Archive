@@ -5,9 +5,9 @@ link: http://www.cooperhewitt.org/careers
 postdate: 2012-03-07
 published: true
 location:
-	name: Cooper Hewitt National Design Museum
-	latitude: 40.7845
-	longitude: -73.9577
+    name: Cooper Hewitt National Design Museum
+    latitude: 40.7845
+    longitude: -73.9577
 institution: Cooper Hewitt National Design Museum
 organization: Education Department
 position: Education Specialist

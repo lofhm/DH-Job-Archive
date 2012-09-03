@@ -11,9 +11,9 @@ jobTitle: Assistant Professor in Information Technology (2 positions)
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

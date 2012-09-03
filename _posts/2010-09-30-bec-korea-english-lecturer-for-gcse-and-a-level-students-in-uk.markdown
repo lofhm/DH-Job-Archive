@@ -11,9 +11,9 @@ jobTitle: English lecturer for GCSE and A-level students in UK
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

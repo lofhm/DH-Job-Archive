@@ -11,9 +11,9 @@ jobTitle: Professor of Culture and Technology, Director of MA in Digital Humanit
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

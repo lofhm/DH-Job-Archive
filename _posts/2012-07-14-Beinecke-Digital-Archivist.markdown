@@ -5,9 +5,9 @@ link: http://collaborate.library.yale.edu/lhr-public/jobs/Digital%20Arch,%20BRBL
 postdate: 2012-07-14
 published: true
 location:
-	name: Yale University
-	latitude: 41.306568
-	longitude: -72.929283
+    name: Yale University
+    latitude: 41.306568
+    longitude: -72.929283
 institution: Yale University
 organization: Beinecke Rare Book and Manuscript Library
 position: Digital Archivist

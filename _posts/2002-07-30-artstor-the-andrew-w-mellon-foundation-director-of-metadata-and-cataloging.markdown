@@ -11,9 +11,9 @@ jobTitle: Director of Metadata and Cataloging
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

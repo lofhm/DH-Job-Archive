@@ -5,9 +5,9 @@ link: https://chicagostate.peopleadmin.com/postings/5011
 postdate: 2012-02-24
 published: true
 location:
-	name: Chicago State University
-	latitude: 41.72095
-	longitude: -87.61363
+    name: Chicago State University
+    latitude: 41.72095
+    longitude: -87.61363
 institution: Chicago State University
 organization: Library
 position: Digital and Web Services Librarian Coordinator

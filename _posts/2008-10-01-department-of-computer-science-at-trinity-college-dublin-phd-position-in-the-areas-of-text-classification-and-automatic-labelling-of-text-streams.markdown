@@ -11,9 +11,9 @@ jobTitle: PhD position in the areas of text classification and automatic labelli
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

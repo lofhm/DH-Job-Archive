@@ -5,9 +5,9 @@ link: http://workingat.tate.org.uk/pages/job_search_view.aspx?jobId=667&JobIndex
 published: True
 postdate: 2012-05-16
 location:
-	name: Tate Britain
-	latitude: 51.49115
-	longitude: -0.12777
+    name: Tate Britain
+    latitude: 51.49115
+    longitude: -0.12777
 institution: Tate Britain
 organization: Tate Archive
 position: Project Manager

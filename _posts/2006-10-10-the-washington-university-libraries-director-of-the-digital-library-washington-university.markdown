@@ -11,9 +11,9 @@ jobTitle: Director of the Digital Library, Washington University
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

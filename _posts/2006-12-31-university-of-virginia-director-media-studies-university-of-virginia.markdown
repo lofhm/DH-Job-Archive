@@ -11,9 +11,9 @@ jobTitle: Director, Media Studies, University of Virginia
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

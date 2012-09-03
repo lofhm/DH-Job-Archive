@@ -5,9 +5,9 @@ link: http://www.careers.ualberta.ca/Competition/A110417061/
 published: true
 postdate: 2012-04-03
 location:
-	name: University of Alberta
-	latitude: 53.52679
-	longitude: -113.52401
+    name: University of Alberta
+    latitude: 53.52679
+    longitude: -113.52401
 institution: University of Alberta
 organization: The Canadian Writing Research Collaboratory
 position: Project Manager

@@ -5,9 +5,9 @@ link: http://laurientaylor.org/2012/08/23/job-associate-dean-for-digital-scholar
 postdate: 2012-08-23
 published: true
 location:
-	name: Florida State University
-	latitude: 30.440741
-	longitude: -84.292152
+    name: Florida State University
+    latitude: 30.440741
+    longitude: -84.292152
 institution: Florida State University
 organization: Library
 position: Associate Dean for Digital Scholarship 

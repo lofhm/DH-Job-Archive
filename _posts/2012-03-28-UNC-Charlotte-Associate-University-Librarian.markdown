@@ -5,9 +5,9 @@ link: https://jobs.uncc.edu/applicants/jsp/shared/position/JobDetails_css.jsp?po
 postdate: 2012-03-28
 published: true
 location:
-	name: The University of North Carolina at Charlotte
-	latitude: 35.3020
-	longitude: -80.7317
+    name: The University of North Carolina at Charlotte
+    latitude: 35.3020
+    longitude: -80.7317
 institution: The University of North Carolina at Charlotte
 organization: Library
 position: Associate University Librarian

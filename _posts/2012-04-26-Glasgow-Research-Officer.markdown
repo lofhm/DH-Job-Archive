@@ -5,9 +5,9 @@ link: http://www22.i-grasp.com/fe/tpl_glasgow01.asp?s=bkMjPUrEcTFkHhTcz&jobid=51
 published: true
 postdate: 2012-04-26
 location:
-	name: University of Glasgow
-	latitude: 55.87207
-	longitude: -4.28918
+    name: University of Glasgow
+    latitude: 55.87207
+    longitude: -4.28918
 institution: University of Glasgow
 organization: School of Critical Studies
 position: Research Officer

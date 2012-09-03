@@ -5,9 +5,9 @@ link: http://www.kcl.ac.uk/depsta/pertra/vacancy/external/pers_detail.php?jobind
 postdate: 2012-08-09
 published: true
 location:
-	name: Kings College London UK
-	latitude: 51.512138
-	longitude: -0.116640
+    name: Kings College London UK
+    latitude: 51.512138
+    longitude: -0.116640
 institution: King's College London
 organization: Department of Digital Humanities
 position: Research Developer

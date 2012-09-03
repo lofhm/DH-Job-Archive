@@ -11,9 +11,9 @@ jobTitle: Director of the Educational Technologies Center (ETC)
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

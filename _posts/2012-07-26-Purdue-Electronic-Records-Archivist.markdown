@@ -5,9 +5,9 @@ link: http://purdue.taleo.net/careersection/wl/jobdetail.ftl?lang=en&job=159100
 postdate: 2012-07-26
 published: true
 location:
-	name: Purdue University Libraries
-	latitude: 40.4241
-	longitude: -86.9120
+    name: Purdue University Libraries
+    latitude: 40.4241
+    longitude: -86.9120
 institution: Purdue University
 organization: Library
 position: Digital Preservation and Electronic Records Archivist

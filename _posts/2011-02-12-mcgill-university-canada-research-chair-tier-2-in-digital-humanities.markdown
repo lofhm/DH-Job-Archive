@@ -11,9 +11,9 @@ jobTitle: Canada Research Chair (Tier 2) in Digital Humanities
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

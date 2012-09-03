@@ -11,9 +11,9 @@ jobTitle: Software Analyst/Programmer, Database and Application Architecture - P
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 

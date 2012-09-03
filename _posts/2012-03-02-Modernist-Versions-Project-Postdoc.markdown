@@ -5,9 +5,9 @@ link: http://www.jenterysayers.com/2012/mvp-post-doc/
 postdate: 2012-03-06
 published: true
 location:
-	name: University of Victoria
-	latitude: 48.46342
-	longitude: -123.3125
+    name: University of Victoria
+    latitude: 48.46342
+    longitude: -123.3125
 institution: University of Victoria
 organization: Modernist Versions Project
 position: Postdoc

@@ -5,9 +5,9 @@ link: http://lists.digitalhumanities.org/pipermail/humanist/2012-April/003033.ht
 published: true
 postdate: 2012-04-14
 location:
-	name: Stanford University
-	latitude: 37.4283
-	longitude: -122.1688
+    name: Stanford University
+    latitude: 37.4283
+    longitude: -122.1688
 institution: Stanford University
 organization: Department of English
 position: Research Associate

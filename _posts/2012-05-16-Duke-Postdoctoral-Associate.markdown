@@ -6,9 +6,9 @@ published: true
 postdate: 2012-05-16
 published: true
 location:
-	name: Duke University
-	latitude: 36.0023
-	longitude: -78.9371
+    name: Duke University
+    latitude: 36.0023
+    longitude: -78.9371
 institution: Duke University
 organization: The Wired! Lab for Digital Historical Visualization
 position: Postdoc

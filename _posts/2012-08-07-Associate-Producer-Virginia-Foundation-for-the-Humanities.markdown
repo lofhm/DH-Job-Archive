@@ -5,9 +5,9 @@ link: http://jobs.virginia.edu/applicants/Central?quickFind=67906
 postdate: 2012-08-07
 published: true
 location:
-	name: Virginia Foundation for the Humanities, Charlottesville, Virginia
-	latitude: 38.05019,
-	longitude: -78.54150
+    name: Virginia Foundation for the Humanities, Charlottesville, Virginia
+    latitude: 38.05019,
+    longitude: -78.54150
 institution: Virginia Foundation for the Humanities
 organization: Virginia Foundation for the Humanities
 position: Associate Producer

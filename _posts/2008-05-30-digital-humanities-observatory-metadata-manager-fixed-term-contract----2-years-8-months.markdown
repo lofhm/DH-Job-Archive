@@ -11,9 +11,9 @@ jobTitle: Metadata Manager (Fixed Term Contract -- 2 Years 8 months)
 published: false
 postdate:
 location:
-	name: 
-	latitude: 
-	longitude: 
+    name: 
+    latitude: 
+    longitude: 
 institution: 
 organization: 
 position: 
