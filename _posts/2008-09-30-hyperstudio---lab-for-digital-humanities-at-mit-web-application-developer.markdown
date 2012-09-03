@@ -9,7 +9,15 @@ date: 2008-09-30
 closingDate: 
 jobTitle: web application developer
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

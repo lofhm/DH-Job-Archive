@@ -9,7 +9,15 @@ date: 2008-10-01
 closingDate: 
 jobTitle: Web Services Programmer
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

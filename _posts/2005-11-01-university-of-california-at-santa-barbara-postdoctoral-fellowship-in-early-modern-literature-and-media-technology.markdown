@@ -9,7 +9,15 @@ date: 2005-11-01
 closingDate: 
 jobTitle: Postdoctoral Fellowship in Early Modern Literature and Media Technology
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

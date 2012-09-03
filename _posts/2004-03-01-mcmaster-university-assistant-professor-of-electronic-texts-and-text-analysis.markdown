@@ -9,7 +9,15 @@ date: 2004-03-01
 closingDate: 
 jobTitle: Assistant Professor of Electronic Texts and Text Analysis
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

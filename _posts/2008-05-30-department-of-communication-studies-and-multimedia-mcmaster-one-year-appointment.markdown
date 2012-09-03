@@ -9,7 +9,15 @@ date: 2008-05-30
 closingDate: 
 jobTitle: One Year Appointment
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

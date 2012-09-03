@@ -1,12 +1,20 @@
 ---
 layout: listing
-title: Temple University Digital Project LIbrarian
+title: Temple University Digital Projects Librarian
 link: https://hospats.adminsvc.temple.edu/CSS_External/CSSPage_Referred.ASP?Req=TU-15230
 published: true
+postdate: 2012-05-01
+location:
+	name: Temple University
+	latitude: 39.9804
+	longitude: -75.1569
+institution: Temple University
+organization: Library
+position: Digital Projects Librarian
 ---
 
 
-# Temple University Digital Project LIbrarian
+# {{ page.title}}
 
 * [Original Link]({{ page.link }})
 * Job Title: Digital Projects Librarian

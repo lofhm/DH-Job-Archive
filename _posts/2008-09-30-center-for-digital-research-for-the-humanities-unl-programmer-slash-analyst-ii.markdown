@@ -9,7 +9,15 @@ date: 2008-09-30
 closingDate: 
 jobTitle: Programmer/Analyst II
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

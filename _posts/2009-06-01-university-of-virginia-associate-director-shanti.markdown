@@ -9,7 +9,15 @@ date: 2009-06-01
 closingDate: 
 jobTitle: Associate Director, SHANTI
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

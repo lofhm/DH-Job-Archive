@@ -1,12 +1,22 @@
 ---
 layout: listing
 title: University of Alberta Project Manager, Canadian Writing Research Collaboratory
+link: http://www.careers.ualberta.ca/Competition/A110417061/
+published: true
+postdate: 2012-04-03
+location:
+	name: University of Alberta
+	latitude: 53.52679
+	longitude: -113.52401
+institution: University of Alberta
+organization: The Canadian Writing Research Collaboratory
+position: Project Manager
 ---
 
 # University of Alberta Project Manager, Canadian Writing Research Collaboratory
 
 
-*  [Original Link](http://www.careers.ualberta.ca/Competition/A110417061/)
+* [Original Link](http://www.careers.ualberta.ca/Competition/A110417061/)
 * Department of English and Film Studies
 * Competition No. - A110417061
 * Closing Date - Apr 16, 2012

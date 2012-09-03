@@ -9,7 +9,15 @@ date: 2008-04-30
 closingDate: 
 jobTitle: Project Manager/Textbase Editor
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

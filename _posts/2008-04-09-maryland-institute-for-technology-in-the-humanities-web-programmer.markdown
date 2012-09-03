@@ -9,7 +9,15 @@ date: 2008-04-09
 closingDate: 
 jobTitle: Web Programmer
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

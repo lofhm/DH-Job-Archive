@@ -9,7 +9,15 @@ date: 2005-03-01
 closingDate: 
 jobTitle: Two faculty positions
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

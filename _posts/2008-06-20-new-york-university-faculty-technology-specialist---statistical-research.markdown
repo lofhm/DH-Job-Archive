@@ -9,7 +9,15 @@ date: 2008-06-20
 closingDate: 
 jobTitle: Faculty Technology Specialist - Statistical Research
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

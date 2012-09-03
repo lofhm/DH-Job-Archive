@@ -1,9 +1,19 @@
 ---
 layout: listing
-title: Software Engineer, MIT Libraries
+title: MIT Libraries Software Engineer
+link: http://libraries.mit.edu/about/jobs/svac-software-engineer2.html
+postdate: 2012-03-09
+published: true
+location:
+	name: MIT Libraries
+	latitude: 42.358928
+	longitude: -71.089193
+institution: MIT
+organization: Library
+position: Software Engineer
 ---
 
-# Software Engineer, MIT Libraries
+# MIT Libraries Software Engineer
 
 *  [Original Link](http://libraries.mit.edu/about/jobs/svac-software-engineer2.html)
 

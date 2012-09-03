@@ -2,7 +2,15 @@
 layout: listing
 title: Ohio State Head of Digital Initiatives
 link: http://library.osu.edu/documents/human-resources/jobs/Dig_Init_Ad.pdf
+postdate: 2012-07-03
 published: true
+location:
+	name: Ohio State University
+	latitude: 39.9945
+	longitude: -83.0185
+institution: Ohio State University
+organization: Library
+position: Head of Digital Initiatives
 ---
 
 
@@ -13,19 +21,7 @@ published: true
 
 ## Description
 
-The Ohio State University Libraries invites applications and nominations for the position of Head, Digital 
-Initiatives to lead the evolution of digital library services and collections that support the research and 
-teaching needs of the University.  The successful candidate will work collaboratively and consultatively within 
-the Libraries’ Information Technology Division, as well as across other appropriate areas of the Libraries, to 
-provide vision for, and build, a cohesive and extensible suite of discovery, access, preservation, curation, 
-security, repository, archival and storage services.  
-The Digital Initiatives program collaboratively develops strategies, and plans, implements, and supports 
-projects to advance the creation and integration of digital library services and digital collections into the 
-academic enterprise.  Key partners in this endeavor include the Libraries’ digital repository, publishing, 
-preservation and reformatting, and special collections programs, as well as other potential campus partners.  
-This position reports to the Associate Director for Information Technology,  as part of a division that provides
-web applications, information management, discovery systems, and technical infrastructure.  This is a tenure 
-track faculty position.  
+The Ohio State University Libraries invites applications and nominations for the position of Head, Digital Initiatives to lead the evolution of digital library services and collections that support the research and teaching needs of the University.  The successful candidate will work collaboratively and consultatively within the Libraries’ Information Technology Division, as well as across other appropriate areas of the Libraries, to provide vision for, and build, a cohesive and extensible suite of discovery, access, preservation, curation, security, repository, archival and storage services.  The Digital Initiatives program collaboratively develops strategies, and plans, implements, and supports projects to advance the creation and integration of digital library services and digital collections into the academic enterprise.  Key partners in this endeavor include the Libraries’ digital repository, publishing, preservation and reformatting, and special collections programs, as well as other potential campus partners.  This position reports to the Associate Director for Information Technology,  as part of a division that providesweb applications, information management, discovery systems, and technical infrastructure.  This is a tenure track faculty position.
 
 ##Responsibilities
 * Leads creation and articulation of an evolving digital initiatives environment in alignment with the 
@@ -89,11 +85,12 @@ dependent on qualifications and experience.
 
 ###Application 
 Nominations or applications will be accepted until the position is filled. Preference will be given to 
-applications received by August 12, 2012. Please send letter of interest with a current resume and name, 
-address, phone, and email address of three references to Greg Newman at newman.25@osu.edu . Please 
+applications received by *August 12, 2012*. Please send letter of interest with a current resume and name, 
+address, phone, and email address of three references to Greg Newman at <newman.25@osu.edu> . Please 
 include Head, Digital Initiatives Application in the subject field. 
 
 ###Contact 
 Greg Newman, Human Resources, 1858 Neil Avenue Mall, Columbus, OH 43210, 614-247-8887 
+
 To build a diverse workforce Ohio State encourages applications from
 individuals with disabilities, minorities, veterans, and women. EEO/AA employer.

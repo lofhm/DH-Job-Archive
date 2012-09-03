@@ -9,7 +9,15 @@ date: 2006-10-10
 closingDate: 
 jobTitle: Senior Lectureship in ICT for Arts & Humanities
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

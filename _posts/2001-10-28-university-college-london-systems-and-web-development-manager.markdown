@@ -9,7 +9,15 @@ date: 2001-10-28
 closingDate: 
 jobTitle: Systems and Web Development Manager
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

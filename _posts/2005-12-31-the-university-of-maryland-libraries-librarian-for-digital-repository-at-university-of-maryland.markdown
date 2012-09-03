@@ -9,7 +9,15 @@ date: 2005-12-31
 closingDate: 
 jobTitle: Librarian for Digital Repository at University of Maryland
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

@@ -2,7 +2,15 @@
 layout: listing
 title: George Mason University Digital Library Developer
 link: https://jobs.gmu.edu/postings/28134
+postdate: 2012-06-22
 published: true
+location:
+	name: George Mason University
+	latitude: 38.8279
+	longitude: -77.3059
+institution: George Mason University
+organization: Library
+position: Digital Library Developer
 ---
 
 
@@ -15,7 +23,7 @@ published: true
 * Working Title:	Digital Library Developer
 * Job Typ:	Full-Time
 * Position Number:	FA730z
-* Recruit Number	: Faculty - 5487
+* Recruit Number: Faculty - 5487
 * Location:	Fairfax
 
 ## Description

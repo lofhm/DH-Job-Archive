@@ -9,7 +9,15 @@ date: 2005-11-13
 closingDate: 
 jobTitle: researcher or postdoc
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

@@ -3,6 +3,14 @@ layout: listing
 title: Western University Assistant Professor History
 link: http://oraweb.aucc.ca/pls/ua/ua_re3?ADVERTISEMENT_NUMBER_IN=24289
 published: true
+postdate: 2012-05-11
+location:
+	name: Western University
+	latitude: 43.0085
+	longitude: -81.2735
+institution: Western University
+organization: Department of History
+position: Assistant Professor
 ---
 
 # {{ page.title}}

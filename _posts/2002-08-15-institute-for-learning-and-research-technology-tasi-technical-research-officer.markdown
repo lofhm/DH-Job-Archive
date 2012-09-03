@@ -9,7 +9,15 @@ date: 2002-08-15
 closingDate: 
 jobTitle: TASI Technical Research Officer
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

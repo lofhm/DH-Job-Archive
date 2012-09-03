@@ -1,6 +1,16 @@
 ---
 layout: listing
-title: Emory Two-year Mellon Postdoctoral Fellowship in Digital Humanities
+title: Emory University Two-year Mellon Postdoctoral Fellowship in Digital Humanities
+link: http://hastac.org/opportunities/two-year-mellon-postdoctoral-fellowship-digital-humanities-emory-deadline-1-march-2012
+postdate: 2012-02-20
+published: true
+location:
+	name: Emory University
+	latitude: 33.7921
+	longitude: -84.3239
+institution: Emory University
+organization: Library
+position: Postdoc
 ---
 
 # Two-year Mellon Postdoctoral Fellowship in Digital Humanities at Emory 

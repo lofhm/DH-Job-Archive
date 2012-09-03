@@ -1,9 +1,19 @@
 ---
 layout: listing
-title: Digital Project Librarian, University of Texas Pan American
+title: University of Texas Pan American Digital Project Librarian
+link: http://www.utpa.edu/humanresources/empdocs/11-12%20JOBS/11_12_088DigitalProjectLibrarian.htm
+postdate: 2012-03-06
+published: true
+location:
+	name: University of Texas Pan American
+	latitude: 26.30673
+	longitude: -98.17299
+institution: University of Texas Pan American
+organization: Library
+position: Digital Project Librarian
 ---
 
-# Digital Project Librarian, University of Texas Pan American
+# {{ page.title}}
 
 * [Original Link](http://www.utpa.edu/humanresources/empdocs/11-12%20JOBS/11_12_088DigitalProjectLibrarian.htm)
 * Job Vacancy #: 11/12-088

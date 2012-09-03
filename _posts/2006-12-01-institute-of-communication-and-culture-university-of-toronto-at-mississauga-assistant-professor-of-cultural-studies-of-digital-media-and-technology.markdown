@@ -9,7 +9,15 @@ date: 2006-12-01
 closingDate: 
 jobTitle: Assistant Professor of Cultural Studies of Digital Media and Technology
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

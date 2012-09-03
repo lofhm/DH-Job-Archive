@@ -4,7 +4,16 @@ title: Virginia Foundation for the Humanities - Associate Producer - BackStory w
 link: http://jobs.virginia.edu/applicants/Central?quickFind=67906 
 postdate: 2012-08-07
 published: true
+location:
+	name: Virginia Foundation for the Humanities, Charlottesville, Virginia
+	latitude: 38.05019,
+	longitude: -78.54150
+institution: Virginia Foundation for the Humanities
+organization: Virginia Foundation for the Humanities
+position: Associate Producer
 --- 
+
+https://maps.google.com/maps?q=145+ednam+drive+charlottesville+va+latitude+longitude&hl=en&ll=38.044576,-78.523922&spn=0.137757,0.108833&safe=off&fb=1&gl=us&hq=145+ednam+drive+charlottesville+va+latitude+longitude&cid=0,0,7750396831199599089&t=m&z=13&iwloc=A
 
 # {{ page.title }}
 

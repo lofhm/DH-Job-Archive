@@ -9,7 +9,15 @@ date: 2003-02-15
 closingDate: 
 jobTitle: Director, Language Learning Center
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

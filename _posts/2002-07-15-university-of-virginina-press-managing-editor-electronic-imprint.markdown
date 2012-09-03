@@ -9,7 +9,15 @@ date: 2002-07-15
 closingDate: 
 jobTitle: Managing Editor, Electronic Imprint
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

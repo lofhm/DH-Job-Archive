@@ -1,6 +1,16 @@
 ---
 layout: listing
 title: ACLS Program Coordinator and Analyst, Anvil Academic Publishing
+link: http://www.acls.org/uploadedFiles/Fellowships_and_Grants/Competitions/1112_PublicFellows_CLIR.pdf
+postdate: 2012-02-19
+published: true
+location:
+	name: Council on Library and Information Resources 
+	latitude: 38.904032
+	longitude: -77.039226
+institution: Council on Library and Information Resources (CLIR)
+organization: Anvil Academic Publishing
+position: Program Coordinator and Analyst
 ---
 
 # Program Coordinator and Analyst, Anvil Academic Publishing

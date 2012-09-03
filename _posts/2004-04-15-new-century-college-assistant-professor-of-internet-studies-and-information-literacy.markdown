@@ -9,7 +9,15 @@ date: 2004-04-15
 closingDate: 
 jobTitle: Assistant Professor of Internet Studies and Information Literacy
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

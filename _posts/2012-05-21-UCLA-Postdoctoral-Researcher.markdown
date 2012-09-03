@@ -3,6 +3,14 @@ layout: listing
 title: UCLA Postdoctoral Position
 link: http://knowledgeinfrastructures.gseis.ucla.edu/docs/SloanPostdoc_BorgmanTraweek_Announce.pdf
 published: true
+postdate: 2012-05-21
+location:
+	name: University of California at Los Angeles
+	latitude: 34.0699
+	longitude: -118.4445
+institution: University of California at Los Angeles
+organization: Department of Information Studies
+position: Postdoc
 ---
 
 # {{ page.title}}

@@ -9,7 +9,15 @@ date: 2008-06-10
 closingDate: 
 jobTitle: Senior Research Associate and Research Associate
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

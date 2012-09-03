@@ -9,7 +9,15 @@ date: 2010-01-01
 closingDate: 
 jobTitle: Director for Digital Library Services
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

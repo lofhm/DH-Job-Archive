@@ -9,7 +9,15 @@ date: 2002-01-30
 closingDate: 
 jobTitle: Postdoctoral Fellowships and Fellowships for ABDs to Work on the Victorianand Postcolonial Websites
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

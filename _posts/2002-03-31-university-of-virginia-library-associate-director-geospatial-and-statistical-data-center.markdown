@@ -9,7 +9,15 @@ date: 2002-03-31
 closingDate: 
 jobTitle: Associate Director, Geospatial and Statistical Data Center
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

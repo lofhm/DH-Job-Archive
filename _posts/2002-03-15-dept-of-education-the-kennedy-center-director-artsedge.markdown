@@ -9,7 +9,15 @@ date: 2002-03-15
 closingDate: 
 jobTitle: Director, ArtsEdge
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

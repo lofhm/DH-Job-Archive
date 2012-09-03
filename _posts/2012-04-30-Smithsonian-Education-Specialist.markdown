@@ -3,10 +3,18 @@ layout: listing
 title: Smithsonian Institution Education Specialist
 link: http://www.usajobs.gov/GetJob/ViewDetails/315071500
 published: true
+postdate: 2012-04-30
+location:
+	name: Smithsonian Institution
+	latitude: 38.8890
+	longitude: -77.0261
+institution: Smithsonian Institution
+organization: Department of New Media, Office of Education and Public Programs of the National Museum of American History
+position: Education Specialist
 ---
 
 
-# Smithsonian Institution Education Specialist
+# {{ page.title}}
 
 * [Original Link]({{ page.link }})
 * Job Title: Education Specialist

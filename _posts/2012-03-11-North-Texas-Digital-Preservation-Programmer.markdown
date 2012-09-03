@@ -1,9 +1,19 @@
 ---
 layout: listing
-title: Digital Preservation Programmer, University of North Texas Libraries
+title: University of North Texas Digital Preservation Programmer
+link: https://jobs.unt.edu/applicants/jsp/shared/frameset/Frameset.jsp?time=1331518223071
+postdate: 2012-03-11
+published: true
+location:
+	name: University of North Texas
+	latitude: 33.2109
+	longitude: 33.2109
+institution: University of North Texas
+organization: Library
+position: Digital Preservation Programmer
 ---
 
-# Digital Preservation Programmer, University of North Texas Libraries
+# {{ page.title}}
 
 *  [Original Link](https://jobs.unt.edu/applicants/jsp/shared/frameset/Frameset.jsp?time=1331518223071)
 *  Requisition Number:	 120308  

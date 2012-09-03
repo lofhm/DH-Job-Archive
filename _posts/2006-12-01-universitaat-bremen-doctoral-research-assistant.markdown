@@ -9,7 +9,15 @@ date: 2006-12-01
 closingDate: 
 jobTitle: Doctoral Research Assistant
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

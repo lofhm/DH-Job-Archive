@@ -9,7 +9,15 @@ date: 2002-07-20
 closingDate: 
 jobTitle: Project Manager
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

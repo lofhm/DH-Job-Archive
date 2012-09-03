@@ -1,6 +1,16 @@
 ---
 layout: listing
 title: George Mason Assistant THATCamp Coordinator
+link: http://thatcamp.org/03/23/were-hiring-an-assistant-thatcamp-coordinator/
+postdate: 2012-03-23
+published: true
+location:
+	name: George Mason University
+	latitude: 38.8279
+	longitude: -77.3059
+institution: George Mason University
+organization: The Roy Rosenzweig Center for History and New Media (CHNM)
+position: Assistant THATCamp Coordinator
 ---
 
 # George Mason Assistant THATCamp Coordinator

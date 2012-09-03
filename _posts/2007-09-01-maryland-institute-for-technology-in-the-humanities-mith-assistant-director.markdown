@@ -9,7 +9,15 @@ date: 2007-09-01
 closingDate: 
 jobTitle: Assistant Director
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

@@ -9,7 +9,15 @@ date: 2010-05-01
 closingDate: 
 jobTitle:  	 Assistant/Associate Professor in Digital Humanities, Media and Cultures
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

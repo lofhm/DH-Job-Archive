@@ -9,7 +9,15 @@ date: 2001-09-15
 closingDate: 
 jobTitle: Foreign Language Specialist
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

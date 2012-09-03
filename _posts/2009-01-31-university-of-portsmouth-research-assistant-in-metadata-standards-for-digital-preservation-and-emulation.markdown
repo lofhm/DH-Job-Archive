@@ -9,7 +9,15 @@ date: 2009-01-31
 closingDate: 
 jobTitle: Research Assistant in Metadata Standards for Digital Preservation and Emulation
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

@@ -4,6 +4,13 @@ title: Academic Technology Specialist, Department of History, Stanford Universit
 link: http://jobs.stanford.edu/find_a_job.html
 postdate: 2012-07-17
 published: true
+location:
+	name: Stanford University
+	latitude: 37.4283
+	longitude: -122.1688
+institution: Stanford University
+organization: Library
+position: Academic Technology Specialist
 ---
 
 
@@ -14,7 +21,7 @@ published: true
 
 ## Description
 
-The Academic Technology Specialist (ATS) collaborates with faculty and graduate students in the History Department at Stanford University, developing and deploying innovative technological solutions in support of research, pedagogy, and publication. The ideal candidate will have a record of innovation and creativity in making technology accessible, understandable, and appealing to an academic audience. The ATS must demonstrate a fundamental understanding of the ideas that form the foundation of instruction and research in History.
+The Academic Technology Specialist(ATS) collaborates with faculty and graduate students in the History Department at Stanford University, developing and deploying innovative technological solutions in support of research, pedagogy, and publication. The ideal candidate will have a record of innovation and creativity in making technology accessible, understandable, and appealing to an academic audience. The ATS must demonstrate a fundamental understanding of the ideas that form the foundation of instruction and research in History.
 
 The ATS will have an office within the History department in order to assure proximity and availability to faculty, but will report to a manager in the Academic Technology Specialist Program (ATSP). The ATSP is part of Academic Computing, a unit of Stanford University Libraries and Academic Information Resources. Stanford's Academic Technology Specialists work in alignment with the University's commitment to excellence in education and its general vision to improve teaching, learning, and research by implementing and developing new technologies.
 

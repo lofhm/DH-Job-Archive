@@ -3,6 +3,14 @@ layout: listing
 title: University of Wyoming Assistant Archivist
 link: http://www.uwyo.edu/hr/hremployment/showjob.asp?jobid=1747
 published: true
+postdate: 2012-05-16
+location:
+	name: University of Wyoming
+	latitude: 41.3144
+	longitude: -105.5670
+institution: University of Wyoming
+organization: The American Heritage Center
+position: Assistant Archivist
 ---
 
 

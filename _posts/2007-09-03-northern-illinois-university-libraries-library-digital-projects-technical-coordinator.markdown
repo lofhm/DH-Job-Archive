@@ -9,7 +9,15 @@ date: 2007-09-03
 closingDate: 
 jobTitle: Library Digital Projects Technical Coordinator
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

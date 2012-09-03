@@ -3,6 +3,14 @@ layout: listing
 title: University of Victoria ETCL Postdoctoral Fellow in Modelling and Prototyping
 link: http://etcl-dev.uvic.ca/public/blogs/etclnews/2012/05/07/inke-call-for-postdoctoral-fellow-in-modelling-and-prototyping/
 published: true
+postdate: 2012-05-16
+location:
+	name: University of Victoria
+	latitude: 48.46342
+	longitude: -123.3125
+institution: University of Victoria
+organization: The Implementing New Knowledge Environments (INKE) project
+position: Postdoc
 ---
 
 

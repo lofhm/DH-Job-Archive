@@ -9,7 +9,15 @@ date: 2007-11-12
 closingDate: 
 jobTitle: Faculty of Arts e-Learning Support Officer
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

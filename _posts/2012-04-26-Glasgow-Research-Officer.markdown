@@ -3,6 +3,14 @@ layout: listing
 title: University of Glasgow Research Officer
 link: http://www22.i-grasp.com/fe/tpl_glasgow01.asp?s=bkMjPUrEcTFkHhTcz&jobid=51676,2356567647&key=68574858&c=747636834822&pagestamp=seltojidrsdfhrfgtt
 published: true
+postdate: 2012-04-26
+location:
+	name: University of Glasgow
+	latitude: 55.87207
+	longitude: -4.28918
+institution: University of Glasgow
+organization: School of Critical Studies
+position: Research Officer
 ---
 
 

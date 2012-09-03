@@ -9,7 +9,15 @@ date: 2009-04-10
 closingDate: 
 jobTitle: Digital Humanities Post-Doctoral Fellowship
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

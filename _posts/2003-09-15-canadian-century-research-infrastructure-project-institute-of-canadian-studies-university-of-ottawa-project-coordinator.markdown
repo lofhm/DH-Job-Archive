@@ -9,7 +9,15 @@ date: 2003-09-15
 closingDate: 
 jobTitle: Project Coordinator
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

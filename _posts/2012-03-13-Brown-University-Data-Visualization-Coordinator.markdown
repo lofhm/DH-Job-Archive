@@ -1,9 +1,19 @@
 ---
 layout: listing
-title: Data Visualization Coordinator
+title: Brown University Data Visualization Coordinator
+link: http://careers.brown.edu/applicants/Central?quickFind=118522
+postdate: 2012-03-13
+published: true
+location:
+	name: Brown University
+	latitude: 41.82684
+	longitude: -71.40297
+institution: Brown University
+organization: The Digital Scholarship Lab 
+position: Data Visualization Coordinator
 ---
 
-# Data Visualization Coordinator
+# {{ page.title}}
 
 *  [Original Link](http://careers.brown.edu/applicants/Central?quickFind=118522)
 * Job Title: Data Visualization Coordinator  

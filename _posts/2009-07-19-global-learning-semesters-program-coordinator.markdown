@@ -9,7 +9,15 @@ date: 2009-07-19
 closingDate: 
 jobTitle: Program Coordinator
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

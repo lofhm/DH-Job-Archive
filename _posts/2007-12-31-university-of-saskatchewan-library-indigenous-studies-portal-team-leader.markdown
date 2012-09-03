@@ -9,7 +9,15 @@ date: 2007-12-31
 closingDate: 
 jobTitle: Indigenous Studies Portal Team Leader
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

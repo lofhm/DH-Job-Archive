@@ -9,7 +9,15 @@ date: 2007-08-01
 closingDate: 
 jobTitle: Assistant Professor
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

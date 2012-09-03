@@ -9,7 +9,15 @@ date: 2008-09-30
 closingDate: 
 jobTitle: Marie Curie Senior Research Fellowship
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

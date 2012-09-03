@@ -4,6 +4,13 @@ title: Programmer and Digital Humanist - University of Munich
 link: http://gandhari.org/tmp/programmer_and_digital_humanist.txt
 postdate: 2012-08-21
 published: true
+location:
+	name: University of Munich
+	latitude: 48.135450
+	longitude: 11.563065
+institution: Ludwig Maximilian University of Munich
+organization: Faculty for Cultural Studies (Institute of Indology and Tibetology)
+position: Programmer
 ---
 
 # {{ page.title}}

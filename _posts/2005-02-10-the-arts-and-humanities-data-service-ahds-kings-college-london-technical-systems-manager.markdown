@@ -9,7 +9,15 @@ date: 2005-02-10
 closingDate: 
 jobTitle: Technical Systems Manager
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

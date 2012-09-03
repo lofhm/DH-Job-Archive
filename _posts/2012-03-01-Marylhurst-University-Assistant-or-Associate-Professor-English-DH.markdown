@@ -1,6 +1,16 @@
 ---
 layout: listing
 title: Marylhurst University, Assistant or Associate Professor of English and Digital Humanities
+link: http://chronicle.com/jobs/0000718482-01
+postdate: 2012-03-01
+published: true
+location:
+	name: Marylhurst University
+	latitude: 45.39856
+	longitude: -122.64725
+institution: Marylhurst University
+organization: The Department of English Literature and Writing
+position: Assistant or Associate Professor
 ---
 
 # Marylhurst University, Assistant or Associate Professor of English and Digital Humanities

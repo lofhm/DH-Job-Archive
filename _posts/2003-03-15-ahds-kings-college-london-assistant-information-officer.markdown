@@ -9,7 +9,15 @@ date: 2003-03-15
 closingDate: 
 jobTitle: Assistant Information Officer
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

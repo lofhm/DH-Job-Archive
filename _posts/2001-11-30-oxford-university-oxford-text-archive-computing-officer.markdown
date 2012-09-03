@@ -9,7 +9,15 @@ date: 2001-11-30
 closingDate: 
 jobTitle: Oxford Text Archive Computing Officer
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

@@ -9,7 +9,15 @@ date: 2007-07-04
 closingDate: 
 jobTitle: Post-Doctoral Research Assistantship in E-Science, Imaging Technology, and Ancient Documents
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

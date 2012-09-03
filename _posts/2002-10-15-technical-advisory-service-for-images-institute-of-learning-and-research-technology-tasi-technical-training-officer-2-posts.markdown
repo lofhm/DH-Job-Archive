@@ -9,7 +9,15 @@ date: 2002-10-15
 closingDate: 
 jobTitle: TASI Technical Training Officer (2 posts)
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

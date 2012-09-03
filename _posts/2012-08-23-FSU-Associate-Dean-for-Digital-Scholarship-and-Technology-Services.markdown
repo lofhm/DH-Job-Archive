@@ -4,6 +4,13 @@ title: Associate Dean for Digital Scholarship and Technology Services, Florida S
 link: http://laurientaylor.org/2012/08/23/job-associate-dean-for-digital-scholarship-and-technology-services-fsu-florida-state-university-in-tallahassee-fl/
 postdate: 2012-08-23
 published: true
+location:
+	name: Florida State University
+	latitude: 30.440741
+	longitude: -84.292152
+institution: Florida State University
+organization: Library
+position: Associate Dean for Digital Scholarship 
 ---
 
 # {{ page.title}}

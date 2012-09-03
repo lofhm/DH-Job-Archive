@@ -9,7 +9,15 @@ date: 2004-01-01
 closingDate: 
 jobTitle: Editorial Assistant
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

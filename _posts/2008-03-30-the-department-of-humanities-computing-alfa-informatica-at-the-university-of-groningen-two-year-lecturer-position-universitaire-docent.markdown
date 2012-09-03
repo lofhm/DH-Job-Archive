@@ -9,7 +9,15 @@ date: 2008-03-30
 closingDate: 
 jobTitle: Two-Year Lecturer Position (Universitaire Docent)
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

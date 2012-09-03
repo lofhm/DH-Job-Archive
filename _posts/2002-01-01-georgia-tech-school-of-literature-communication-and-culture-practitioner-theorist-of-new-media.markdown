@@ -9,7 +9,15 @@ date: 2002-01-01
 closingDate: 
 jobTitle: Practitioner-Theorist of New Media
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

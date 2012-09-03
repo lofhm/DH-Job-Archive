@@ -9,7 +9,15 @@ date: 2008-08-30
 closingDate: 
 jobTitle: Director, HATII
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

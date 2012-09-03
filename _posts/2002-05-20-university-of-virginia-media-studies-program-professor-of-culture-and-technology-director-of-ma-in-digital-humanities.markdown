@@ -9,7 +9,15 @@ date: 2002-05-20
 closingDate: 
 jobTitle: Professor of Culture and Technology, Director of MA in Digital Humanities
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

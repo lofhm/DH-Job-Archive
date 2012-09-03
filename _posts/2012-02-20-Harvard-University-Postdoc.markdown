@@ -1,6 +1,16 @@
 ---
 layout: listing
 title: 2012-2013 Harvard Postdoctoral Fellowship in Japanese Studies
+link: http://www.fas.harvard.edu/~rijs/pdfs/Postdoctoral_Fellowships_JDA.pdf
+postdate: 2012-02-20
+published: true
+location:
+	name: Harvard University
+	latitude: 42.37422
+	longitude: -71.11631
+institution: Harvard University
+organization: The Edwin O. Reischauer Institute of Japanese Studies
+position: Postdoc
 ---
 
 # 2012-2013 Harvard Postdoctoral Fellowship in Japanese Studies

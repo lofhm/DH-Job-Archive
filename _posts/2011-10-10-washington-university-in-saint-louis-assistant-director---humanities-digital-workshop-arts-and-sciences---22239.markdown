@@ -9,7 +9,15 @@ date: 2011-10-10
 closingDate: 
 jobTitle: 	 	Assistant Director - Humanities Digital Workshop, Arts and Sciences - 22239
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

@@ -9,7 +9,15 @@ date: 2006-12-31
 closingDate: 
 jobTitle: Director, Media Studies, University of Virginia
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

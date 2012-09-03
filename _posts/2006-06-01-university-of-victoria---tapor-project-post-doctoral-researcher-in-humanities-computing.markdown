@@ -9,7 +9,15 @@ date: 2006-06-01
 closingDate: 
 jobTitle: Post-Doctoral Researcher in Humanities Computing
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

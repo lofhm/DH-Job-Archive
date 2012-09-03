@@ -1,6 +1,16 @@
 ---
 layout: listing
-title: Hendrix Postdoctoral Fellow in Digital Humanities and Pedagogy
+title: Hendrix College Postdoctoral Fellow in Digital Humanities and Pedagogy
+link: http://www.hendrix.edu/uploadedFiles/Campus_Resources/Human_Resources/Job_Openings/Postdoc%20Fellowship%20in%20Digital%20Humanities%20and%20Pedagogy.pdf
+postdate: 
+published: false
+location:
+	name: Hendrix College
+	latitude: 35.1007
+	longitude: -92.4365
+institution: Hendrix College
+organization:
+position: Postdoc
 ---
 
 # Postdoctoral Fellow in Digital Humanities and Pedagogy

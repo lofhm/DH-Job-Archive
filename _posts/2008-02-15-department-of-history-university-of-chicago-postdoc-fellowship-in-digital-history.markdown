@@ -9,7 +9,15 @@ date: 2008-02-15
 closingDate: 
 jobTitle: Postdoc Fellowship in Digital  History
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

@@ -9,7 +9,15 @@ date: 2002-11-15
 closingDate: 
 jobTitle: Head of the History Data Service
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

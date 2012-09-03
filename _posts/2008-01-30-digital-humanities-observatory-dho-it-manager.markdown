@@ -9,7 +9,15 @@ date: 2008-01-30
 closingDate: 
 jobTitle: IT Manager
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

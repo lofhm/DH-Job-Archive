@@ -1,6 +1,16 @@
 ---
 layout: listing
 title: SMU Digital Projects Librarian
+link: http://digital-scholarship.org/digitalkoans/2012/04/04/digital-projects-librarian-at-southern-methodist-universitys-bridwell-library/
+published: true
+postdate: 2012-04-05
+location:
+	name: Southern Methodist University
+	latitude: 32.84040
+	longitude: -96.78284
+institution: Southern Methodist University
+organization: Library
+position: Digital Projects Librarian
 ---
 
 # Southern Methodist University Digital Projects Librarian

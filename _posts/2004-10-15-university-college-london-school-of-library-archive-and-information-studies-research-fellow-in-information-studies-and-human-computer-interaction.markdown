@@ -9,7 +9,15 @@ date: 2004-10-15
 closingDate: 
 jobTitle: Research Fellow in Information Studies & Human–Computer Interaction
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

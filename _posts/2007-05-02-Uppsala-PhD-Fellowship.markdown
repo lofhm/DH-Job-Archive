@@ -10,7 +10,15 @@ date: "2007-05-02"
 closingDate: ""
 jobTitle: "PhD fellowship in \"Textual criticism and the sociology of texts\""
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title}}

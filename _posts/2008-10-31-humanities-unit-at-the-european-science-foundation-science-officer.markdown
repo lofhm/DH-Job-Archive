@@ -9,7 +9,15 @@ date: 2008-10-31
 closingDate: 
 jobTitle: Science Officer
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

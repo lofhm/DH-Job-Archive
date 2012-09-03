@@ -9,7 +9,15 @@ date: 2008-05-01
 closingDate: 
 jobTitle: Digital Library Programmer
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

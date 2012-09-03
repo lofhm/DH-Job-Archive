@@ -9,7 +9,15 @@ date: 2003-04-30
 closingDate: 
 jobTitle: Assistant Professor, Associate Professor in Digital Humanities
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

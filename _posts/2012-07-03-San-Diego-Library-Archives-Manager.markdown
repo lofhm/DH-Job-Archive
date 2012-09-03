@@ -2,7 +2,15 @@
 layout: listing
 title: San Diego Library Digital and Archives/Special Collections Manager
 link: http://www.sandiego.edu/administration/businessadmin/humanresources/jobopportunities/openings.php
+postdate: 2012-06-28
 published: true
+location:
+	name: University of San Diego
+	latitude: 32.7718
+	longitude: -117.1873
+institution: University of San Diego
+organization: Library
+position: Digital and Archives/Special Collections Manager
 ---
 
 

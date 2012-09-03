@@ -1,6 +1,16 @@
 ---
 layout: listing
-title: Fellowship in Digital Humanities at Washington University in St. Louis
+title: Washington University Fellowship in Digital Humanities
+link: http://hdw.artsci.wustl.edu/weilfellowship
+postdate: 2012-02-25
+published: true
+location:
+	name: Washington University
+	latitude: 38.6358
+	longitude: -90.2632
+institution: Washington University
+organization: The Humanities Digital Workshop
+position: Postdoc
 ---
 
 # Mark Steinberg Weil Early Career Fellowship in Digital Humanities at Washington University in St. Louis

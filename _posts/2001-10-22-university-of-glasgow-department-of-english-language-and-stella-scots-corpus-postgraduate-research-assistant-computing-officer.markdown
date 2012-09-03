@@ -9,7 +9,15 @@ date: 2001-10-22
 closingDate: 
 jobTitle: Scots Corpus- Postgraduate Research Assistant, Computing Officer
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

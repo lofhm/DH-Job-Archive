@@ -9,7 +9,15 @@ date: 2006-10-12
 closingDate: 
 jobTitle: Assistant Professor of Women’s Studies
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

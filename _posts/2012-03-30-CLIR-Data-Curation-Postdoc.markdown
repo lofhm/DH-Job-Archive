@@ -1,6 +1,16 @@
 ---
 layout: listing
 title: CLIR Data Curation Postdoctoral Fellowship
+link: http://www.clir.org/fellowships/datacuration
+postdate: 2012-03-30
+published: true
+location: # technically there are six locations for this postition.
+	name: The Council on Library and Information Resources
+	latitude: 
+	longitude: 
+institution: The Council on Library and Information Resources
+organization: The CLIR/DLF Data Curation Fellowship Program
+position: Postdoc
 ---
 
 # CLIR Data Curation Postdoctoral Fellowship

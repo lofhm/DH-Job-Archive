@@ -9,7 +9,15 @@ date: 2008-07-02
 closingDate: 
 jobTitle: Lead Architect
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

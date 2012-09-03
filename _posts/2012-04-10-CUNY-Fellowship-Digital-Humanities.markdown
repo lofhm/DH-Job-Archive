@@ -1,6 +1,16 @@
 ---
 layout: listing
 title: CUNY Post Doctoral Fellowship Digital Humanities
+published: true
+link: http://www.gc.cuny.edu/About-the-GC/Resource-Services/Human-Resources/Jobs-at-the-GC/Detail?id=10512
+postdate: 2012-04-10
+location:
+	name: City University of New York
+	latitude: 40.74877
+	longitude: -73.98414
+institution: City University of New York
+organization: The Graduate Center 
+position: Postdoc
 ---
 
 # Post Doctoral Fellowship (Visiting Assistant Professor) - Digital Humanities

@@ -3,6 +3,14 @@ layout: listing
 title: Royal Museums Greenwich Digital Resources Engagement Officer
 link: http://www.rmg.co.uk/about/job-opportunities/digital-resources-engagement-officer
 published: true
+postdate: 2012-05-16
+location:
+	name: Royal Museums Greenwich
+	latitude: 51.48132
+	longitude: -0.00477
+institution: Royal Museums Greenwich
+organization: Curatorial, Learning and Interpretation and Digital Media departments
+position: Digital Resources Engagement Officer
 ---
 
 

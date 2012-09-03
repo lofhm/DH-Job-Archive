@@ -9,7 +9,15 @@ date: 2009-06-30
 closingDate: 
 jobTitle: Research Assistant
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

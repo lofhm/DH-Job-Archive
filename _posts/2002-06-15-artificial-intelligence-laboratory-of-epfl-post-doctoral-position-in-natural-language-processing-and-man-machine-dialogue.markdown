@@ -9,7 +9,15 @@ date: 2002-06-15
 closingDate: 
 jobTitle: Post-Doctoral Position in Natural Language Processing and Man-Machine Dialogue
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

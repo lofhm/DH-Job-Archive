@@ -9,7 +9,15 @@ date: 2009-09-30
 closingDate: 
 jobTitle: Postdoctoral Fellow in the History and Future of the Book
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

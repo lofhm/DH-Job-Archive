@@ -9,7 +9,15 @@ date: 2003-10-11
 closingDate: 
 jobTitle: Content Editor (Modern Languages)
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

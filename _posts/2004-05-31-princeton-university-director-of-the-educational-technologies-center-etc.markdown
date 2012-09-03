@@ -9,7 +9,15 @@ date: 2004-05-31
 closingDate: 
 jobTitle: Director of the Educational Technologies Center (ETC)
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

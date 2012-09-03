@@ -9,7 +9,15 @@ date: 2002-01-15
 closingDate: 
 jobTitle: Assistant Professor, Multimedia and Digital Video
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

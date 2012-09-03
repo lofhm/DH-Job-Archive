@@ -9,7 +9,15 @@ date: 2003-09-02
 closingDate: 
 jobTitle: DIRECTOR – INSTITUTE FOR ADVANCED TECHNOLOGY IN THE HUMANITIES
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

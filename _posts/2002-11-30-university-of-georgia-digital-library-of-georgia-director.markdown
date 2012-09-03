@@ -9,7 +9,15 @@ date: 2002-11-30
 closingDate: 
 jobTitle: Digital Library of Georgia, Director
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

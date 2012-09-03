@@ -1,9 +1,18 @@
 ---
 layout: listing
-title: Coordinator / Assistant Director @ Electronic Cultures Lab UVictoria
+title: University of Victoria Coordinator / Assistant Director @ Electronic Cultures Lab 
+link: http://etcl.uvic.ca/2011/11/07/the-etcl-is-seeking-a-coordinator/
+published: true
+location:
+	name: University of Victoria
+	latitude: 48.46342
+	longitude: -123.3125
+institution: University of Victoria
+organization: Electronic Cultures Lab 
+position: Coordinator / Assistant Director
 ---
 
-# The ETCL Seeking a Coordinator / Assistant Director!
+# {{ page.title}}
 
 * [Original Link](http://etcl.uvic.ca/2011/11/07/the-etcl-is-seeking-a-coordinator/)
 

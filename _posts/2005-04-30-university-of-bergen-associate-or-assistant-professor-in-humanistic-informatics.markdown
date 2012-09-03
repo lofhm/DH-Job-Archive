@@ -9,7 +9,15 @@ date: 2005-04-30
 closingDate: 
 jobTitle: Associate or assistant professor in Humanistic Informatics
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

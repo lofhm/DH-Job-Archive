@@ -9,7 +9,15 @@ date: 2003-01-15
 closingDate: 
 jobTitle: Department Director
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

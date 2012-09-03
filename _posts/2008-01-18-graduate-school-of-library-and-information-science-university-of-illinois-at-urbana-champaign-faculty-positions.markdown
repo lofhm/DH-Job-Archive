@@ -9,7 +9,15 @@ date: 2008-01-18
 closingDate: 
 jobTitle: Faculty Positions
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

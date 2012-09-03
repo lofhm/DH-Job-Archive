@@ -4,6 +4,13 @@ title: Digital Initiatives Project Manager at Yale University Library
 link: https://collaborate.library.yale.edu/lhr-public/jobs/digitalinitiativesmanager.aspx
 postdate: 2012-08-21
 published: true
+location:
+	name: Yale University
+	latitude: 41.306568
+	longitude: -72.929283
+institution: Yale University
+organization: Library
+postition: Digital Initiatives Project Manager
 ---
 
 # {{ page.title}}

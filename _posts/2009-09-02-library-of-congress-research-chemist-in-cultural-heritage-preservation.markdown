@@ -9,7 +9,15 @@ date: 2009-09-02
 closingDate: 
 jobTitle: Research Chemist in Cultural Heritage Preservation
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

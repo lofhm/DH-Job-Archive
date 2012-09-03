@@ -9,7 +9,15 @@ date: 2007-05-01
 closingDate: 
 jobTitle: Head of the Carolina Digital Library
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

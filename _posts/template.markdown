@@ -1,7 +1,7 @@
 ---
 layout: listing
 title:
-link:
+link: 
 postdate: 
 published: false
 location:

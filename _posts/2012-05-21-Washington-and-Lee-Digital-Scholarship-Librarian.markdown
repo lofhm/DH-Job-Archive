@@ -1,8 +1,16 @@
 ---
 layout: listing
-title: Washington and Lee University Digital Scholarship Librarian  
+title: Washington and Lee University Digital Scholarship Librarian
 link: http://jobs.wlu.edu:80/postings/1191
 published: true
+postdate: 2012-05-29
+location:
+	name: Washington and Lee University
+	latitude: 37.78923
+	longitude: -79.44598
+institution: Washington and Lee University
+organization: Library
+position: Digital Scholarship Librarian
 ---
 
 # {{ page.title}}

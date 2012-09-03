@@ -1,6 +1,16 @@
 ---
 layout: listing
-title: Tufts - ARCHIVIST FOR DIGITAL COLLECTIONS
+title: Tufts - Archivist For Digital Collections
+link: https://2xrecruit.kenexa.com/kr/cc/jsp/public/EmailJobDetail.jsf?npi=665B137F6797C0F7213DE82547E92B47&rand=4AED31E7C239D9EFCF6881528FF557BA98DDC497C26E1575969E7A621BEEF933#.T15D40Jru8o.email
+postdate: 2012-03-17
+published: true
+location:
+	name: Tufts University
+	latitude: 42.4054
+	longitude: -71.1199
+institution: Tufts University
+organization: The Digital Collections and Archives
+position: Archivist for Digital Collections
 ---
 
 # ARCHIVIST FOR DIGITAL COLLECTIONS - Digital Collections and Archives

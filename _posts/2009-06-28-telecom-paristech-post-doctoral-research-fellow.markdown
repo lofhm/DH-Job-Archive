@@ -9,7 +9,15 @@ date: 2009-06-28
 closingDate: 
 jobTitle: Post-doctoral research fellow
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

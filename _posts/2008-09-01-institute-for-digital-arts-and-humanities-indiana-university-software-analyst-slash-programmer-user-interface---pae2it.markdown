@@ -9,7 +9,15 @@ date: 2008-09-01
 closingDate: 
 jobTitle: Software Analyst/Programmer, User Interface - PAE2IT
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

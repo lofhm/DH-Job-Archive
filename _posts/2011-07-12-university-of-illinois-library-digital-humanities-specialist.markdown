@@ -9,7 +9,15 @@ date: 2011-07-12
 closingDate: 
 jobTitle: Digital Humanities Specialist
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

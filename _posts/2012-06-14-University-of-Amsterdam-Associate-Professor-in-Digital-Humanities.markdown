@@ -2,7 +2,15 @@
 layout: listing
 title: University of Amsterdam Associate Professor in Digital Humanities
 link: http://www.uva.nl/vacatures/vacatures.cfm/C3066CFC-A9DF-412F-929FCDBAF1712491
+postdate: 2012-06-14
 published: true
+location:
+	name: University of Amsterdam
+	latitude: 52.35707
+	longitude: 4.95013
+institution: University of Amsterdam
+organization: The Institute for Logic, Language and Computation (ILLC)
+position: Associate Professor in Digital Humanities
 ---
 
 # {{ page.title}}

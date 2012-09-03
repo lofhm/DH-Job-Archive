@@ -9,7 +9,15 @@ date: 2002-01-31
 closingDate: 
 jobTitle: Information Environment Programme Managers (2 posts)
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

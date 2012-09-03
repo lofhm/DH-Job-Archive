@@ -9,7 +9,15 @@ date: 2002-09-30
 closingDate: 
 jobTitle: Assistant or Associate Professorships in Computer Games and in Digital Aesthetics and Communication
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

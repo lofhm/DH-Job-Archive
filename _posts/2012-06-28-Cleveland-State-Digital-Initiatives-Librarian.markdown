@@ -2,7 +2,15 @@
 layout: listing
 title: Cleveland State Digital Initiatives Librarian 
 link: http://www.csuohio.edu/offices/hrd/employment.html
+postdate: 2012-06-28
 published: true
+location:
+	name: Cleveland State University
+	latitude: 41.50327
+	longitude: -81.67497
+institution: Cleveland State University
+organization: Library
+position: Assistant Director for Technical Services
 ---
 
 

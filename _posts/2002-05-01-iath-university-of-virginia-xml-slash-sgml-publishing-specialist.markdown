@@ -9,7 +9,15 @@ date: 2002-05-01
 closingDate: 
 jobTitle: XML/SGML publishing specialist
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

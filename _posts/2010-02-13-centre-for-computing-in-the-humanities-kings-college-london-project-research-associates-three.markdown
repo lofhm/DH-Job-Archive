@@ -9,7 +9,15 @@ date: 2010-02-13
 closingDate: 
 jobTitle: Project Research Associates (three)
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

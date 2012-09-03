@@ -9,7 +9,15 @@ date: 2008-07-31
 closingDate: 
 jobTitle: Postdoc in Early Modern Studies and Humanities Computing
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

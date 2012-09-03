@@ -9,7 +9,15 @@ date: 2004-06-25
 closingDate: 
 jobTitle: Chair of Library and Information Studies and Director of the School
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

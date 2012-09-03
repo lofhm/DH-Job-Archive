@@ -9,7 +9,15 @@ date: 2007-10-01
 closingDate: 
 jobTitle: Coordinator (Digital Libraries Developer)
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

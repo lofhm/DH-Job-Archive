@@ -9,7 +9,15 @@ date: 2007-09-10
 closingDate: 
 jobTitle: Project Research Fellow
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

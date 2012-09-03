@@ -9,7 +9,15 @@ date: 2003-09-30
 closingDate: 
 jobTitle: Academic Technology Specialist, Department of Art and Art History and Department of Drama
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

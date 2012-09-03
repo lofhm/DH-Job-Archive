@@ -9,7 +9,15 @@ date: 2007-04-02
 closingDate: 
 jobTitle: Senior Faculty Position in Humanities Computing
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

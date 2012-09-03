@@ -9,7 +9,15 @@ date: 2006-07-19
 closingDate: 
 jobTitle: Part-Time Programmer
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

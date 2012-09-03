@@ -1,9 +1,19 @@
 ---
 layout: listing
-title: Education Specialist (Professional Development and Web Technology)
+title: Cooper Hewitt Education Specialist (Professional Development and Web Technology)
+link: http://www.cooperhewitt.org/careers
+postdate: 2012-03-07
+published: true
+location:
+	name: Cooper Hewitt National Design Museum
+	latitude: 40.7845
+	longitude: -73.9577
+institution: Cooper Hewitt National Design Museum
+organization: Education Department
+position: Education Specialist
 ---
 
-# Education Specialist (Professional Development and Web Technology)
+# {{ page.title}}
 
 *  [Original Link](http://www.cooperhewitt.org/careers)
 

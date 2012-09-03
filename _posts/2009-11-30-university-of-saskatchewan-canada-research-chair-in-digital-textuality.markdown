@@ -9,7 +9,15 @@ date: 2009-11-30
 closingDate: 
 jobTitle: Canada Research Chair in Digital Textuality
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

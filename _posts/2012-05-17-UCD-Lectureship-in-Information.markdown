@@ -2,9 +2,17 @@
 layout: listing
 title: UCD Lectureship in Information
 link: https://hrweb.ucd.ie/pls/corehrrecruit/docs/0000122901.pdf
+postdate: 2012-05-17
 published: true
+location:
+	name: University College Dublin
+	latitude: 53.3071
+	longitude: -6.2190
+institution: University College Dublin
+organization: College of Human Sciences
+position: Lectureship in Information
 ---
-
+ 
 # {{ page.title}}
 
 * [Original Link]({{ page.link}})

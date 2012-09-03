@@ -9,7 +9,15 @@ date: 2011-01-09
 closingDate: 
 jobTitle: Fellowship
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

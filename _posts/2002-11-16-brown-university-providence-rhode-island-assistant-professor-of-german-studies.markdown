@@ -9,7 +9,15 @@ date: 2002-11-16
 closingDate: 
 jobTitle: Assistant Professor of German Studies
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

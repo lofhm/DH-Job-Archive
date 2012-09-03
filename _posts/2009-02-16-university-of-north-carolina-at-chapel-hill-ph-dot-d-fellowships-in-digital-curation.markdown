@@ -9,7 +9,15 @@ date: 2009-02-16
 closingDate: 
 jobTitle: Ph.D. fellowships in digital curation
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

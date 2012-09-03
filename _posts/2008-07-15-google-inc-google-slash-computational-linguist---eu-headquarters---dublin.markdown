@@ -9,7 +9,15 @@ date: 2008-07-15
 closingDate: 
 jobTitle: Google / Computational Linguist - EU Headquarters - Dublin
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

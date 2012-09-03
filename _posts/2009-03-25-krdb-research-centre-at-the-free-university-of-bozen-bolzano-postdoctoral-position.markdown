@@ -9,7 +9,15 @@ date: 2009-03-25
 closingDate: 
 jobTitle: Postdoctoral Position
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

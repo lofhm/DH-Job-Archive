@@ -9,7 +9,15 @@ date: 2003-06-15
 closingDate: 
 jobTitle: Lecturer in Electronic Communication
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

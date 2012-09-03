@@ -4,6 +4,13 @@ title: Assistant Professor in Digital Humanities (Multiple positions) at Univers
 link: https://employment.unl.edu/applicants/jsp/shared/position/JobDetails_css.jsp?postingId=270074
 postdate: 2012-08-16
 published: true
+location:
+	name: University of Nebraska-Lincoln
+	latitude: 40.818031
+	longitude: -96.701538
+institution: University of Nebraska-Lincoln
+organization: College of Arts & Sciences
+position: Assistant Professor
 ---
 
 

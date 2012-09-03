@@ -4,6 +4,14 @@ title: Senior Developer for Digital Initiatives at The Western Washington Univer
 link: https://jobs.wwu.edu/JobPosting.aspx?JPID=3621
 postdate: 2012-08-23
 published: true
+location:
+	name: Western Washington University
+	latitude: 48.738171
+	longitude: -122.486183
+institution: Western Washington University
+organization: Library
+postition: Senior Developer for Digital Initiatives
+
 ---
 
 # {{ page.title}}

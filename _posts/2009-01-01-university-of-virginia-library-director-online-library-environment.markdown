@@ -9,7 +9,15 @@ date: 2009-01-01
 closingDate: 
 jobTitle: Director, Online Library Environment
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

@@ -1,6 +1,16 @@
 ---
 layout: listing
 title: Georgia Tech Scholarly Communication Librarian
+link: http://www.library.gatech.edu/about/jobs.php#sclib
+postdate: 2012-03-26
+published: true
+location:
+	name: Georgia Tech
+	latitude: 33.7781
+	longitude: -84.3987
+institution: Georgia Tech
+organization: Library
+position: Scholarly Communication Librarian
 ---
 
 # Georgia Tech Scholarly Communication Librarian

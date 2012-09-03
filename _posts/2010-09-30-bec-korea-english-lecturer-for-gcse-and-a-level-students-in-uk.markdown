@@ -9,7 +9,15 @@ date: 2010-09-30
 closingDate: 
 jobTitle: English lecturer for GCSE and A-level students in UK
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

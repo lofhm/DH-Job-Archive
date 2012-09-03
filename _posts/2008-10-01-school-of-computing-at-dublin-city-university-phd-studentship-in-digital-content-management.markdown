@@ -9,7 +9,15 @@ date: 2008-10-01
 closingDate: 
 jobTitle: PhD Studentship in Digital Content Management
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

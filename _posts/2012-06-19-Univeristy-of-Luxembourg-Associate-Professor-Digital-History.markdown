@@ -2,7 +2,15 @@
 layout: listing
 title: University of Luxembourg Associate Professor or Professor in Digital History
 link: http://recruitment.uni.lu/fr/details.html?id=QMUFK026203F3VBQB7V7VV4S8&nPostingID=908&nPostingTargetID=1103&mask=karriereseiten&lg=FR
+postdate: 2012-06-19
 published: true
+location:
+	name: University of Luxembourg
+	latitude: 49.62297
+	longitude: 6.11171
+institution: University of Luxembourg
+organization: Faculty of Language and Literature, Humanities, Arts and Education (FLSHASE)
+position: Associate Professor or Professor in Digital History
 ---
 
 # {{ page.title}}

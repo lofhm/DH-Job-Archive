@@ -4,6 +4,13 @@ title: Assistant Professor Journalism & Digital Media - Lehigh University
 link: https://academicjobsonline.org/ajo/jobs/1608
 postdate: 2012-07-24
 published: true
+location:
+	name: 
+	latitude: 40.6051
+	longitude: -75.3776
+institution: Lehigh University
+organization: The Department of Journalism and Communication
+position: Assistant Professor
 ---
 
 

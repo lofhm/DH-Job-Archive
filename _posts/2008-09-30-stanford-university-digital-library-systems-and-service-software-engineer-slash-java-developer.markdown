@@ -9,7 +9,15 @@ date: 2008-09-30
 closingDate: 
 jobTitle: Software Engineer/Java Developer
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

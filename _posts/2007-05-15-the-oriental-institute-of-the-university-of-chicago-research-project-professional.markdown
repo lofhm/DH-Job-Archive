@@ -9,7 +9,15 @@ date: 2007-05-15
 closingDate: 
 jobTitle: Research Project Professional
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

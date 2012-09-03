@@ -3,6 +3,14 @@ layout: listing
 title: Berkman Center Project Manager
 link: https://sjobs.brassring.com/1033/asp/tg/cim_jobdetail.asp?jobId=880847&PartnerId=25240&SiteId=5341&type=mail&JobReqLang=1&recordstart=1&JobSiteId=5341&JobSiteInfo=880847_5341&gqid=0
 published: true
+postdate: 2012-05-07
+location:
+	name: Berkman Center for Internet & Society
+	latitude: 42.37996
+	longitude: -71.11798
+institution: Harvard University
+organization: Berkman Center for Internet & Society
+position: Project Manager
 ___
 
 # {{ page.title}}

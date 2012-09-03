@@ -1,6 +1,16 @@
 ---
 layout: listing
 title: Florida State University Libraries Digital Archivist
+link: http://www.lib.fsu.edu/files/pdfs/employment/Digital_Archivist.pdf
+postdate: 2012-02-15
+published: true
+location:
+	name: Florida State University
+	latitude: 30.440741
+	longitude: -84.292152
+institution: Florida State University
+organization: Library
+position: Digital Archivist
 ---
 
 # Florida State University Libraries Digital Archivist

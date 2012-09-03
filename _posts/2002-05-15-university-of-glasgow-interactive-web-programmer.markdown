@@ -9,7 +9,15 @@ date: 2002-05-15
 closingDate: 
 jobTitle: Interactive Web Programmer
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

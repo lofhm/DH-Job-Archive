@@ -9,7 +9,15 @@ date: 2007-06-19
 closingDate: 
 jobTitle: Librarian for Digital Collection Development
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

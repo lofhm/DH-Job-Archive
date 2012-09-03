@@ -1,14 +1,22 @@
 ---
 layout: listing
 title: Colorado Research Two-Year Research Fellowship in Digital Curation
+published: true
+link: https://www.jobsatcu.com/applicants/jsp/shared/position/JobDetails_css.jsp?postingId=284337
+postdate: 2012-04-14
+location:
+	name: University of Colorado at Boulder
+	latitude: 40.00679
+	longitude: -105.27237
+institution: University of Colorado at Boulder
+organization: Journalism and Mass Communication
+position: Research Fellowship
 ---
 
 
-# Two-Year Research Fellowship in Digital Curation
-Journalism and Mass Communication
-University of Colorado at Boulder
+# {{ page.title}}
 
-* [Original Link](https://www.jobsatcu.com/applicants/jsp/shared/position/JobDetails_css.jsp?postingId=284337)
+* [Original Link]({{ page.link}})
 
 ##Description
 We are seeking to hire a research fellow with a degree in Library and/or

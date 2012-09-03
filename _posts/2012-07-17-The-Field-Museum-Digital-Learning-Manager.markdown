@@ -4,6 +4,13 @@ title: Digital Learning Manager - The Field Museum
 link: http://www.bfound.net/detail.aspx?jobId=107587&CoId=45&rq=2
 postdate: 2012-07-17
 published: true
+location:
+	name: The Field Museum
+	latitude: 41.86613
+	longitude: -87.61724
+institution: The Field Museum
+organization: Digital Learning Team
+position: Digital Learning Manager
 ---
 
 

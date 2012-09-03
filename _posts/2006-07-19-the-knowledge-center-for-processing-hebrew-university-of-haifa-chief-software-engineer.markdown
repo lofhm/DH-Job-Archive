@@ -9,7 +9,15 @@ date: 2006-07-19
 closingDate: 
 jobTitle: Chief Software Engineer
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

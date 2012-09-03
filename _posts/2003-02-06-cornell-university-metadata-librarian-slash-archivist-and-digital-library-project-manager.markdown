@@ -9,7 +9,15 @@ date: 2003-02-06
 closingDate: 
 jobTitle: Metadata Librarian/Archivist & Digital Library Project Manager
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

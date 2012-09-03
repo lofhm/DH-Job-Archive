@@ -3,6 +3,14 @@ layout: listing
 title: Elite Network Shifts Postdoctoral Researcher
 link: http://www.kitlv.nl/home/Research?subpage_id=440
 published: true
+postdate: 2012-05-15
+location:
+	name: Royal Netherlands Institute of Southeast Asian and Caribbean Studies
+	latitude: 52.15853
+	longitude: 4.48248
+institution: Koninklijk Instituut voor Taal-, Land- en Volkenkunde (KITLV) / Royal Netherlands Institute of Southeast Asian and Caribbean Studies
+organization: Elite Network Shifts (ENS)
+position: Postdoc
 ---
 
 # {{ page.title}}

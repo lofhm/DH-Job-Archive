@@ -4,6 +4,13 @@ title: Professor in Human Centered Design & Engineering - University of Washingt
 link: http://hcde.uw.edu/employment#tenure_track_assistant_associate_professor_aug_2012
 postdate: 2012-08-10
 published: true
+location:
+	name: University of Washington
+	latitude: 47.653912
+	longitude: -122.306183
+institution: University of Washington
+organization: The Department of Human Centered Design & Engineering
+position: Assistant, Associate, or Full Professor
 ---
 
 

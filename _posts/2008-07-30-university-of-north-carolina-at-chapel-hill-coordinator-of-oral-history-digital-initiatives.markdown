@@ -9,7 +9,15 @@ date: 2008-07-30
 closingDate: 
 jobTitle: Coordinator of Oral History Digital Initiatives
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

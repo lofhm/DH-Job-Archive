@@ -9,7 +9,15 @@ date: 2008-09-01
 closingDate: 
 jobTitle: Software Analyst/Programmer, Database and Application Architecture - PAE3I
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

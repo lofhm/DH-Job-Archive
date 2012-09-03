@@ -9,7 +9,15 @@ date: 2008-03-01
 closingDate: 
 jobTitle: Information Scientist or Media and Computing Scientist (Web-Projects Manager)
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

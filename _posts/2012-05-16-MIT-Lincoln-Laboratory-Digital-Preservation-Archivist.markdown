@@ -3,6 +3,14 @@ layout: listing
 title: MIT Lincoln Laboratory Digital Preservation Archivist
 link: https://www.ll.apply2jobs.com/ProfExt/index.cfm?fuseaction=mExternal.showJob&RID=3506
 published: true
+postdate: 2012-05-16
+location:
+	name: MIT
+	latitude: 42.4590
+	longitude: -71.2674
+institution: MIT Lincoln Laboratory
+organization: Laboratory Archives
+position: Digital Preservation Archivist
 ---
 
 

@@ -9,7 +9,15 @@ date: 2008-08-25
 closingDate: 
 jobTitle: Humanities Computing Specialist
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

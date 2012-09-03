@@ -9,7 +9,15 @@ date: 2008-06-12
 closingDate: 
 jobTitle: Postdoctoral and Fellowship positions
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

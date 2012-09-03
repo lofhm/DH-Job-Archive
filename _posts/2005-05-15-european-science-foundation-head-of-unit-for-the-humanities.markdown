@@ -9,7 +9,15 @@ date: 2005-05-15
 closingDate: 
 jobTitle: Head of Unit for the Humanities
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

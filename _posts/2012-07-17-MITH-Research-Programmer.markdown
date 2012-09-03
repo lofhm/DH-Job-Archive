@@ -1,11 +1,18 @@
 ---
 layout: listing
 title: Research Programmer Maryland Institute for Technology in the Humanities at the University of Maryland
-link: 
-postdate: 
-published: false
+link: http://mith-dev.umd.edu/come-work-mith-as-a-research-programmer/
+postdate: 2012-07-17
+published: true
+location:
+	name: University of Maryland
+	latitude: 38.9915
+	longitude: -76.9494
+institution: University of Maryland
+organization: Maryland Institute for Technology in the Humanities
+position: Research Programmer
 ---
-
+ 
 
 # {{ page.title}}
 

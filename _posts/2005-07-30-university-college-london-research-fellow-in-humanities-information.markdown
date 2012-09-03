@@ -9,7 +9,15 @@ date: 2005-07-30
 closingDate: 
 jobTitle: Research Fellow in Humanities Information
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

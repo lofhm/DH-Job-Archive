@@ -9,7 +9,15 @@ date: 2008-02-28
 closingDate: 
 jobTitle: NINES directorship
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

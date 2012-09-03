@@ -9,7 +9,15 @@ date: 2006-11-15
 closingDate: 
 jobTitle: Asst. Professor - Electronic Literacies
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

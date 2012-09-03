@@ -9,7 +9,15 @@ date: 2004-02-15
 closingDate: 
 jobTitle: Assistant Professor, Information Literacy
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

@@ -9,7 +9,15 @@ date: 2011-03-12
 closingDate: 
 jobTitle: Technical Project Officer (Web Frontend Design/Development)
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

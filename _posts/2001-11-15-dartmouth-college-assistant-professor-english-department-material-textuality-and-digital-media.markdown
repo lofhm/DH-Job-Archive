@@ -9,7 +9,15 @@ date: 2001-11-15
 closingDate: 
 jobTitle: Assistant Professor,  English Department Material Textuality and Digital Media
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

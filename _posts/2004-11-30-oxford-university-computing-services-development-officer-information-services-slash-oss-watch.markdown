@@ -9,7 +9,15 @@ date: 2004-11-30
 closingDate: 
 jobTitle: Development Officer (Information Services/OSS Watch)
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

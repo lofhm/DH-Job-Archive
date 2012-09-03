@@ -9,7 +9,15 @@ date: 2010-03-31
 closingDate: 
 jobTitle: Nurse
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

@@ -4,6 +4,13 @@ title: HASTAC Program Coordinator
 link: http://hastac.org/opportunities/hastac-program-coordinator-job-opening
 postdate: 2012-07-26
 published: true
+location:
+	name: Duke University
+	latitude: 36.0023
+	longitude: -78.9371
+institution: Duke University
+organization: HASTAC
+position: Program Coordinator
 ---
 
 

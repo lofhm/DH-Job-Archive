@@ -9,7 +9,15 @@ date: 2001-12-31
 closingDate: 
 jobTitle: Information Officer
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

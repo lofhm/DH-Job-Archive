@@ -3,6 +3,14 @@ layout: listing
 title: King's College London Postdoctoral Research Associate East Asian Digital Humanities - Department of History
 link: http://www.jobs.ac.uk/job/AEK733/postdoctoral-research-associate/
 published: true
+postdate: 2012-05-16
+location:
+	name: Kings College London UK
+	latitude: 51.512138
+	longitude: -0.116640
+institution: King's College London
+organization: Department of History
+position: Postdoc
 ---
 
 

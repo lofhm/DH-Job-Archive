@@ -9,7 +9,15 @@ date: 2004-06-15
 closingDate: 
 jobTitle: Editor/Proofreader
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

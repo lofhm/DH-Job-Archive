@@ -9,7 +9,15 @@ date: 2002-03-31
 closingDate: 
 jobTitle: Digital Conversion Specialist
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

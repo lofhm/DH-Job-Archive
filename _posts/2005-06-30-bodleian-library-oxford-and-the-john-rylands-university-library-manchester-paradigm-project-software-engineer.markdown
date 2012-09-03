@@ -9,7 +9,15 @@ date: 2005-06-30
 closingDate: 
 jobTitle: PARADIGM Project Software Engineer
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

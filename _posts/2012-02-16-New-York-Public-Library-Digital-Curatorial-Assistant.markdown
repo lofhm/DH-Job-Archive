@@ -1,6 +1,16 @@
 ---
 layout: listing
 title: NYPL Digital Curatorial Assistant (temporary)
+link: https://jobs-nypl.icims.com/jobs/6780/job
+published: true
+postdate: 2012-02-16
+location:
+	name: New York Public Library
+	latitude: 40.75380
+	longitude: -73.98369
+institution: New York Public Library
+organization: LPA Administration
+position: Digital Curatorial Assistant
 ---
 
 # Digital Curatorial Assistant (temporary)

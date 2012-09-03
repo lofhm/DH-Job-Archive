@@ -9,7 +9,15 @@ date: 2007-02-16
 closingDate: 
 jobTitle: Digital Librarian
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

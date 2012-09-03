@@ -9,7 +9,15 @@ date: 2002-06-15
 closingDate: 
 jobTitle: Associate Director, Electronic Text Center
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

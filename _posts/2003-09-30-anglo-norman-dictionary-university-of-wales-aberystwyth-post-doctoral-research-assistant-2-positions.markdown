@@ -9,7 +9,15 @@ date: 2003-09-30
 closingDate: 
 jobTitle: Post-doctoral Research Assistant (2 positions)
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

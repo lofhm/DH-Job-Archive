@@ -9,7 +9,15 @@ date: 2003-07-31
 closingDate: 
 jobTitle: Oxford Text Archive Research Officer
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

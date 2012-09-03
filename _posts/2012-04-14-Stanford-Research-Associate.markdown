@@ -1,11 +1,20 @@
 ---
 layout: listing
 title: Stanford Research Associate in Digital Humanities and Computational Criticism
+link: http://lists.digitalhumanities.org/pipermail/humanist/2012-April/003033.html
+published: true
+postdate: 2012-04-14
+location:
+	name: Stanford University
+	latitude: 37.4283
+	longitude: -122.1688
+institution: Stanford University
+organization: Department of English
+position: Research Associate
 ---
 
 
-# Stanford Research Associate in Digital Humanities and Computational Criticism.
-
+# {{ page.title}}
 
 * Salary $60,000- $70,000
 

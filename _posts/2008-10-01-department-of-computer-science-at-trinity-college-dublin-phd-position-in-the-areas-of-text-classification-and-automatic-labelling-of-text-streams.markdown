@@ -9,7 +9,15 @@ date: 2008-10-01
 closingDate: 
 jobTitle: PhD position in the areas of text classification and automatic labelling of text streams.
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

@@ -9,7 +9,15 @@ date: 2006-11-01
 closingDate: 
 jobTitle: Endowed Chair - Digital Humanities
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

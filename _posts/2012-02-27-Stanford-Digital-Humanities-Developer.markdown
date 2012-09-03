@@ -1,12 +1,21 @@
 ---
 layout: listing
 title: Stanford Digital Humanities Developer
+link: http://recruit.trovix.com/jobhostmaster/jobhost/ViewJobPostDetails.do?title=DIGITAL+HUMANITIES+DEVELOPER&jobPostId=6rvtzf3qcbg2bknl5mmgtvljld&accountId=de85ad313f8598db1c42b567a3df24a00497ba22&button=&action=viewDetails&tid=0207-evdgedgeo5ak5abfahik5d4agc
+postdate: 2012-02-27
+published: true
+location:
+	name: Stanford University
+	latitude: 37.4283
+	longitude: -122.1688
+institution: Stanford University
+organization: Library
+position: Digital Humanities Developer
 ---
 
 # Digital Humanities Developer
 
 * [Original link](http://recruit.trovix.com/jobhostmaster/jobhost/ViewJobPostDetails.do?title=DIGITAL+HUMANITIES+DEVELOPER&jobPostId=6rvtzf3qcbg2bknl5mmgtvljld&accountId=de85ad313f8598db1c42b567a3df24a00497ba22&button=&action=viewDetails&tid=0207-evdgedgeo5ak5abfahik5d4agc)
-
 *  Job ID: 46583
 *  Job Location: University Libraries
 *  Salary: 4P2

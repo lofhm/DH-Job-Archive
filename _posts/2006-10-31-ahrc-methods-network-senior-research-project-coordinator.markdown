@@ -9,7 +9,15 @@ date: 2006-10-31
 closingDate: 
 jobTitle: Senior Research Project Coordinator
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

@@ -1,6 +1,16 @@
 ---
 layout: listing
 title: University Northern Colorado Digital Initiatives Librarian
+link: http://www.unco.edu/library/documents/PositionDescriptionDigitalInitiatives.pdf
+postdate: 2012-03-22
+published: true
+location:
+	name: University Northern Colorado
+	latitude: 40.4053
+	longitude: -104.7049
+institution: University Northern Colorado
+organization: Library
+position: Digital Initiatives Librarian
 ---
 
 # University Northern Colorado Digital Initiatives Librarian

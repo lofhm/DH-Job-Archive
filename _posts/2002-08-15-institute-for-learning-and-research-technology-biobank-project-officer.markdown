@@ -9,7 +9,15 @@ date: 2002-08-15
 closingDate: 
 jobTitle: BioBank Project Officer
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

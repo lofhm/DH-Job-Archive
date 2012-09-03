@@ -9,7 +9,15 @@ date: 2009-09-12
 closingDate: 
 jobTitle: Fellowship in Digital Community History
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

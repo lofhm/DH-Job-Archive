@@ -9,7 +9,15 @@ date: 2007-05-11
 closingDate: 
 jobTitle: Professor of Textual Studies
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

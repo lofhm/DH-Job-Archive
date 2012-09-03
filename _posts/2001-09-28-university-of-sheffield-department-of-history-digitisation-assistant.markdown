@@ -9,7 +9,15 @@ date: 2001-09-28
 closingDate: 
 jobTitle: Digitisation Assistant
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

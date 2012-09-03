@@ -9,7 +9,15 @@ date: 2008-12-01
 closingDate: 
 jobTitle: Librarian for Digital Humanities Research
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

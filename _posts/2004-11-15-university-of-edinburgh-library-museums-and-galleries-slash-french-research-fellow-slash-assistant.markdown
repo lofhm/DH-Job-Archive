@@ -9,7 +9,15 @@ date: 2004-11-15
 closingDate: 
 jobTitle: Research Fellow/Assistant
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

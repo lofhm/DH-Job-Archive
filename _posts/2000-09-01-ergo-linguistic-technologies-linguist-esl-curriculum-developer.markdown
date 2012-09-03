@@ -9,7 +9,15 @@ date: 2000-09-01
 closingDate: 
 jobTitle: Linguist; ESL Curriculum Developer
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

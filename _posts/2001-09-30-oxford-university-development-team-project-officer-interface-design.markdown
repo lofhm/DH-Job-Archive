@@ -9,7 +9,15 @@ date: 2001-09-30
 closingDate: 
 jobTitle: Development Team Project Officer (Interface Design)
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

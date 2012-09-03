@@ -9,7 +9,15 @@ date: 2004-05-31
 closingDate: 
 jobTitle: Head, Digital Services and Development Unit Assistant or Associate Professor of Library Administration
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

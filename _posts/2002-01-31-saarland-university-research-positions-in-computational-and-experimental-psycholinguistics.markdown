@@ -9,7 +9,15 @@ date: 2002-01-31
 closingDate: 
 jobTitle: Research Positions in Computational and Experimental Psycholinguistics
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

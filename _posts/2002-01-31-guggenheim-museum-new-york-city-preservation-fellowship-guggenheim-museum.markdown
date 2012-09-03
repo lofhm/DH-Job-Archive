@@ -9,7 +9,15 @@ date: 2002-01-31
 closingDate: 
 jobTitle: Preservation Fellowship, Guggenheim Museum
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

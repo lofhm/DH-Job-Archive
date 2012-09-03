@@ -1,9 +1,19 @@
 ---
 layout: listing
-title: Postdoctoral Fellowship in Digital Classics at Dickinson College
+title: Dickinson College Postdoctoral Fellowship in Digital Classics 
+link: https://jobs.dickinson.edu/applicants/jsp/shared/frameset/Frameset.jsp?time=1331517348688
+postdate: 2012-03-11
+published: true
+location:
+	name: Dickinson College
+	latitude: 40.20103
+	longitude: -77.19742
+institution: Dickinson College
+organization: Classical Studies
+position: Postdoc
 ---
 
-# Postdoctoral Fellowship in Digital Classics at Dickinson College
+# {{ page.title}}
 
 *  [Original Link](https://jobs.dickinson.edu/applicants/jsp/shared/frameset/Frameset.jsp?time=1331517348688)
 *  Posting Number: 0600480  

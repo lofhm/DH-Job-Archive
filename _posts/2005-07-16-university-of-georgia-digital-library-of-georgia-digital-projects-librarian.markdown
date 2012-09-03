@@ -9,7 +9,15 @@ date: 2005-07-16
 closingDate: 
 jobTitle: Digital Projects Librarian
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

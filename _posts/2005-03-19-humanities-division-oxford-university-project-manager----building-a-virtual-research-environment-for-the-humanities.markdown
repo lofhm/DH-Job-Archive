@@ -9,7 +9,15 @@ date: 2005-03-19
 closingDate: 
 jobTitle: Project Manager -- Building a Virtual Research Environment for the Humanities
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

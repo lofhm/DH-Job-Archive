@@ -9,7 +9,15 @@ date: 2011-04-11
 closingDate: 
 jobTitle: Job posting XML developer position
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

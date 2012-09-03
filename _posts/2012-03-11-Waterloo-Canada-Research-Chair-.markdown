@@ -1,9 +1,21 @@
 ---
 layout: listing
-title: Canada Research Chair (Tier 1)
+title: University of Waterloo Canada Research Chair (Tier 1)
+link: http://hastac.org/opportunities/canada-research-chair-tier-1-digital-media-and-digital-cultures-university-waterloo-on
+postdate: 2012-03-11
+published: true
+location:
+	name: University of Waterloo Stratford Campus
+	latitude: 43.37049
+	longitude: -80.9823
+institution: University of Waterloo Stratford Campus
+organization: Faculty of Arts
+position: Canada Research Chair
 ---
 
-#Canada Research Chair (Tier 1)
+# {{ page.title}}
+
+* [Original Link]({{ page.link}})
 
 ## Digital Media and Digital Cultures
 

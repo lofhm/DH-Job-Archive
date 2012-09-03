@@ -1,6 +1,16 @@
 ---
 layout: listing
 title: JISC Programme Manager e-Content Digitisation
+link: http://www.kcl.ac.uk/depsta/pertra/vacancy/external/pers_detail.php?jobindex=11296
+postdate: 2012-02-14
+published: true
+location:
+	name: Kings College London UK
+	latitude: 51.512138
+	longitude: -0.116640
+institution: Joint Information Systems Committee
+organization: JISC e-Content Programmes
+position: Programme Manager
 ---
 
 # The Joint Information Systems Committee (JISC) Programme Manager e-Content: Digitisation

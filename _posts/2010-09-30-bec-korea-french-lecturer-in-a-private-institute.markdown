@@ -9,7 +9,15 @@ date: 2010-09-30
 closingDate: 
 jobTitle: French lecturer in a private institute
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

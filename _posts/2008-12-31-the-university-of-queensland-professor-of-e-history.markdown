@@ -9,7 +9,15 @@ date: 2008-12-31
 closingDate: 
 jobTitle: Professor of e-History
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

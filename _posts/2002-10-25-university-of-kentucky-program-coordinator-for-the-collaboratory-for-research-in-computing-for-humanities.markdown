@@ -9,7 +9,15 @@ date: 2002-10-25
 closingDate: 
 jobTitle: Program Coordinator for the Collaboratory for Research in Computing for Humanities
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

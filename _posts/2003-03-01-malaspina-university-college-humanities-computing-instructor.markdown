@@ -9,7 +9,15 @@ date: 2003-03-01
 closingDate: 
 jobTitle: Humanities Computing Instructor
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

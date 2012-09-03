@@ -1,6 +1,16 @@
 ---
 layout: listing
-title: UCL, Research Associate in the Arts and Humanities
+title: University College London, Research Associate in the Arts and Humanities
+link: http://www.ucl.ac.uk/dh-blog/2012/02/20/interdisciplinary-research-posts/
+postdate: 2012-02-22
+published: true
+location:
+	name: University College London
+	latitude: 51.52476
+	longitude: -0.13350
+institution: University College London
+organization: Centre for Interdisciplinary Research in the Humanities
+position: Postdoc
 ---
 
 # UCL, Research Associate in the Arts and Humanities

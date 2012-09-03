@@ -9,7 +9,15 @@ date: 2003-01-15
 closingDate: 
 jobTitle: Project Archivist
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

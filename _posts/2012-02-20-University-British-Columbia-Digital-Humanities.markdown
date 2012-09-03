@@ -1,6 +1,16 @@
 ---
 layout: listing
 title: University British Columbia Tenure-Track Assistant Professor, Digital Humanities
+link: http://www.ubc.ca/okanagan/hr/careers/faculty/tenuretrack.html#fccs
+postdate: 2012-02-20
+published: true
+location:
+	name: University British Columbia
+	latitude: 49.25894
+	longitude: -123.25224
+institution: University British Columbia
+organization: The Faculty of Creative and Critical Studies
+position: Assistant Professor
 ---
 
 # Tenure-Track Assistant Professor, Digital Humanities

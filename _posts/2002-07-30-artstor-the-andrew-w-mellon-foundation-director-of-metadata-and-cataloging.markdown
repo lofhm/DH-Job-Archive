@@ -9,7 +9,15 @@ date: 2002-07-30
 closingDate: 
 jobTitle: Director of Metadata and Cataloging
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

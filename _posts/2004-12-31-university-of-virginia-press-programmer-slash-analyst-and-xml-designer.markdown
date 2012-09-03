@@ -9,7 +9,15 @@ date: 2004-12-31
 closingDate: 
 jobTitle: Programmer/Analyst and XML Designer
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

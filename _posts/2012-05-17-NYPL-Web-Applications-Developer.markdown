@@ -3,6 +3,14 @@ layout: listing
 title: NYPL Labs Web Applications Developer
 link: https://jobs-nypl.icims.com/jobs/6882/job
 published: true
+postdate: 2012-05-17
+location:
+	name: New York Public Library
+	latitude: 40.75380
+	longitude: -73.98369
+institution: New York Public Library
+organization: NYPL Labs
+position: Web Applications Developer
 ---
 
 # {{ page.title}}

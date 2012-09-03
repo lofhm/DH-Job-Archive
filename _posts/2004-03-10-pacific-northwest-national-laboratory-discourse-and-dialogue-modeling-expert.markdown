@@ -9,7 +9,15 @@ date: 2004-03-10
 closingDate: 
 jobTitle: Discourse and Dialogue Modeling Expert
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

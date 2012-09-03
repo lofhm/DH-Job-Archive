@@ -3,6 +3,14 @@ layout: listing
 title: Berkman Center Project Manager / Technical Lead
 link: https://sjobs.brassring.com/1033/asp/tg/cim_jobdetail.asp?partnerID=25240&siteID=5341&AReq=26463BR&ei=ODigT9WvAYHpggetpbDhDQ&usg=AFQjCNGwvgV8sxK_e05G1XAx5aDupTjgiQ
 published: true
+postdate: 2012-05-16
+location:
+	name: Berkman Center for Internet & Society
+	latitude: 42.37996
+	longitude: -71.11798
+institution: Harvard University
+organization: Berkman Center for Internet & Society
+position: Project Manager
 ---
 
 
@@ -19,10 +27,9 @@ H2O is currently seeking a full-time Project Manager who will play a leading rol
 
 The Project Manager will be housed at the HLS Library and work in close collaboration with lead members of the Library Innovation Lab team; he/she will also work closely with the Berkman Center and current H2O teams.
 
-### Primary responsibilities will include:
+## Primary responsibilities will include:
 
-**Developing New Materials and Supporting New Courses
-**
+###Developing New Materials and Supporting New Courses
 The Project Manager will be responsible for overseeing a team of summer interns who will be tasked with developing these materials and liaising with library staff for the collection of cases and other materials. He/she will also be the primary interface with new professors and work with them to develop their materials, syllabi, etc.
 
  

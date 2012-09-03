@@ -9,7 +9,15 @@ date: 2011-03-12
 closingDate: 
 jobTitle: Technical Project Officer (GIS / Web Mapping Developer)
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

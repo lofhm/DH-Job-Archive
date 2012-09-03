@@ -9,7 +9,15 @@ date: 2002-02-28
 closingDate: 
 jobTitle: Technical Support Officer
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

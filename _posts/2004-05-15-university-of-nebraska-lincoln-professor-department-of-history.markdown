@@ -9,7 +9,15 @@ date: 2004-05-15
 closingDate: 
 jobTitle: Professor, Department of History
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

@@ -4,6 +4,13 @@ title: Post-Doctoral Fellowship The Map of Early Modern London University of Vic
 link: http://mapoflondon.uvic.ca/opportunities.htm
 postdate: 2012-07-17
 published: true
+location:
+	name: University of Victoria
+	latitude: 48.46342
+	longitude: -123.3125
+institution: University of Victoria
+organization: The Map of Early Modern London (MoEML) project 
+position: Postdoc
 ---
 
 

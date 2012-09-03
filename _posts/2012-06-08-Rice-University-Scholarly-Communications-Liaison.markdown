@@ -2,7 +2,15 @@
 layout: listing
 title: Rice University Scholarly Communications Liaison
 link: https://jobs.rice.edu/applicants/jsp/shared/position/JobDetails_css.jsp?postingId=158574
+postdate: 2012-06-05
 published: true
+location:
+	name: Rice University
+	latitude: 29.7165
+	longitude: -95.4086
+institution: Rice University
+organization: Library
+position: Scholarly Communications Liaison
 ---
 
 # {{ page.title}}

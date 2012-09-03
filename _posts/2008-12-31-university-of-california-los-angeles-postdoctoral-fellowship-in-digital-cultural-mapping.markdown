@@ -9,7 +9,15 @@ date: 2008-12-31
 closingDate: 
 jobTitle: Postdoctoral Fellowship in Digital Cultural Mapping
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

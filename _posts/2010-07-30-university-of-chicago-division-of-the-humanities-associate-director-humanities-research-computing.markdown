@@ -9,7 +9,15 @@ date: 2010-07-30
 closingDate: 
 jobTitle: Associate Director, Humanities Research Computing
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

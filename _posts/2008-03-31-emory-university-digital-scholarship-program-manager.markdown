@@ -9,7 +9,15 @@ date: 2008-03-31
 closingDate: 
 jobTitle: Digital Scholarship Program Manager
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

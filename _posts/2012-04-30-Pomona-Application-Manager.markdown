@@ -2,9 +2,18 @@
 layout: listing
 title: Pomona College Academic Application Manager
 link: http://www.pomona.edu/administration/human-resources/employment/staff-jobs.aspx
+postdate: 2012-04-30
+location:
+	name: Pomona College
+	latitude: 34.09766
+	longitude: -117.71239
+institution: Pomona College
+organization: Information Technology Services
+position: Academic Application Manager
+published: true
 ---
 
-# Pomona College Academic Application Manager
+# {{ page.title}}
 
 * [Original Link]({{ page.link }})
 * Target hiring salary: $63,000 plus

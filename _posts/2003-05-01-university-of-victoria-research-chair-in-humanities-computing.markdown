@@ -9,7 +9,15 @@ date: 2003-05-01
 closingDate: 
 jobTitle: Research Chair in Humanities Computing
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

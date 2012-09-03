@@ -4,6 +4,13 @@ title: Research Developer, King's College London
 link: http://www.kcl.ac.uk/depsta/pertra/vacancy/external/pers_detail.php?jobindex=12064
 postdate: 2012-08-09
 published: true
+location:
+	name: Kings College London UK
+	latitude: 51.512138
+	longitude: -0.116640
+institution: King's College London
+organization: Department of Digital Humanities
+position: Research Developer
 --- 
 
 # {{ page.title }}

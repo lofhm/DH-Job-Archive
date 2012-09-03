@@ -9,7 +9,15 @@ date: 2001-10-14
 closingDate: 
 jobTitle: <I>Humbul</I> Information & Publications Officer
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

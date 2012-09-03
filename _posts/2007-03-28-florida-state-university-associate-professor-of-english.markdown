@@ -9,7 +9,15 @@ date: 2007-03-28
 closingDate: 
 jobTitle: Associate Professor of English
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

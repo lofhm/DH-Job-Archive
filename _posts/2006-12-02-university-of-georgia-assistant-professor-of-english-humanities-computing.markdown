@@ -9,7 +9,15 @@ date: 2006-12-02
 closingDate: 
 jobTitle: Assistant Professor of English (Humanities Computing)
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

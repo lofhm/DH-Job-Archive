@@ -9,7 +9,15 @@ date: 2008-05-30
 closingDate: 
 jobTitle: Metadata Manager (Fixed Term Contract -- 2 Years 8 months)
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

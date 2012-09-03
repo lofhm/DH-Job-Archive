@@ -9,7 +9,15 @@ date: 2009-09-30
 closingDate: 
 jobTitle:  CORPUS RESEARCHER / AAC-Austrian Academy Corpus
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

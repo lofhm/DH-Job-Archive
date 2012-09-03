@@ -9,7 +9,15 @@ date: 2008-11-15
 closingDate: 
 jobTitle: Computational Linguist
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

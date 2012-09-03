@@ -9,7 +9,15 @@ date: 2002-04-30
 closingDate: 
 jobTitle: Information Officer--Geodata Portal
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

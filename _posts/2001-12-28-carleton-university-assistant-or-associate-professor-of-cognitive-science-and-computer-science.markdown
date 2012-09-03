@@ -9,7 +9,15 @@ date: 2001-12-28
 closingDate: 
 jobTitle: Assistant or Associate Professor of Cognitive Science and Computer Science
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

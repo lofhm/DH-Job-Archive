@@ -9,7 +9,15 @@ date: 2009-01-30
 closingDate: 
 jobTitle: Postdoctoral Fellow in Early Modern Textual Studies and Digital Humanities
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}

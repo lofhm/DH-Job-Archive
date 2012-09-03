@@ -9,7 +9,15 @@ date: 2003-09-01
 closingDate: 
 jobTitle: Archive Systems Administration Officer
 published: false
----
+postdate:
+location:
+	name: 
+	latitude: 
+	longitude: 
+institution: 
+organization: 
+position: 
+--- 
 
 
 # {{ page.title }}
