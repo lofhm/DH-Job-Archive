@@ -16,6 +16,10 @@ position: Research Programmer
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 
 ## Description

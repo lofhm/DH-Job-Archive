@@ -15,6 +15,10 @@ position: Canada Research Chair
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 
 ## Digital Media and Digital Cultures

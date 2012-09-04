@@ -15,6 +15,10 @@ position: Postdoc
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 * Title: Postdoctoral Fellowship in Digital Humanities
 * Department: College of Liberal Arts and Sciences

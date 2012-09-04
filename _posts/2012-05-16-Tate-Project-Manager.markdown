@@ -16,6 +16,10 @@ position: Project Manager
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 * Opportunity type: Fixed-term, Full-time 
 * Working hours: 36 hours per week 

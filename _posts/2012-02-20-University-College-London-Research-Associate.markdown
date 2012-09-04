@@ -13,7 +13,10 @@ organization: Centre for Interdisciplinary Research in the Humanities
 position: Postdoc
 ---
 
-# UCL, Research Associate in the Arts and Humanities
+# {{ page.title}}
+
+{% include map.html %}
+
 
 * [Original Link](http://www.ucl.ac.uk/dh-blog/2012/02/20/interdisciplinary-research-posts/)
 * Salary (inclusive of London allowance): £32,055-£38,744 per annum

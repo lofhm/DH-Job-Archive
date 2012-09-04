@@ -16,6 +16,10 @@ position: Digital Projects Librarian
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link }})
 * Job Title: Digital Projects Librarian
 * Job Number: TU-15230

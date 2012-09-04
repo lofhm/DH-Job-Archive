@@ -15,6 +15,10 @@ position: Assistant Professor
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 * Location: Ontario
 * Date posted: 2012-05-11

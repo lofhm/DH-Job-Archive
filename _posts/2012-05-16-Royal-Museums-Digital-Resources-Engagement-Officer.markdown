@@ -16,6 +16,10 @@ position: Digital Resources Engagement Officer
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 
 

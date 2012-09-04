@@ -13,7 +13,10 @@ organization: Modernist Versions Project
 position: Postdoc
 ---
 
-# Modernist Versions Project (MVP) Post-Doctoral Fellowship
+# {{ page.title}}
+
+{% include map.html %}
+
 
 *  [Original Link](http://www.jenterysayers.com/2012/mvp-post-doc/)
 

@@ -16,6 +16,10 @@ position: Digital Projects Librarian
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 * Title: Digital Projects Librarian
 * Department: Library

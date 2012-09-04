@@ -16,6 +16,10 @@ position: Director of Digital Initiatives and Technology Strategy
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 * Position Number: 10001140
 * Department: Dean of Libraries

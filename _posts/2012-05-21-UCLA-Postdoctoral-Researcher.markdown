@@ -15,6 +15,10 @@ position: Postdoc
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 * Title: UCLA Postdoctoral Position
 * Salary: Starting salary is $50,000 per year, plus benefits

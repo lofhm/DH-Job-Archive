@@ -13,7 +13,10 @@ organization: Library
 position: Digital and Web Services Librarian Coordinator
 ---
 
-# Chicago State University, Digital and Web Services Librarian Coordinator
+# {{ page.title}}
+
+{% include map.html %}
+
 
 * [Original Link](https://chicagostate.peopleadmin.com/postings/5011)
 * Employee Class: Administrator

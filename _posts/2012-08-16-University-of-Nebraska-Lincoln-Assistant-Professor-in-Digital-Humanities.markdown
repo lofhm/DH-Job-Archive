@@ -16,6 +16,10 @@ position: Assistant Professor
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 * Department/College/Unit - College of Arts & Sciences-0906  
 * Requisition Number 120608  

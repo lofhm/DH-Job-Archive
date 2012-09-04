@@ -13,7 +13,10 @@ organization: The Edwin O. Reischauer Institute of Japanese Studies
 position: Postdoc
 ---
 
-# 2012-2013 Harvard Postdoctoral Fellowship in Japanese Studies
+# {{ page.title}}
+
+{% include map.html %}
+
 
 * [Original Link](http://www.fas.harvard.edu/~rijs/pdfs/Postdoctoral_Fellowships_JDA.pdf)
 * (Digital Humanities or Qualitative Digital Data Management in the Social Sciences)

@@ -13,7 +13,10 @@ organization: Department of Digital Humanities
 position: Research Developer
 --- 
 
-# {{ page.title }}
+# {{ page.title}}
+
+{% include map.html %}
+
 
 * [Original Link]({{ page.link}})
 * Job Title: Research Developer

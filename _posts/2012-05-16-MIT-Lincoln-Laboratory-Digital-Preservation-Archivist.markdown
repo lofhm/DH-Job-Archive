@@ -16,6 +16,10 @@ position: Digital Preservation Archivist
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 
 ##Position Summary:

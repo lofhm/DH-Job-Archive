@@ -13,7 +13,10 @@ organization: Library
 position: Software Engineer
 ---
 
-# MIT Libraries Software Engineer
+# {{ page.title}}
+
+{% include map.html %}
+
 
 *  [Original Link](http://libraries.mit.edu/about/jobs/svac-software-engineer2.html)
 

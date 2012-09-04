@@ -16,6 +16,10 @@ position: Assistant, Associate, or Full Professor
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 
 Position open in "big data" with relationship to crowdsourcing, social computing, visualization, visual analytics, individual and group behavior, ubiquitous computing.

@@ -13,7 +13,10 @@ organization: Library
 position: Digital Media Librarian
 ---
 
-# {{page.title}}
+# {{ page.title}}
+
+{% include map.html %}
+
 
 * [Original link]({{ page.link}})
 

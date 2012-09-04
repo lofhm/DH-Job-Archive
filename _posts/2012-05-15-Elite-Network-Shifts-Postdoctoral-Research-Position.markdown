@@ -15,6 +15,10 @@ position: Postdoc
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 * Title: Postdoctoral Researcher
 * Duration: At least two and up to three years (negotiable).

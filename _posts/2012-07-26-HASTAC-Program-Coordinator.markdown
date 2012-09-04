@@ -16,6 +16,10 @@ position: Program Coordinator
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 * Requisition Number: 400629747 (Apply at hr.duke.edu.)
 * Location: Duke University, Durham, NC  

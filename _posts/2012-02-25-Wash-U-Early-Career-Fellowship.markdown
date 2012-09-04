@@ -13,7 +13,10 @@ organization: The Humanities Digital Workshop
 position: Postdoc
 ---
 
-# Mark Steinberg Weil Early Career Fellowship in Digital Humanities at Washington University in St. Louis
+# {{ page.title}}
+
+{% include map.html %}
+
 
 * [Original Link](http://hdw.artsci.wustl.edu/weilfellowship)
 

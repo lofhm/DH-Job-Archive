@@ -1,2 +1,3 @@
 server: false
 auto: false
+exclude: ['tools', 'data']

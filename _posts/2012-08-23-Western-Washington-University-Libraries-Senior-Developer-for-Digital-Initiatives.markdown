@@ -16,6 +16,8 @@ postition: Senior Developer for Digital Initiatives
 
 # {{ page.title}}
 
+{% include map.html %}
+
 * [Original Link]({{ page.link}})
 * About the Department: Libraries
 * Academic Emphasis: N/A

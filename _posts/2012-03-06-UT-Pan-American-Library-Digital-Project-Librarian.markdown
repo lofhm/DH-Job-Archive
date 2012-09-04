@@ -15,6 +15,10 @@ position: Digital Project Librarian
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link](http://www.utpa.edu/humanresources/empdocs/11-12%20JOBS/11_12_088DigitalProjectLibrarian.htm)
 * Job Vacancy #: 11/12-088
 * Department: Library

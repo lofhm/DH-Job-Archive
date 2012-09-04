@@ -13,7 +13,10 @@ organization: Library
 position: Digital Humanities Developer
 ---
 
-# Digital Humanities Developer
+# {{ page.title}}
+
+{% include map.html %}
+
 
 * [Original link](http://recruit.trovix.com/jobhostmaster/jobhost/ViewJobPostDetails.do?title=DIGITAL+HUMANITIES+DEVELOPER&jobPostId=6rvtzf3qcbg2bknl5mmgtvljld&accountId=de85ad313f8598db1c42b567a3df24a00497ba22&button=&action=viewDetails&tid=0207-x776xll3fzdw3hhewkfxitsvrb)
 *  Job ID: 46583

@@ -15,6 +15,10 @@ position: Digital Project Manager
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 * Title: Digital Project Manager (3 year Temp)
 * Full Time

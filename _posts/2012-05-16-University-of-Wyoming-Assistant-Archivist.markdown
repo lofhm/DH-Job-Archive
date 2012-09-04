@@ -16,6 +16,10 @@ position: Assistant Archivist
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 * Department: American Heritage Center
 

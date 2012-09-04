@@ -15,6 +15,10 @@ position: Digital Services Librarian
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 * Job Title: Digital Services Librarian
 * Position #: 8101599

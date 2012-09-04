@@ -13,7 +13,10 @@ organization: The Faculty of Creative and Critical Studies
 position: Assistant Professor
 ---
 
-# Tenure-Track Assistant Professor, Digital Humanities
+# {{ page.title}}
+
+{% include map.html %}
+
 
 * [Original Link](http://www.ubc.ca/okanagan/hr/careers/faculty/tenuretrack.html#fccs)
 

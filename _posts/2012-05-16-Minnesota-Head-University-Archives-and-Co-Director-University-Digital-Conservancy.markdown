@@ -16,6 +16,10 @@ position: Head of University Libraries and Co-Director of University Digital Con
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 * Job Code and Title: (9921) Librarian Series  
 * Position Title: Head, University Archives and Co-Director, University Digital Conservancy (UL286)  

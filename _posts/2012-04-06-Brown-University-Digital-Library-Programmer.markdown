@@ -13,7 +13,10 @@ organization: Library
 position: Digital Library Programmer
 ---
 
-# Brown Digital Library Programmer
+# {{ page.title}}
+
+{% include map.html %}
+
 
 *  [Original Link](http://careers.brown.edu/applicants/Central?quickFind=118614)
 * Job Title: Digital Library Programmer  

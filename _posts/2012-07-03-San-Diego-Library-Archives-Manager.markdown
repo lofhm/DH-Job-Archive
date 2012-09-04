@@ -16,6 +16,10 @@ position: Digital and Archives/Special Collections Manager
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}}) (Job ID Number: IRC8302)
 
 

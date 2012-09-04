@@ -16,6 +16,10 @@ position: Digital Archivist
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 
 

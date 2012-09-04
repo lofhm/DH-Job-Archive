@@ -13,7 +13,10 @@ organization: The Roy Rosenzweig Center for History and New Media (CHNM)
 position: Assistant THATCamp Coordinator
 ---
 
-# George Mason Assistant THATCamp Coordinator
+# {{ page.title}}
+
+{% include map.html %}
+
 
 *  [Original Link](http://thatcamp.org/03/23/were-hiring-an-assistant-thatcamp-coordinator/)
 

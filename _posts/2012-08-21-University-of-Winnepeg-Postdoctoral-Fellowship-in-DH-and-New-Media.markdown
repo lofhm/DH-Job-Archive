@@ -15,6 +15,10 @@ position: Postdoc
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 
 The Institute for Women’s and Gender Studies (IWGS), the University of Winnipeg. Winnipeg, MB, Canada.

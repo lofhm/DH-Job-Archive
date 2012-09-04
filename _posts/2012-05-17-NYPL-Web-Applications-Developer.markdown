@@ -15,6 +15,10 @@ position: Web Applications Developer
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 * Title: Web Applications Developer
 * Job ID: 2012-6882

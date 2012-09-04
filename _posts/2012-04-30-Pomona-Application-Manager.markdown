@@ -15,6 +15,10 @@ published: true
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link }})
 * Target hiring salary: $63,000 plus
 * Regular, full-time, 12 month position

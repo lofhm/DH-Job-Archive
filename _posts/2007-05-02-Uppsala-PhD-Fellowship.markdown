@@ -23,6 +23,10 @@ position:
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 
 ##Description
 <h4>"Textual Criticism and the Sociology of Texts"</h4>

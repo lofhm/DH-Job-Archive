@@ -13,7 +13,10 @@ organization: Library
 postition: Librarian for Digital Humanities Research
 ---
 
-# Yale Librarian for Digital Humanities Research
+# {{ page.title}}
+
+{% include map.html %}
+
 
 * [Original link](https://sjobs.brassring.com/1033/ASP/TG/cim_jobdetail.asp?jobId=476898&partnerid=25053&siteid=5248&codes=IINDEED)
 * Original Posting Date:	31-Mar-2012

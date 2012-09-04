@@ -15,6 +15,10 @@ position: Digital Scholarship Coordinator
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 *  [Original Link](http://academicjobs.columbia.edu/applicants/Central?quickFind=56004)
 * Requisition Number: 0002842
 * Department: Libraries (700 - 797)

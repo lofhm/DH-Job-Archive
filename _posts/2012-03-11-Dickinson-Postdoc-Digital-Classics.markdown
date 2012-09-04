@@ -15,6 +15,10 @@ position: Postdoc
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 *  [Original Link](https://jobs.dickinson.edu/applicants/jsp/shared/frameset/Frameset.jsp?time=1331517348688)
 *  Posting Number: 0600480  
 *  Position Type: Faculty  

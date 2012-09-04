@@ -16,6 +16,10 @@ position: Research Officer
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 
 * Reference Number:	001674

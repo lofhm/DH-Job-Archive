@@ -13,7 +13,10 @@ organization:
 position: Postdoc
 ---
 
-# Postdoctoral Fellow in Digital Humanities and Pedagogy
+# {{ page.title}}
+
+{% include map.html %}
+
 
 *  [Original link](http://www.hendrix.edu/uploadedFiles/Campus_Resources/Human_Resources/Job_Openings/Postdoc%20Fellowship%20in%20Digital%20Humanities%20and%20Pedagogy.pdf)
 

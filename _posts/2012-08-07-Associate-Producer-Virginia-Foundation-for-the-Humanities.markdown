@@ -13,9 +13,11 @@ organization: Virginia Foundation for the Humanities
 position: Associate Producer
 --- 
 
-https://maps.google.com/maps?q=145+ednam+drive+charlottesville+va+latitude+longitude&hl=en&ll=38.044576,-78.523922&spn=0.137757,0.108833&safe=off&fb=1&gl=us&hq=145+ednam+drive+charlottesville+va+latitude+longitude&cid=0,0,7750396831199599089&t=m&z=13&iwloc=A
 
-# {{ page.title }}
+# {{ page.title}}
+
+{% include map.html %}
+
 
 * [Original Link]({{ page.link}})
 * Posting Number:	 0610325  

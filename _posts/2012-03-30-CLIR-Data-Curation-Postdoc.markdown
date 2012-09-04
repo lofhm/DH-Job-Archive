@@ -13,7 +13,10 @@ organization: The CLIR/DLF Data Curation Fellowship Program
 position: Postdoc
 ---
 
-# CLIR Data Curation Postdoctoral Fellowship
+# {{ page.title}}
+
+{% include map.html %}
+
 
 *  [Original Link](http://www.clir.org/fellowships/datacuration)
 

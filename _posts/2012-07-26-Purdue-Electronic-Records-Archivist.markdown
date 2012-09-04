@@ -16,6 +16,10 @@ position: Digital Preservation and Electronic Records Archivist
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 * Job Number: 1201126
 

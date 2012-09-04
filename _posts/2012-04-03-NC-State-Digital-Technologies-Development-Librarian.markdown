@@ -13,7 +13,10 @@ organization: Library
 position: Digital Technologies Development Librarian
 ---
 
-# North Carolina State Digital Technologies Development Librarian
+# {{ page.title}}
+
+{% include map.html %}
+
 
 *  [Original Link](http://lib.ncsu.edu/jobs/epa/dtdl/va)
 

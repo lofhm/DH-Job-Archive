@@ -16,6 +16,10 @@ position: Digital Library Publication and Access Manager
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 * Position Title: Manager, Digital Library Publication and Access  
 * Posting Date: 07-27-2012  

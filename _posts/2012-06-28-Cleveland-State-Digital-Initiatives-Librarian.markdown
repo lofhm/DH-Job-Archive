@@ -16,6 +16,10 @@ position: Assistant Director for Technical Services
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}}) (requisition number: 0600871)
 * Category:	 Administrative & Professional  
 * Start Date	 As Soon As Possible  

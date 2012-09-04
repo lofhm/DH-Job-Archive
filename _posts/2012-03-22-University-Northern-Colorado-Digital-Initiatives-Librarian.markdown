@@ -13,7 +13,10 @@ organization: Library
 position: Digital Initiatives Librarian
 ---
 
-# University Northern Colorado Digital Initiatives Librarian
+# {{ page.title}}
+
+{% include map.html %}
+
 
 *  [Original Link](http://www.unco.edu/library/documents/PositionDescriptionDigitalInitiatives.pdf)
 

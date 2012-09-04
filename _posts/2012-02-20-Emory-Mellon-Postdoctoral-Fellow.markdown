@@ -13,7 +13,10 @@ organization: Library
 position: Postdoc
 ---
 
-# Two-year Mellon Postdoctoral Fellowship in Digital Humanities at Emory 
+# {{ page.title}}
+
+{% include map.html %}
+
 
 * [Original Link](http://hastac.org/opportunities/two-year-mellon-postdoctoral-fellowship-digital-humanities-emory-deadline-1-march-2012)
 * Deadline: March 1st 2012

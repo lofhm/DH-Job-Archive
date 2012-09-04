@@ -15,6 +15,10 @@ position: Research Developer
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 * Title: Research Developer (DigiPal)
 * Salary: The appointment will be made, dependent on relevant qualifications, within the Grade 6 scale, currently £31,020 to £37,012 per annum, plus £2,323 per annum London Allowance

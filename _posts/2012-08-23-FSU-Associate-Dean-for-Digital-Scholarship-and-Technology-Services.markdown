@@ -15,6 +15,10 @@ position: Associate Dean for Digital Scholarship
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 
 The FSU Libraries seek an innovative, experienced information professional to work with a variety of constituencies at a major research university to (1) provide high-quality digital information services, (2) develop a robust institutional repository and other tools that support digital scholarship, (3) encourage innovation in digital scholarship, (4) provide leadership on scholarly communication issues through broad-based solutions that work in a diverse, fast-paced academic environment.

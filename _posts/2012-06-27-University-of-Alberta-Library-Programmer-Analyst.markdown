@@ -15,6 +15,10 @@ position: Programmer Analyst
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 * Competition No: S101717950
 * Posting Date: Jun 27, 2012

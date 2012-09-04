@@ -16,6 +16,10 @@ position: Education Specialist
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link }})
 * Job Title: Education Specialist
 * Agency: Smithsonian Institution

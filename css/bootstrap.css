@@ -3,6 +3,14 @@ span.date {
     font-family: Menlo, Monaco, "Courier New", monospace;
 }
 
+div#map {
+	width:900px;
+	margin:0px auto;
+    height: 200px
+}
+
+
+
 
 /*!
  * Bootstrap v2.0.2

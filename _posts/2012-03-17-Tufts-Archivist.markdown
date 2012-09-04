@@ -13,7 +13,10 @@ organization: The Digital Collections and Archives
 position: Archivist for Digital Collections
 ---
 
-# ARCHIVIST FOR DIGITAL COLLECTIONS - Digital Collections and Archives
+# {{ page.title}}
+
+{% include map.html %}
+
 
 *  [Original Link](https://2xrecruit.kenexa.com/kr/cc/jsp/public/EmailJobDetail.jsf?npi=665B137F6797C0F7213DE82547E92B47&rand=4AED31E7C239D9EFCF6881528FF557BA98DDC497C26E1575969E7A621BEEF933#.T15D40Jru8o.email)
 *  Requisition Number:	1077

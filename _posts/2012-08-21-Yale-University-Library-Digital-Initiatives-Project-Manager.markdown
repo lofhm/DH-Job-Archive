@@ -15,6 +15,10 @@ postition: Digital Initiatives Project Manager
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 * Fortunoff Video Archive for Holocaust Testimonies, Manuscripts and Archives
 * Yale University Library

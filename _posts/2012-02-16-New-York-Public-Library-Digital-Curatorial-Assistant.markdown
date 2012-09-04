@@ -13,7 +13,10 @@ organization: LPA Administration
 position: Digital Curatorial Assistant
 ---
 
-# Digital Curatorial Assistant (temporary)
+# {{ page.title}}
+
+{% include map.html %}
+
 
 * [Original link](https://jobs-nypl.icims.com/jobs/6780/job)
 *  Date Posted: 02/16/2012

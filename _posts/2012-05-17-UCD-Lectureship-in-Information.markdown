@@ -15,6 +15,10 @@ position: Lectureship in Information
  
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 * College/Management Unit: UCD College of Human Sciences
 * School/Unit: UCD School of Information & Library Studies (SILS)

@@ -13,7 +13,10 @@ organization: Anvil Academic Publishing
 position: Program Coordinator and Analyst
 ---
 
-# Program Coordinator and Analyst, Anvil Academic Publishing
+# {{ page.title}}
+
+{% include map.html %}
+
 
 *  [Original link](http://www.acls.org/uploadedFiles/Fellowships_and_Grants/Competitions/1112_PublicFellows_CLIR.pdf)
 *  Job Title: Program Coordinator and Analyst, Anvil Academic Publishing 

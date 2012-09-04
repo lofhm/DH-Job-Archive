@@ -13,7 +13,10 @@ organization: The Department of English Literature and Writing
 position: Assistant or Associate Professor
 ---
 
-# Marylhurst University, Assistant or Associate Professor of English and Digital Humanities
+# {{ page.title}}
+
+{% include map.html %}
+
 
 * [Original Link](http://chronicle.com/jobs/0000718482-01)
 * Institution: Marylhurst University

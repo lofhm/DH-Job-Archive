@@ -15,6 +15,10 @@ position: Digital Scholarship Librarian
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 * Posting Number: 2007239
 * Position Title: Digital Scholarship Librarian

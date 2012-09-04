@@ -13,7 +13,10 @@ organization: JISC e-Content Programmes
 position: Programme Manager
 ---
 
-# The Joint Information Systems Committee (JISC) Programme Manager e-Content: Digitisation
+# {{ page.title}}
+
+{% include map.html %}
+
 
 *  [Original Link](http://www.kcl.ac.uk/depsta/pertra/vacancy/external/pers_detail.php?jobindex=11296)
 *  Programme Manager e-Content: Digitisation

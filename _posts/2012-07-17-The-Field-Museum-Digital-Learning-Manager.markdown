@@ -16,6 +16,10 @@ position: Digital Learning Manager
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 
 ## Description

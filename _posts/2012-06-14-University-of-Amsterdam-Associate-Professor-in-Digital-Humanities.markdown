@@ -15,6 +15,10 @@ position: Associate Professor in Digital Humanities
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 * Associate Professor in Digital Humanities
 * 38 hours per week

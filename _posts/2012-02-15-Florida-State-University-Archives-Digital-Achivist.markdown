@@ -13,7 +13,10 @@ organization: Library
 position: Digital Archivist
 ---
 
-# Florida State University Libraries Digital Archivist
+# {{ page.title}}
+
+{% include map.html %}
+
 
 *  [Original Link](http://www.lib.fsu.edu/files/pdfs/employment/Digital_Archivist.pdf)
 *  Florida State University Libraries

@@ -15,6 +15,10 @@ position: Associate Professor or Professor in Digital History
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 * F3-030036
 * Full-time contract

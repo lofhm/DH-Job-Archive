@@ -16,6 +16,10 @@ position: Academic Technology Specialist
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}}) (Job ID: 48502)
 
 

@@ -16,6 +16,10 @@ position: Digital Library Developer
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 * Department:	Library
 * Job Category:	Admin or Professional Faculty

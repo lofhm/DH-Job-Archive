@@ -13,7 +13,12 @@ organization: Department of Culture, Media and Creative Industries and the Depar
 position: Lecturer
 ---
 
-# King's College London Lecturer in Digital Culture and Society
+# {{ page.title}}
+
+{% include map.html %}
+
+
+
 
 * [Original Link]({{ page.link }})
 * Job Ref: A7/AAI/352/12-JM

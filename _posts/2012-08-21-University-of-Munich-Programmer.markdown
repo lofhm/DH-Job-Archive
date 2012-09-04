@@ -15,6 +15,10 @@ position: Programmer
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 * Unit: Faculty for Cultural Studies (Institute of Indology and Tibetology)
 * Start Date: 1 October 2012

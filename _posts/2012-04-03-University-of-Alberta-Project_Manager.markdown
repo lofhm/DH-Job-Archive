@@ -13,7 +13,10 @@ organization: The Canadian Writing Research Collaboratory
 position: Project Manager
 ---
 
-# University of Alberta Project Manager, Canadian Writing Research Collaboratory
+# {{ page.title}}
+
+{% include map.html %}
+
 
 
 * [Original Link](http://www.careers.ualberta.ca/Competition/A110417061/)

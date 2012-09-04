@@ -16,6 +16,10 @@ position: Research Associate
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * Salary $60,000- $70,000
 
 ##Description

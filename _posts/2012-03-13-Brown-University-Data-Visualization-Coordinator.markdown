@@ -15,6 +15,10 @@ position: Data Visualization Coordinator
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 *  [Original Link](http://careers.brown.edu/applicants/Central?quickFind=118522)
 * Job Title: Data Visualization Coordinator  
 * Job Number: B01394  

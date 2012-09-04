@@ -13,7 +13,10 @@ organization: Library
 position: Digital Projects Librarian
 ---
 
-# Southern Methodist University Digital Projects Librarian
+# {{ page.title}}
+
+{% include map.html %}
+
 
 *  [Original Link](http://digital-scholarship.org/digitalkoans/2012/04/04/digital-projects-librarian-at-southern-methodist-universitys-bridwell-library/)
 * Job ID: 900141

@@ -13,7 +13,10 @@ organization: Library
 position: Scholarly Communication Librarian
 ---
 
-# Georgia Tech Scholarly Communication Librarian
+# {{ page.title}}
+
+{% include map.html %}
+
 
 *  [Original Link](http://www.library.gatech.edu/about/jobs.php#sclib)
 

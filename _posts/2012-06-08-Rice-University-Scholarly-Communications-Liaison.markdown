@@ -15,6 +15,10 @@ position: Scholarly Communications Liaison
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link]({{ page.link}})
 * Title: Scholarly Communications Liaison  
 * Department: Fondren Library  

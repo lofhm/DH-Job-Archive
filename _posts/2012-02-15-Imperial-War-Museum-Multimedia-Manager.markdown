@@ -13,7 +13,10 @@ organization: Department of New Media
 position: Multimedia Manager
 ---
 
-# Imperial War Museum Multimedia Manager
+# {{ page.title}}
+
+{% include map.html %}
+
 
 *  [Original Link](http://jobs.guardian.co.uk/job/4413953/multimedia-manager)
 *  Title: Multimedia Manager

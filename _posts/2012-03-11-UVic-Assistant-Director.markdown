@@ -14,6 +14,10 @@ position: Coordinator / Assistant Director
 
 # {{ page.title}}
 
+{% include map.html %}
+
+
+
 * [Original Link](http://etcl.uvic.ca/2011/11/07/the-etcl-is-seeking-a-coordinator/)
 
 The Electronic Textual Cultures Lab at UVic (http://etcl.uvic.ca/) is looking for someone to join its team as full-time Coordinator or Assistant Director.

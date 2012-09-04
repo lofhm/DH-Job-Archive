@@ -13,7 +13,10 @@ organization: The Graduate Center
 position: Postdoc
 ---
 
-# Post Doctoral Fellowship (Visiting Assistant Professor) - Digital Humanities
+# {{ page.title}}
+
+{% include map.html %}
+
 
 * [Original link](http://www.gc.cuny.edu/About-the-GC/Resource-Services/Human-Resources/Jobs-at-the-GC/Detail?id=10512)
 * Job Class: Faculty
