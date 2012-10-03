@@ -1,0 +1,43 @@
+---
+layout: derp
+---
+
+[
+{% for post in site.posts %}
+{% if post.published %}
+{% if forloop.last %}
+{
+  "date_posted": "{{ post.date }}",
+  "title": "{{ post.title }}",
+  "link": "{{ post.link }}",
+  "archive_link": "{{ post.url }}",
+  "postdate": "{{ post.postdate }}",
+  "published": "{{ post.published }}",
+  "location": {
+      "latitude": "{{ post.location.latitude}}",
+      "longitude": "{{ post.location.longitude}}"
+  },
+  "institution": "{{ post.institution }}",
+  "organization": "{{ post.organization }}",
+  "position": "{{ post.position }}"
+}
+{% else %}
+{
+  "date_posted": "{{ post.date }}",
+  "title": "{{ post.title }}",
+  "link": "{{ post.link }}",
+  "archive_link": "{{ post.url }}",
+  "postdate": "{{ post.postdate }}",
+  "published": "{{ post.published }}",
+  "location": {
+      "latitude": "{{ post.location.latitude}}",
+      "longitude": "{{ post.location.longitude}}"
+  },
+  "institution": "{{ post.institution }}",
+  "organization": "{{ post.organization }}",
+  "position": "{{ post.position }}"
+},
+{% endif %}
+{% endif %}
+{% endfor %}
+]
