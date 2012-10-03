@@ -2,7 +2,7 @@
 layout: listing
 title: University of Alberta Library Programmer Analyst
 link: http://careers.ualberta.ca/Competition/S101717950/
-postdate: 2012-06-022
+postdate: 2012-06-27
 published: true
 location:
     name: University of Alberta

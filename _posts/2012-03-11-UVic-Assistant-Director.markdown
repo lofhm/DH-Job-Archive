@@ -3,6 +3,7 @@ layout: listing
 title: University of Victoria Coordinator / Assistant Director @ Electronic Cultures Lab 
 link: http://etcl.uvic.ca/2011/11/07/the-etcl-is-seeking-a-coordinator/
 published: true
+postdate: 2012-03-11
 location:
     name: University of Victoria
     latitude: 48.46342
