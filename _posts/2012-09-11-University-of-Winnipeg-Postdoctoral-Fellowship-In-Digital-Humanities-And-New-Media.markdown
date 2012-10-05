@@ -1,9 +1,8 @@
 ---
----
 layout: listing
 title: Postdoctoral Fellowship In Digital Humanities And New Media
 link: http://awid.org/Library/Postdoctoral-Fellowship-in-Digital-Humanities-and-New-Media
-postdate: 2012-08-11
+postdate: 2012-09-11
 published: true
 location:
     name: 
@@ -12,7 +11,6 @@ location:
 institution: University of Winnipeg
 organization: The Institute for Women’s and Gender Studies
 position: Postdoc
----
 ---
 
 # {{ page.title}}
@@ -59,4 +57,4 @@ Winnipeg, MB R3B 2E9
 Email: f.green@uwinnipeg.ca  
 (204)786-9409 
 Review of applications will begin immediately and continue until the post is filled.   
-Website: <http://www.iwgs.ca>  
+Website: <http://www.iwgs.ca>
