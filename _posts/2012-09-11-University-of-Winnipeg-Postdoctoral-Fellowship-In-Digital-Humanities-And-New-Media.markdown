@@ -1,6 +1,6 @@
 ---
 layout: listing
-title: Postdoctoral Fellowship In Digital Humanities And New Media
+title: University of Winnipe Postdoctoral Fellowship In Digital Humanities And New Media
 link: http://awid.org/Library/Postdoctoral-Fellowship-in-Digital-Humanities-and-New-Media
 postdate: 2012-09-11
 published: true
