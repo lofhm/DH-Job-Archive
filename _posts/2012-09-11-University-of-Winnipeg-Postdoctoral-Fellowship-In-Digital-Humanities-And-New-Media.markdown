@@ -25,7 +25,7 @@ position: Postdoc
 
 The Institute for Women’s and Gender Studies (IWGS) at the University of Winnipeg invites applications for a half time Postdoctoral Fellowship in Digital Humanities and New Media starting as soon as possible, and lasting up to two years.
 The successful candidate should have received a PhD within the last three years or have a defense date set at the time of application.
-The IWGS practices and fosters participation in collaborative feminist work, research and activism within all of our communities. We are a working partner of the Department of Women’s and Gender Studies at the University of Winnipeg. We strive to develop the creative and transformative potential of the university, community and society through removing barriers to, and promoting the exchange of, knowledge between the institution and its communities (<www.iwgs.ca>).
+The IWGS practices and fosters participation in collaborative feminist work, research and activism within all of our communities. We are a working partner of the Department of Women’s and Gender Studies at the University of Winnipeg. We strive to develop the creative and transformative potential of the university, community and society through removing barriers to, and promoting the exchange of, knowledge between the institution and its communities (<http://www.iwgs.ca>).
 
 ##General Duties:
 
