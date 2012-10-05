@@ -4,7 +4,7 @@ title: UVic Banting Postdoctoral Fellowship The Modernist Versions Project
 link: http://web.uvic.ca/~mvp1922/banting/
 postdate: 2012-09-11
 closedate: 2012-09-13
-published: false
+published: true
 location:
     name: University of Victoria
     latitude: 48.46342
