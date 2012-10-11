@@ -7,7 +7,7 @@ postdate: 2012-05-16
 location:
     name: University of Minnesota
     latitude: 44.97234
-    longitude: 93.23247
+    longitude: -93.23247
 institution: University of Minnesota
 organization: Library
 position: Head of University Libraries and Co-Director of University Digital Conservancy
