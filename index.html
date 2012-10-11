@@ -1,23 +1,142 @@
 ---
-layout: default
-title: The Digital Humanities Job Archive
+
 ---
+<!DOCTYPE html>
+<html>
+<head>
+	<title>The Digital Humanities Job Archive</title>
 
+    <!-- Le styles -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <style type="text/css">
+      body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+      }
+      #rss {
+        float: right;
+        padding: 1em;
+      }
+      div#map {
+      	width:900px;
+      	margin:0px auto;
+          height: 500px
+      }
+    </style>
+    <link href="css/bootstrap-responsive.css" rel="stylesheet">
 
- <div class="hero-unit">
-	<h1>Digital Humanities Job Archive</h1>
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link href="http://jobs.lofhm.org/feed/index.xml" rel="alternate" type="application/rss+xml" title="DH Job Feed">
+</head>
+<body>
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="http://lofhm.org">lofhm</a>
+          <div class="nav-collapse">
+            <ul class="nav">
+              <li class="active">
+                <a href="http://jobs.lofhm.org">jobs</a>
+              </li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
 
-	<p>The DH Jobs Archive is a repository of jobs listed as relating to digital humanities.</p>
+    <div class="container">
 	
-	<p>Listings are increasingly featured on community sites such as DHNow or circulating on Twitter. However, many of these listings appear only for a brief time before being taken offline. Listservs including Humanist act as the best existing archival source for listings within the community, however jobs are not easily searched, inconsistently mentioned, and lack structure making programmatic analysis difficult. This project is an effort to consolidate and archive those job listings, hopefully  enabling future publications and computational analysis of job listings within the community.</p>
-		
-	<p><strong>Want to contribute?</strong> Right now listings are markdown files <a href="https://github.com/lofhm/DH-Job-Archive/tree/gh-pages">on Github</a>, and we encourage people to fork the repository and issue pull requests. We've also created a <a href="https://docs.google.com/spreadsheet/viewform?formkey=dDFkcnhfMHhIb3lYM0xHcXpnN0g0R2c6MQ#gid=0">submission form</a> for you to add listings that are currently missing. Also feel free to ping <a href="http://twitter.com/davelester">Dave (@davelester)</a> or <a href="http://twitter.com/mcburton">Matt (@mcburton)</a> on twitter as well.</p>
-</div>
+         <div class="hero-unit">
+        	<h1>Digital Humanities Job Archive</h1>
+        	<div id="map"></div>
 
-<ul class="listings">
-    {% for post in site.posts %}
-    <li>
-        <span class="date">{{ post.date | date_to_string }}</span> - <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-    {% endfor %}
-</ul>
+        	<!-- <p>The DH Jobs Archive is a repository of jobs listed as relating to digital humanities.</p>
+
+        		<p>Listings are increasingly featured on community sites such as DHNow or circulating on Twitter. However, many of these listings appear only for a brief time before being taken offline. Listservs including Humanist act as the best existing archival source for listings within the community, however jobs are not easily searched, inconsistently mentioned, and lack structure making programmatic analysis difficult. This project is an effort to consolidate and archive those job listings, hopefully  enabling future publications and computational analysis of job listings within the community.</p>
+
+        		<p><strong>Want to contribute?</strong> Right now listings are markdown files <a href="https://github.com/lofhm/DH-Job-Archive/tree/gh-pages">on Github</a>, and we encourage people to fork the repository and issue pull requests. We've also created a <a href="https://docs.google.com/spreadsheet/viewform?formkey=dDFkcnhfMHhIb3lYM0xHcXpnN0g0R2c6MQ#gid=0">submission form</a> for you to add listings that are currently missing. Also feel free to ping <a href="http://twitter.com/davelester">Dave (@davelester)</a> or <a href="http://twitter.com/mcburton">Matt (@mcburton)</a> on twitter as well.</p> -->
+        </div>
+
+        <ul class="listings">
+            {% for post in site.posts %}
+            <li>
+                <span class="date">{{ post.date | date_to_string }}</span> - <a href="{{ post.url }}">{{ post.title }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+	
+    </div> <!-- /container -->
+    <a href="/feed/index.xml" id="rss">RSS</a>
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-30748238-1']);
+      _gaq.push(['_setDomainName', 'lofhm.org']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+    <script src="http://d3js.org/d3.v2.js"></script>
+    <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=&sensor=false"></script>
+    <script>
+    	d3.json("/data.json", function(data) {
+            var dateFormat = d3.time.format("%B %e, %Y");
+    		var myOptions = {
+    		    zoom: 2,
+    		    center: new google.maps.LatLng(0, 0),
+    		    mapTypeId: google.maps.MapTypeId.TERRAIN,
+    		    streetViewControl: false,
+    		    panControl: false
+    		  };
+    		var map = new google.maps.Map(document.getElementById("map"), myOptions);
+
+    		var openWindow; // this is a dirty hack
+
+    		var markers = data.map(function(job){
+    			var marker = new google.maps.Marker({
+    				position: new google.maps.LatLng(job.location.latitude, job.location.longitude),
+    				map: map,
+    				title: job.title
+    			})
+    			var jobInfo = '<div id="infowindow">' +
+    			    '<h4>' + job.title + '</h4>' +
+    			    '<h5>Posted on: ' + dateFormat(new Date(job.postdate)) + '</h5>' +
+    				'<a class="maplink" href="' + job.archive_link + '"> More Info </a>';
+
+
+    			var infowindow = new google.maps.InfoWindow({
+    				content: jobInfo
+    			});
+                
+                // prevent multiple infowindows being open
+    			 google.maps.event.addListener(marker, 'click', function() {
+                      if (openWindow) openWindow.close();
+                      infowindow.open(map,marker);
+                      openWindow = infowindow;
+                  });
+                return {"marker": marker, "infowindow":infowindow};
+    		});
+            
+            // click outside the map to close infowindow
+    		google.maps.event.addListener(map, 'click', function() {
+                  if (openWindow) openWindow.close();
+
+              });
+
+    	});	
+        </script>
+</body>
+</html>
