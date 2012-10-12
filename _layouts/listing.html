@@ -38,7 +38,7 @@ layout: listing
 
 </head>
 <body>
-    <div class="navbar navbar-fixed-top">
+    <div class="navbar navbar-inverse navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container">
           <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
@@ -50,7 +50,7 @@ layout: listing
           <div class="nav-collapse">
               <ul class="nav">
                 <li class="active">
-                  <a href="http://jobs.lofhm.org">jobs</a>
+                  <a href="/">jobs</a>
                 </li>
               </ul>
 
@@ -78,6 +78,8 @@ layout: listing
       })();
 
     </script>
+    <script src="http://code.jquery.com/jquery-latest.js"></script>
+  <script src="/js/bootstrap.min.js"></script>
 	<script type="text/javascript">
 	        
 			var myLatlng = new google.maps.LatLng({{page.location.latitude}},{{page.location.longitude}});
