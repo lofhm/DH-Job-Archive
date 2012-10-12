@@ -17,8 +17,6 @@ position: Postdoc
 
 {% include map.html %}
 
-
-
 * [Original Link]({{ page.link}})
 
 ## Description:
