@@ -1,6 +1,7 @@
 ---
 layout: listing
-title: University of Southampton, Post-doctoral Research Assistant, ‘City Witness’ Project http://fmrsi.wordpress.com/2012/09/18/employment-post-doctoral-research-assistant-city-witness-project-university-of-southampton/
+title: University of Southampton, Post-doctoral Research Assistant, ‘City Witness’ Project
+link: http://fmrsi.wordpress.com/2012/09/18/employment-post-doctoral-research-assistant-city-witness-project-university-of-southampton/
 postdate: 2012-09-18
 closedate: 2012-10-12
 published: true

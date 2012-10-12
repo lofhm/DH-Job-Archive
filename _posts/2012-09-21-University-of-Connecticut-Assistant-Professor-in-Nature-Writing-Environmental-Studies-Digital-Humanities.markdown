@@ -1,6 +1,6 @@
 ---
 layout: listing
-title: UCONN, 
+title: UCONN, Assistant Prof in Nature Writing/Environmental Studies/DH
 link: http://www.ecomediastudies.org/2012/09/21/job-announcement-uconn-englishevstdigital-humanities-assistant-professor/
 postdate: 2012-09-25 
 closedate: 
