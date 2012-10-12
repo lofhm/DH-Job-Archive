@@ -13,6 +13,21 @@ layout: listing
         padding-top: 60px;
         padding-bottom: 40px;
       }
+      div#map {
+        width:900px;
+        margin:0px auto;
+        height: 200px
+      }
+      /**** 
+      * fix bootstrap issue 
+      * https://github.com/twitter/bootstrap/issues/1552
+      ****/
+      #map img { 
+        max-width: none;
+      }
+      #map label { 
+       width: auto; display:inline; 
+      }
     </style>
     <link href="/css/bootstrap-responsive.css" rel="stylesheet">
 
