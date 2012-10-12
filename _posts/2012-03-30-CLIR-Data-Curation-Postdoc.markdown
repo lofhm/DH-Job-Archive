@@ -30,8 +30,8 @@ In its pilot year, 2012-2013, CLIR will recruit six fellows in cooperation with 
 CLIR will host a two-week immersion seminar for the CLIR/DLF Data Curation Fellows and their colleagues in the Postdoctoral Fellowship for Academic Libraries in July 2012, followed by periodic online and in-person meetings throughout their fellowship appointments.
 
 ## Key Dates
-March 29-May 1, 2012: Open application period
-May 1, 2012: Review of applications begins at CLIR
-May 7, 2012: Review of applications begins at host institutions
-June 30, 2012: Target deadline for all 2012-2013 positions to be filled
-July 22-August 3, 2012: Introductory seminar for all CLIR and CLIR/DLF postdoctoral fellows
+- March 29-May 1, 2012: Open application period
+- May 1, 2012: Review of applications begins at CLIR
+- May 7, 2012: Review of applications begins at host institutions
+- June 30, 2012: Target deadline for all 2012-2013 positions to be filled
+- July 22-August 3, 2012: Introductory seminar for all CLIR and CLIR/DLF postdoctoral fellows
