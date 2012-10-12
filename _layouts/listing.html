@@ -76,7 +76,9 @@ layout: listing
 			  var marker = new google.maps.Marker({
 			      position: myLatlng,
 			      map: map,
-			      title:"{{page.institution}}"
+			      title:"{{page.institution}}",
+            streetViewControl: false,
+            panControl: false
 			  });
 			
 	    </script>
