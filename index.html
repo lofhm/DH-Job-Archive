@@ -114,7 +114,7 @@
     			var jobInfo = '<div id="infowindow">' +
     			    '<h4>' + job.title + '</h4>' +
     			    '<h5>Posted on: ' + dateFormat(new Date(job.postdate)) + '</h5>' +
-    				'<a class="maplink" href="' + job.archive_link + '"> More Info </a>';
+    				'<a class="maplink" href="' + job.archive_link + '"> Click for more info... </a>';
 
 
     			var infowindow = new google.maps.InfoWindow({
@@ -122,11 +122,17 @@
     			});
                 
                 // prevent multiple infowindows being open
-    			 google.maps.event.addListener(marker, 'click', function() {
-                      if (openWindow) openWindow.close();
-                      infowindow.open(map,marker);
-                      openWindow = infowindow;
+    			google.maps.event.addListener(marker, 'click', function() {
+            if (openWindow) openWindow.close();
+            infowindow.open(map,marker);
+            openWindow = infowindow;
                   });
+          google.maps.event.addListener(marker, 'dblclick', function() {
+            map.panTo(marker.position);
+            var zoom = map.getZoom();
+            console.log(zoom);
+            map.setZoom(zoom + 1); 
+           });
                 return {"marker": marker, "infowindow":infowindow};
     		});
             
