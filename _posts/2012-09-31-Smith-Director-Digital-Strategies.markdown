@@ -2,8 +2,8 @@
 layout: listing
 title: Smith Libraries Director of Digital Strategies & Services
 link: https://jobs.smith.edu/postings/3397
-postdate: 2012-09-31
-closedate: 2012-11-31
+postdate: 2012-09-30
+closedate: 2012-11-30
 published: true
 location:
     name: Smith College 

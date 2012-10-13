@@ -8,7 +8,7 @@ published: true
 location:
     name: Stanford University
     latitude: 37.4225
-    longitude: 122.1653
+    longitude: -122.1653
 institution: Stanford University
 organization: Academic Technology Specialist Program (ATS)
 position: Digital Historian
