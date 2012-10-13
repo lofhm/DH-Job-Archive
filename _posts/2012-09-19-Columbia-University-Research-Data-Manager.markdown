@@ -1,9 +1,9 @@
 ---
 layout: listing
 title: Columbia University, Research Data Manager
-link: https://jobs.columbia.edu/applicants/jsp/shared/frameset/Frameset.jsp?time=1350079527664
-postdate: 08-09-2012  
-closedate: 
+link: http://jobs.columbia.edu/applicants/Central?quickFind=131862
+postdate: 2012-08-09
+closedate: 2012-11-19
 published: true
 location:
     name: Columbia University
@@ -22,12 +22,12 @@ position: Research Data Manager
 
 ## Advertised Summary Job Description
 
-Reporting to the Director of the Center for Digital Research and Scholarship (CDRS) (http://cdrs.columbia.edu/), a division of the Columbia University Libraries/Information Services, the Research Data Manager will work closely with the Office of the Executive Vice President for Research, staff within CDRS (particularly the Digital Repository Manager and the Head of the Scholarly Communication Program), data librarians and librarian subject specialists, and others within the Columbia University community on planning, outreach, and policy development to address the data life cycle needs of researchers at Columbia University and its affiliates. S/he will also work closely with the Libraries Digital Program Division staff and the Metadata Librarian on implementation of best practices in data curation, storage, archiving, and preservation.
+Reporting to the Director of the Center for Digital Research and Scholarship (CDRS) (<http://cdrs.columbia.edu/>), a division of the Columbia University Libraries/Information Services, the Research Data Manager will work closely with the Office of the Executive Vice President for Research, staff within CDRS (particularly the Digital Repository Manager and the Head of the Scholarly Communication Program), data librarians and librarian subject specialists, and others within the Columbia University community on planning, outreach, and policy development to address the data life cycle needs of researchers at Columbia University and its affiliates. S/he will also work closely with the Libraries Digital Program Division staff and the Metadata Librarian on implementation of best practices in data curation, storage, archiving, and preservation.
 
 * Works as an active member of CDRS in a senior role, contributing to the Center's initiatives and leading specific projects.
 * Works with library divisions and appropriate campus units (Executive Vice President for Research, CUIT, Research Computing Executive Committee, etc.) to plan, implement, and evaluate sustainable services for data-intensive research across the university.
 * Works with library colleagues to acquire original research data and to provide training and outreach relating to research data.
-* Promotes the use of repositories, including Academic Commons (http://academiccommons.columbia.edu/), for data management, public access, and preservation.
+* Promotes the use of repositories, including Academic Commons (<http://academiccommons.columbia.edu/>), for data management, public access, and preservation.
 * Works with faculty, graduate and post-doctoral students, academic and administrative units, and research centers to enable them to better manage, describe, archive, preserve, and make available university research data.
 * Advises and trains faculty, graduate and post-doctoral students, and administrators in writing data management plans.
 * Participates in campus initiatives, committees, and task forces related to data management and storage and in developing policies for data management as part of the campus research community.
@@ -36,7 +36,7 @@ Reporting to the Director of the Center for Digital Research and Scholarship (CD
 
 One of the world's leading research universities, Columbia provides outstanding opportunities to work and grow in a unique intellectual community. Set in the Morningside Heights academic village, Columbia also presents the unmatched dynamism, diversity, and cultural richness of New York City.
 
-The Center for Digital Research and Scholarship (CDRS) (http://cdrs.columbia.edu/) partners with researchers and scholars to share new knowledge. Using innovative new media and digital technologies, CDRS empowers Columbia's research community with the online tools and services necessary to make the most of scholarly communication, collaboration, data-sharing, and preservation. CDRS is a part of Columbia University Libraries/Information Services, which, grounded in collections of remarkable depth and breadth, are also building extensive electronic resources and services. The Libraries are committed to collegiality, professionalism, innovation, and leadership.
+The Center for Digital Research and Scholarship (CDRS) (<http://cdrs.columbia.edu/>) partners with researchers and scholars to share new knowledge. Using innovative new media and digital technologies, CDRS empowers Columbia's research community with the online tools and services necessary to make the most of scholarly communication, collaboration, data-sharing, and preservation. CDRS is a part of Columbia University Libraries/Information Services, which, grounded in collections of remarkable depth and breadth, are also building extensive electronic resources and services. The Libraries are committed to collegiality, professionalism, innovation, and leadership.
 
 We offer a salary commensurate with qualifications and experience and excellent benefits.  
 
