@@ -3,6 +3,7 @@ layout: listing
 title:
 link: 
 postdate: 
+closedate:
 published: false
 location:
     name: 
