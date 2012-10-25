@@ -1,6 +1,6 @@
 ---
 layout: listing
-title: UVic Banting Postdoctoral Fellowship The Modernist Versions Project
+title: University of Victoria Banting Postdoctoral Fellowship The Modernist Versions Project
 link: http://web.uvic.ca/~mvp1922/banting/
 postdate: 2012-09-11
 closedate: 2012-09-13
