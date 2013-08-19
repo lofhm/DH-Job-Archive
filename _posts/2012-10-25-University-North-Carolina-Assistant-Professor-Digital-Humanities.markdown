@@ -6,8 +6,7 @@ postdate: 2012-10-22
 closedate: 
 published: true
 location:
-    latitude: 35.9011University of North Carolina
-    name: 
+    name: University of North Carolina
     latitude: 35.9011
     longitude: -79.0434
 institution: University of North Carolina
