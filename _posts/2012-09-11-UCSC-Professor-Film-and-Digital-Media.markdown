@@ -41,13 +41,13 @@ A Ph.D., M.F.A., or other terminal degree. Comparable career achievements and ex
 July 1, 2013. Position contingent upon final budgetary approval.
 
 ####TO APPLY: 
-Applications are accepted via the UCSC Academic Recruit online system, and must include 1) a letter of application outlining scholarly background as well as current and future research plans; 2) curriculum vitae; 3) three samples of publications and/or creative work. (For moving image or other creative work not presentable in PDF format, please upload PDFs with links to specific samples.) 4) three confidential letters of recommendation*. Applicants are invited to submit a statement addressing their contributions to diversity through research, teaching and/or service. All documents uploaded to the UC Recruit online system must be in PDF format.
+Applications are accepted via the UCSC Academic Recruit online system, and must include 1) a letter of application outlining scholarly background as well as current and future research plans; 2) curriculum vitae; 3) three samples of publications and/or creative work. (For moving image or other creative work not presentable in PDF format, please upload PDFs with links to specific samples.) 4) three confidential letters of recommendation. Applicants are invited to submit a statement addressing their contributions to diversity through research, teaching and/or service. All documents uploaded to the UC Recruit online system must be in PDF format.
 
-Apply at <https://recruit.ucsc.edu/apply/JPF00013> Refer to Position #JPF00013-13 in all correspondence.
+Apply at <https://recruit.ucsc.edu/apply/JPF00013> Refer to Position ID JPF00013-13 in all correspondence.
 
 For questions regarding submission of materials or general questions about the position and department, please email <fdmrecruitment@ucsc.edu>
 
-*All letters will be treated as confidential per University of California policy and California state law. For any reference letter provided via a third party (i.e., dossier service, career center), direct the author to UCSC’s confidentiality statement at <http://apo.ucsc.edu/confstm.htm>
+All letters will be treated as confidential per University of California policy and California state law. For any reference letter provided via a third party (i.e., dossier service, career center), direct the author to UCSC’s confidentiality statement at <http://apo.ucsc.edu/confstm.htm>
 
 CLOSING DATE: Review of applications will begin on **October 28, 2012.**
 To ensure full consideration, applications should be complete and letters of recommendation received by this date. The position will remain open until filled, but not later than 6/30/2013.

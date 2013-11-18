@@ -37,4 +37,4 @@ The successful candidate will be a strategic thinker, with excellent analytical,
  
 Competitive salary and generous benefits. The position is available on January 1, 2013.
  
-Please send cover letter and c.v. to Folger Shakespeare Library, Attn: Karen Lyon., 201 E. Capitol Street SE, Washington, DC 20003-1004 or e-mail to <klyon@folger.edu>. Please visit our website at <www.folger.edu. No phone calls please. EOE.
+Please send cover letter and c.v. to Folger Shakespeare Library, Attn: Karen Lyon., 201 E. Capitol Street SE, Washington, DC 20003-1004 or e-mail to klyon@folger.edu. Please visit our website at <http://www.folger.edu>. No phone calls please. EOE.

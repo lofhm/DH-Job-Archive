@@ -75,4 +75,4 @@ Contact Name-Lyndsi Prignon
 Number of Openings-1  
 University Job Title-Project Manager  
 Level-G  
-Sector*-Endowed  
+Sector-Endowed  

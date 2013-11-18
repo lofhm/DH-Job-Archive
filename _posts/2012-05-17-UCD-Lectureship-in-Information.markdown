@@ -34,10 +34,10 @@ health information, metadata & classification, information systems design and ev
 computing, user experience design, information design, digital youth, management in information 
 organizations, digital libraries,  information architecture, data science and/or related topics regarding 
 the interplay of people, information, technology and social structures; and to participate effectively in 
-the School’s educational programmes.  
+the School’s educational programmes.
 
-2010 Lecturer Scale (above the bar): €50,807 - €81,452 per annum
-2011 Lecturer Scale (above the bar): €45,728 - €73,307 per annum*
+- 2010 Lecturer Scale (above the bar): €50,807 - €81,452 per annum
+- 2011 Lecturer Scale (above the bar): €45,728 - €73,307 per annum
 
 Subject to all new entrants to public sector as of 01 January 2011
 Appointment will be made on the minimum of the scale and in accordance with the Department of 
@@ -83,6 +83,6 @@ information organizations, digital libraries,  information architecture, data sc
 * Documented evidence of teaching expertise 
 * Experience writing and submitting grant applications to external funding agencies.
 
-Conditions specific to this post (if any):  
-This is a full time position and cannot be job-shared.
-Some teaching evening hours, Saturdays and/or via distance learning may be required.
+Conditions specific to this post (if any):
+- This is a full time position and cannot be job-shared.
+- Some teaching evening hours, Saturdays and/or via distance learning may be required.
